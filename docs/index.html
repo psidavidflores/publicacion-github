@@ -1,96 +1,56 @@
 <!doctype html>
 <html lang="es">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Biblioteca digital del Kit de Terapia del Lenguaje.">
-  <title>Kit de Terapia del Lenguaje</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <div class="shell">
-    <aside class="sidebar" id="sidebar">
-      <div class="brand">
-        <div class="brand-mark" aria-hidden="true">TL</div>
-        <div>
-          <p class="eyebrow">Biblioteca digital</p>
-          <h1>Kit de Terapia<br>del Lenguaje</h1>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#06111d">
+    <meta name="description" content="Biblioteca profesional del Kit de Terapia del Lenguaje.">
+    <title>Kit de Terapia del Lenguaje | Biblioteca profesional</title>
+    <link rel="stylesheet" href="styles.css?v=1.1">
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Navegación de la biblioteca">
+        <a class="brand" href="#catalogo" aria-label="Ir al catálogo">
+          <span class="brand-mark" aria-hidden="true">TL</span>
+          <span>
+            <strong>Kit de Terapia<br>del Lenguaje</strong>
+            <small>Biblioteca profesional</small>
+          </span>
+        </a>
+
+        <div class="side-rule"></div>
+        <p class="side-label">BIBLIOTECA</p>
+        <nav class="side-nav">
+          <a class="side-link is-active" href="#catalogo" data-nav="catalogo">
+            <span class="nav-icon">⌂</span><span>Recursos por categoría</span>
+          </a>
+          <a class="side-link" href="#tests" data-nav="tests">
+            <span class="nav-icon">◎</span><span>Instrumentos agrupados</span>
+          </a>
+        </nav>
+
+        <div class="sidebar-footer">
+          <p>Material digital organizado para consulta y apoyo en la preparación de sesiones.</p>
+          <strong id="side-total">Cargando recursos…</strong>
         </div>
-      </div>
-
-      <nav class="side-nav" aria-label="Navegación principal">
-        <button class="nav-item is-active" data-mode="catalog" data-category="all">
-          <span class="nav-icon">◈</span><span>Todos los recursos</span>
-        </button>
-        <div class="nav-label">Categorías</div>
-        <div id="categoryNav"></div>
-        <div class="nav-label">Vista especial</div>
-        <button class="nav-item" data-mode="tests">
-          <span class="nav-icon">✦</span><span>Instrumentos agrupados</span>
-        </button>
-      </nav>
-
-      <div class="sidebar-footer">
-        <span class="status-dot"></span>
-        <span>Catálogo organizado</span>
-      </div>
-    </aside>
-
-    <div class="content-wrap">
-      <header class="topbar">
-        <button class="mobile-menu" id="mobileMenu" aria-label="Abrir menú">☰</button>
-        <div class="crumbs"><span>Biblioteca</span><span>/</span><strong id="currentView">Todos los recursos</strong></div>
-        <div class="topbar-badge">Kit profesional</div>
-      </header>
+      </aside>
 
       <main class="main-content">
-        <section class="hero">
-          <div class="hero-copy">
-            <p class="eyebrow accent">RECURSOS PARA INTERVENCIÓN</p>
-            <h2>Herramientas para acompañar<br><em>cada etapa del lenguaje.</em></h2>
-            <p class="hero-text">Explora instrumentos de evaluación, actividades, cuadernillos, cuentos y material de apoyo en un solo lugar.</p>
-          </div>
-          <div class="hero-decoration" aria-hidden="true">
-            <span class="orbit orbit-one"></span>
-            <span class="orbit orbit-two"></span>
-            <span class="spark spark-one">✦</span>
-            <span class="spark spark-two">✦</span>
-            <div class="speech-bubble">A<br><small>ah</small></div>
-          </div>
+        <header class="topbar">
+          <span class="topbar-note">KIT PROFESIONAL</span>
+        </header>
+        <section id="app" class="content-stage" aria-live="polite">
+          <div class="loading-state">Preparando la biblioteca…</div>
         </section>
-
-        <section class="stats" aria-label="Resumen del catálogo">
-          <div class="stat-card"><span class="stat-value" id="totalFiles">—</span><span class="stat-label">recursos</span></div>
-          <div class="stat-card"><span class="stat-value" id="totalCategories">—</span><span class="stat-label">categorías</span></div>
-          <div class="stat-card"><span class="stat-value" id="totalTests">—</span><span class="stat-label">instrumentos</span></div>
-          <div class="stat-card stat-card-accent"><span class="stat-value" id="totalSize">—</span><span class="stat-label">contenido</span></div>
-        </section>
-
-        <div class="notice is-hidden" id="setupNotice" role="status"></div>
-
-        <section class="toolbar" id="globalToolbar" aria-label="Filtros del catálogo">
-          <div class="search-box">
-            <span aria-hidden="true">⌕</span>
-            <input id="searchInput" type="search" placeholder="Buscar por nombre, categoría o instrumento…" autocomplete="off">
-          </div>
-          <div class="toolbar-actions">
-            <button class="filter-chip is-active" data-mode="catalog">Catálogo</button>
-            <button class="filter-chip" data-mode="tests">Instrumentos</button>
-          </div>
-        </section>
-
-        <section id="catalogPanel" aria-live="polite"></section>
-        <section id="testsPanel" class="is-hidden" aria-live="polite"></section>
+        <footer class="footer">
+          <span>Kit de Terapia del Lenguaje</span>
+          <span>Biblioteca digital · <span id="catalogVersion">versión 1.0</span></span>
+        </footer>
       </main>
-
-      <footer class="footer">
-        <span>Kit de Terapia del Lenguaje</span>
-        <span>Biblioteca digital · <span id="catalogVersion">versión 1.0</span></span>
-      </footer>
     </div>
-  </div>
-  <div class="mobile-overlay" id="mobileOverlay"></div>
-  <script src="site-config.js"></script>
-  <script src="app.js"></script>
-</body>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script src="site-config.js?v=1.1"></script>
+    <script src="app.js?v=1.1"></script>
+  </body>
 </html>

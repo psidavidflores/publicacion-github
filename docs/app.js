@@ -1,198 +1,269 @@
-(() => {
+(function () {
   "use strict";
 
-  const config = window.SITE_CONFIG || {};
-  const state = {
-    catalog: null,
-    groups: null,
-    mode: "catalog",
-    category: "all",
-    query: "",
-    testQuery: "",
-    selectedGroup: null
+  const app = document.getElementById("app");
+  let library = null;
+  let testGroups = [];
+
+  const categoryStyles = [
+    { accent: "#67ddd4", icon: "◌" },
+    { accent: "#c81787", icon: "♡" },
+    { accent: "#f9c234", icon: "✦" },
+    { accent: "#ef7439", icon: "✧" },
+    { accent: "#4f8cff", icon: "◈" }
+  ];
+
+  const categoryDescriptions = {
+    "instrumentos-evaluacion": "Baterías, pruebas y materiales organizados por componente del lenguaje.",
+    "material-trabajo": "Cuadernillos, fichas, cuentos y actividades para intervención.",
+    "libros-complementarios": "Material de consulta complementario para acompañar la intervención.",
+    regalos: "Material adicional de apoyo, actividades y recursos para enriquecer las sesiones."
   };
-  const $ = (selector) => document.querySelector(selector);
 
-  const escapeHtml = (value) => String(value ?? "")
-    .replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;").replaceAll("'", "&#039;");
+  function esc(value) {
+    return String(value ?? "").replace(/[&<>"']/g, function (char) {
+      return ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;" })[char];
+    });
+  }
 
-  const slugText = (value) => String(value ?? "").toLocaleLowerCase("es").normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
-
-  const formatBytes = (bytes) => {
-    if (!bytes) return "0 B";
+  function formatBytes(bytes) {
+    if (!bytes) return "0 KB";
     const units = ["B", "KB", "MB", "GB"];
-    const exponent = Math.min(Math.floor(Math.log(bytes) / Math.log(1024)), units.length - 1);
-    return `${(bytes / (1024 ** exponent)).toLocaleString("es", { maximumFractionDigits: exponent ? 1 : 0 })} ${units[exponent]}`;
-  };
+    let value = bytes;
+    let index = 0;
+    while (value >= 1024 && index < units.length - 1) { value /= 1024; index += 1; }
+    return (index === 0 ? Math.round(value) : value.toFixed(value >= 10 ? 0 : 1)) + " " + units[index];
+  }
 
-  const getBaseUrl = () => String(config.releaseBaseUrl || "").replace(/\/$/, "");
-  const downloadUrl = (assetName, localPath) => getBaseUrl() ? `${getBaseUrl()}/${encodeURIComponent(assetName)}` : (localPath || "#");
-  const canDownload = () => Boolean(getBaseUrl());
+  function segmentPath(path) {
+    return String(path || "").split("/").map(encodeURIComponent).join("/");
+  }
 
-  const downloadControl = (assetName, localPath, label = "⇩ Descargar", compact = false) => {
-    if (!canDownload()) {
-      return `<button class="download-button ${compact ? "compact" : ""}" type="button" disabled title="La publicación todavía no está conectada a un repositorio">${label}</button>`;
+  function releaseUrl(assetName, localPath) {
+    const base = String(window.SITE_CONFIG?.releaseBaseUrl || "").replace(/\/$/, "");
+    if (base && assetName) return base + "/" + encodeURIComponent(assetName);
+    return localPath ? segmentPath(localPath) : "#";
+  }
+
+  function downloadControl(assetName, localPath, label, extraClass) {
+    const base = String(window.SITE_CONFIG?.releaseBaseUrl || "").trim();
+    const classes = "download-button" + (extraClass ? " " + extraClass : "");
+    if (!base && !localPath) return '<span class="' + classes + ' is-disabled" aria-disabled="true">' + esc(label) + "</span>";
+    return '<a class="' + classes + '" download href="' + esc(releaseUrl(assetName, localPath)) + '">' + esc(label) + "</a>";
+  }
+
+  function styleFor(index) { return categoryStyles[index % categoryStyles.length]; }
+
+  function previewUrl(resource) {
+    return resource.preview ? segmentPath(resource.preview) : "";
+  }
+
+  function resourceType(resource) {
+    return resource.type || resource.extension || "Archivo";
+  }
+
+  function renderResource(resource, style) {
+    const preview = previewUrl(resource);
+    const type = resourceType(resource);
+    const media = preview
+      ? '<img loading="lazy" src="' + esc(preview) + '" alt="Vista previa de ' + esc(resource.name) + '" onerror="this.hidden=true;this.nextElementSibling.hidden=false"><span hidden class="resource-type" style="--accent:' + style.accent + '">' + esc(resource.extension || type) + "</span>"
+      : '<span class="resource-type" style="--accent:' + style.accent + '">' + esc(resource.extension || type) + "</span>";
+    const largeMark = resource.largeFile ? ' <span class="large-mark">· archivo grande</span>' : "";
+    return '<article class="resource-card">' +
+      '<div class="resource-preview" style="--preview:' + style.accent + '">' + media + "</div>" +
+      '<div class="resource-body"><h3>' + esc(resource.name) + '</h3>' +
+      '<p class="resource-meta">' + esc(type) + ' · ' + esc(resource.sizeLabel || formatBytes(resource.sizeBytes)) + largeMark + "</p>" +
+      downloadControl(resource.assetName, resource.localPath, "⇩ Descargar") +
+      "</div></article>";
+  }
+
+  function currentRoute() {
+    const hash = window.location.hash.replace(/^#/, "") || "catalogo";
+    if (hash === "tests") return { type: "tests" };
+    if (hash.startsWith("test/")) return { type: "testGroup", id: decodeURIComponent(hash.slice(5)) };
+    if (hash.startsWith("categoria/")) return { type: "category", id: decodeURIComponent(hash.slice(10)) };
+    return { type: "catalog" };
+  }
+
+  function renderShell(title, kicker, countText) {
+    return '<p class="eyebrow">' + esc(kicker) + '</p>' +
+      '<div class="page-heading"><h1>' + esc(title) + '</h1><p>' + esc(countText) + "</p></div>";
+  }
+
+  function renderCatalog() {
+    const categories = library.categories;
+    app.innerHTML = renderShell("Kit de Terapia del Lenguaje", "KIT · BIBLIOTECA PROFESIONAL", library.totalFiles + " recursos organizados") +
+      '<div class="toolbar"><label class="search-box"><span>⌕</span><input id="category-search" type="search" placeholder="Buscar categoría…" aria-label="Buscar categoría"></label><span class="count-pill">' + categories.length + " categorías disponibles</span></div>" +
+      '<div id="category-grid" class="category-grid"></div>';
+    const search = document.getElementById("category-search");
+    const grid = document.getElementById("category-grid");
+    function draw() {
+      const query = search.value.trim().toLowerCase();
+      const filtered = categories.filter(function (category) {
+        return (category.name + " " + (category.description || "")).toLowerCase().includes(query);
+      });
+      grid.innerHTML = filtered.length ? filtered.map(renderCategoryCard).join("") : '<div class="empty-state"><strong>No encontramos esa categoría</strong>Prueba con otra palabra.</div>';
     }
-    return `<a class="download-button ${compact ? "compact" : ""}" href="${escapeHtml(downloadUrl(assetName, localPath))}" download>${label}</a>`;
-  };
+    search.addEventListener("input", draw);
+    draw();
+  }
 
-  const typeIcon = (type) => ({ PDF: "PDF", Audio: "♫", Video: "▶", Imagen: "▧", Presentación: "▤", "Hoja de cálculo": "▦", "Documento Word": "W" }[type] || "•");
+  function renderCategoryCard(category) {
+    const style = styleFor(library.categories.indexOf(category));
+    const description = category.description || categoryDescriptions[category.id] || "Recursos organizados para consulta y apoyo profesional.";
+    return '<a class="category-card" style="--accent:' + style.accent + '" href="#categoria/' + encodeURIComponent(category.id) + '">' +
+      '<div class="category-top"><span>COLECCIÓN</span><span>' + category.count + " archivos</span></div>" +
+      '<div class="category-icon" aria-hidden="true">' + style.icon + "</div>" +
+      '<h2>' + esc(category.name) + '</h2><p>' + esc(description) + '</p>' +
+      '<div class="category-action"><span>Explorar recursos →</span><span aria-hidden="true">+</span></div></a>';
+  }
 
-  const matchesQuery = (resource, query) => {
-    const normalized = slugText(query);
-    if (!normalized) return true;
-    const haystack = slugText([resource.name, resource.categoryName, resource.section, resource.component, resource.groupId].join(" "));
-    return haystack.includes(normalized);
-  };
+  function categoryResources(categoryId) {
+    return library.resources.filter(function (resource) { return resource.categoryId === categoryId; });
+  }
 
-  const resourceMatches = (resource) => matchesQuery(resource, state.query);
-  const categoryMatches = (resource) => state.category === "all" || resource.categoryId === state.category;
-
-  const previewMarkup = (resource) => {
-    const fallback = `<div class="preview-fallback-content"><span class="preview-type-icon">${escapeHtml(typeIcon(resource.type))}</span><span>${escapeHtml(resource.type)}</span></div>`;
-    if (!resource.preview) {
-      return `<div class="preview-frame preview-fallback preview-${escapeHtml(resource.type.toLowerCase().replace(/\s+/g, "-"))}">${fallback}</div>`;
+  function renderCategory(category) {
+    const style = styleFor(library.categories.indexOf(category));
+    const resources = categoryResources(category.id);
+    const description = category.description || categoryDescriptions[category.id] || "Recursos organizados para consulta y apoyo profesional.";
+    app.innerHTML = '<a class="back-link" href="#catalogo">← Volver al catálogo</a>' +
+      '<div class="category-summary"><div><p class="eyebrow">COLECCIÓN</p><h1>' + esc(category.name) + '</h1></div><p>' + resources.length + " archivos</p></div>" +
+      '<p class="group-description">' + esc(description) + "</p>" +
+      '<div class="toolbar"><label class="search-box"><span>⌕</span><input id="resource-search" type="search" placeholder="Buscar en esta sección…" aria-label="Buscar en esta sección"></label>' +
+      downloadControl(category.packageAsset, "", "⇩ Descargar sección", "download-section") + "</div>" +
+      '<div id="resource-grid" class="resource-grid"></div>';
+    const search = document.getElementById("resource-search");
+    const grid = document.getElementById("resource-grid");
+    function draw() {
+      const query = search.value.trim().toLowerCase();
+      const filtered = resources.filter(function (resource) { return resource.name.toLowerCase().includes(query); });
+      grid.innerHTML = filtered.length ? filtered.map(function (resource) { return renderResource(resource, style); }).join("") : '<div class="empty-state"><strong>No encontramos ese archivo</strong>Prueba con otra palabra.</div>';
     }
-    return `<div class="preview-frame"><img src="${escapeHtml(resource.preview)}" alt="Vista previa de ${escapeHtml(resource.name)}" loading="lazy" onerror="this.closest('.preview-frame').classList.add('preview-fallback'); this.remove()">${fallback}</div>`;
-  };
+    search.addEventListener("input", draw);
+    draw();
+  }
 
-  const resourceCard = (resource) => {
-    const tag = resource.groupId ? "Instrumento agrupado" : resource.categoryName;
-    return `<article class="resource-card">
-      ${previewMarkup(resource)}
-      <div class="resource-body">
-        <div class="resource-topline"><span class="file-type">${escapeHtml(resource.extension)}</span><span class="resource-tag">${escapeHtml(tag)}</span></div>
-        <h4>${escapeHtml(resource.name)}</h4>
-        <p class="resource-section">${escapeHtml(resource.section)}</p>
-        <div class="resource-meta"><span>${escapeHtml(resource.type)} · ${escapeHtml(resource.sizeLabel)}</span>${resource.largeFile ? '<span class="large-mark">archivo grande</span>' : ""}</div>
-      </div>
-      <div class="resource-action">${downloadControl(resource.assetName, resource.localPath)}</div>
-    </article>`;
-  };
+  function testCategory() {
+    return library.categories.find(function (item) { return item.id === "instrumentos-evaluacion"; });
+  }
 
-  const categoryBlock = (category, resources) => {
-    const categoryResources = resources.filter((resource) => resource.categoryId === category.id);
-    if (!categoryResources.length) return "";
-    return `<section class="category-block" id="category-${escapeHtml(category.id)}">
-      <div class="section-heading">
-        <div><p class="eyebrow accent">COLECCIÓN</p><h3>${escapeHtml(category.name)}</h3><p>${escapeHtml(category.description)}</p></div>
-        <div class="section-heading-action">${downloadControl(category.packageAsset, "", "⇩ Descargar sección")}</div>
-      </div>
-      <div class="section-summary"><span>${categoryResources.length} recursos</span><span>·</span><span>${formatBytes(categoryResources.reduce((sum, resource) => sum + resource.sizeBytes, 0))}</span></div>
-      <div class="resource-grid">${categoryResources.map(resourceCard).join("")}</div>
-    </section>`;
-  };
+  function resourcesForGroup(group) {
+    const ids = new Set(group.resourceIds || []);
+    return library.resources.filter(function (resource) { return ids.has(resource.id); });
+  }
 
-  const renderNav = () => {
-    $("#categoryNav").innerHTML = state.catalog.categories.map((category) => `<button class="nav-item ${state.mode === "catalog" && state.category === category.id ? "is-active" : ""}" data-mode="catalog" data-category="${escapeHtml(category.id)}"><span class="nav-icon">◇</span><span>${escapeHtml(category.name)}</span><small>${category.count}</small></button>`).join("");
-    document.querySelectorAll("[data-mode]").forEach((button) => button.classList.toggle("is-active", button.dataset.mode === state.mode && (state.mode === "tests" || (button.dataset.category || "all") === state.category)));
-  };
-
-  const renderCatalog = () => {
-    const visible = state.catalog.resources.filter(categoryMatches).filter(resourceMatches);
-    if (!visible.length) {
-      $("#catalogPanel").innerHTML = '<div class="empty-state large-empty"><span>⌕</span><h3>No encontramos recursos</h3><p>Prueba con otro término o cambia la categoría seleccionada.</p></div>';
-      return;
-    }
-    const categories = state.category === "all" ? state.catalog.categories : state.catalog.categories.filter((category) => category.id === state.category);
-    $("#catalogPanel").innerHTML = categories.map((category) => categoryBlock(category, visible)).join("");
-  };
-
-  const testOverviewCard = (group) => `<article class="test-overview-card">
-    <div class="test-overview-top"><span class="test-mark">✦</span><span class="test-component">${escapeHtml(group.component)}</span><span class="test-count">${group.count} materiales</span></div>
-    <h4>${escapeHtml(group.name)}</h4>
-    <p>Materiales relacionados agrupados en un solo instrumento para facilitar la consulta y descarga.</p>
-    <div class="test-overview-actions"><button class="outline-button" type="button" data-select-group="${escapeHtml(group.id)}">Ver materiales</button>${downloadControl(group.packageAsset, "", "⇩ Descargar test", true)}</div>
-  </article>`;
-
-  const renderSelectedTest = (group, resourceMap) => {
-    const allResources = (group.resourceIds || []).map((id) => resourceMap.get(id)).filter(Boolean);
-    const visible = allResources.filter((resource) => matchesQuery(resource, state.testQuery));
-    return `<div class="test-detail">
-      <button class="back-button" type="button" data-back-tests>← Instrumentos agrupados</button>
-      <div class="test-detail-heading"><div><p class="eyebrow accent">INSTRUMENTO AGRUPADO</p><h3>${escapeHtml(group.name)}</h3><p>${escapeHtml(group.component)} · ${group.count} materiales · ${formatBytes(group.sizeBytes)}</p></div><div>${downloadControl(group.packageAsset, "", "⇩ Descargar test completo")}</div></div>
-      <p class="test-detail-description">Materiales relacionados organizados en un solo instrumento: manuales, cuadernillos, protocolos, hojas de registro y archivos complementarios.</p>
-      <div class="test-local-toolbar"><div class="search-box"><span aria-hidden="true">⌕</span><input id="testSearch" type="search" value="${escapeHtml(state.testQuery)}" placeholder="Buscar en este test…" autocomplete="off"></div><span class="test-result-count">${visible.length} de ${allResources.length} materiales</span></div>
-      <div class="test-materials-grid">${visible.length ? visible.map(resourceCard).join("") : '<div class="empty-state large-empty"><span>⌕</span><h3>No encontramos materiales</h3><p>Prueba con otro término de búsqueda.</p></div>'}</div>
-    </div>`;
-  };
-
-  const renderTests = () => {
-    const resourceMap = new Map(state.catalog.resources.map((resource) => [resource.id, resource]));
-    const selected = state.groups.groups.find((group) => group.id === state.selectedGroup);
-    if (selected) {
-      $("#testsPanel").innerHTML = renderSelectedTest(selected, resourceMap);
-      return;
-    }
-    const groups = state.groups.groups.filter((group) => {
-      const query = slugText(state.query);
-      return !query || slugText(`${group.name} ${group.component}`).includes(query);
+  function groupFileTypes(resources) {
+    const types = [];
+    resources.forEach(function (resource) {
+      const type = resourceType(resource);
+      if (!types.includes(type)) types.push(type);
     });
-    $("#testsPanel").innerHTML = `<div class="section-heading tests-heading"><div><p class="eyebrow accent">ORGANIZADOS POR INSTRUMENTO</p><h3>Instrumentos agrupados</h3><p>Consulta cada instrumento con sus manuales, cuadernillos, hojas y materiales relacionados.</p></div></div><div class="test-overview-grid">${groups.length ? groups.map(testOverviewCard).join("") : '<div class="empty-state large-empty"><span>⌕</span><h3>No encontramos instrumentos</h3><p>Prueba con otro término de búsqueda.</p></div>'}</div>`;
-  };
+    return types.slice(0, 5).map(function (type) { return '<span class="format-pill">' + esc(type) + "</span>"; }).join("");
+  }
 
-  const render = () => {
-    const isTests = state.mode === "tests";
-    const isSelectedTest = isTests && Boolean(state.selectedGroup);
-    $("#catalogPanel").classList.toggle("is-hidden", isTests);
-    $("#testsPanel").classList.toggle("is-hidden", !isTests);
-    $("#globalToolbar").classList.toggle("is-hidden", isSelectedTest);
-    const selectedGroup = state.groups?.groups.find((group) => group.id === state.selectedGroup);
-    $("#currentView").textContent = isSelectedTest ? selectedGroup?.name || "Instrumento" : isTests ? "Instrumentos agrupados" : state.category === "all" ? "Todos los recursos" : (state.catalog.categories.find((category) => category.id === state.category)?.name || "Catálogo");
-    document.querySelectorAll(".filter-chip").forEach((button) => button.classList.toggle("is-active", button.dataset.mode === state.mode));
-    renderNav();
-    isTests ? renderTests() : renderCatalog();
-  };
+  function groupDescription(group) {
+    return group.description || "Manuales, cuadernillos, protocolos, hojas de registro y materiales relacionados organizados en un solo instrumento.";
+  }
 
-  const showSetupState = () => {
-    const notice = $("#setupNotice");
-    if (canDownload()) { notice.classList.add("is-hidden"); return; }
-    notice.classList.remove("is-hidden");
-    notice.innerHTML = `<strong>Catálogo listo para publicar.</strong> Las descargas se activarán al conectar la página con el repositorio de distribución.`;
-  };
+  function renderTestGroupCard(group, index) {
+    const style = styleFor(index);
+    const resources = resourcesForGroup(group);
+    return '<a class="category-card test-group-card" style="--accent:' + style.accent + '" href="#test/' + encodeURIComponent(group.id) + '">' +
+      '<div class="category-top"><span>INSTRUMENTO</span><span>' + resources.length + " archivos</span></div>" +
+      '<div class="category-icon" aria-hidden="true">' + style.icon + "</div>" +
+      '<h2>' + esc(group.name) + '</h2><p>' + esc(groupDescription(group)) + '</p>' +
+      '<div class="group-formats">' + groupFileTypes(resources) + "</div>" +
+      '<div class="category-action"><span>Ver materiales →</span><span aria-hidden="true">+</span></div></a>';
+  }
 
-  const bindEvents = () => {
-    document.addEventListener("click", (event) => {
-      const modeButton = event.target.closest("[data-mode]");
-      if (modeButton) {
-        state.mode = modeButton.dataset.mode;
-        state.category = modeButton.dataset.category || "all";
-        state.selectedGroup = null;
-        state.testQuery = "";
-        render();
-        if (window.innerWidth < 900) $("#sidebar").classList.remove("is-open");
-        return;
-      }
-      const groupButton = event.target.closest("[data-select-group]");
-      if (groupButton) { state.mode = "tests"; state.selectedGroup = groupButton.dataset.selectGroup; state.testQuery = ""; render(); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
-      if (event.target.closest("[data-back-tests]")) { state.selectedGroup = null; state.testQuery = ""; render(); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
-      if (event.target.closest("#mobileMenu")) { $("#sidebar").classList.add("is-open"); $("#mobileOverlay").classList.add("is-visible"); }
-      if (event.target.closest("#mobileOverlay")) { $("#sidebar").classList.remove("is-open"); $("#mobileOverlay").classList.remove("is-visible"); }
-    });
-    $("#searchInput").addEventListener("input", (event) => { state.query = event.target.value; render(); });
-    document.addEventListener("input", (event) => { if (event.target.id === "testSearch") { state.testQuery = event.target.value; render(); const input = $("#testSearch"); if (input) { input.focus(); input.setSelectionRange(state.testQuery.length, state.testQuery.length); } } });
-  };
-
-  const boot = async () => {
-    try {
-      const [catalogResponse, groupsResponse] = await Promise.all([fetch("resources.json"), fetch("test-groups.json")]);
-      if (!catalogResponse.ok || !groupsResponse.ok) throw new Error("No se pudo cargar el catálogo");
-      state.catalog = await catalogResponse.json();
-      state.groups = await groupsResponse.json();
-      $("#totalFiles").textContent = state.catalog.totalFiles.toLocaleString("es");
-      $("#totalCategories").textContent = state.catalog.categories.length;
-      $("#totalTests").textContent = state.groups.totalGroups;
-      $("#totalSize").textContent = formatBytes(state.catalog.totalBytes);
-      $("#catalogVersion").textContent = config.versionLabel || `versión ${state.catalog.version}`;
-      showSetupState();
-      bindEvents();
-      render();
-    } catch (error) {
-      $("#catalogPanel").innerHTML = `<div class="empty-state large-empty"><span>!</span><h3>No se pudo cargar el catálogo</h3><p>${escapeHtml(error.message)}</p></div>`;
+  function renderTestGroups() {
+    const category = testCategory();
+    const style = styleFor(library.categories.indexOf(category));
+    app.innerHTML = '<a class="back-link" href="#catalogo">← Volver al catálogo</a>' +
+      '<div class="category-summary"><div><p class="eyebrow">INSTRUMENTOS DE EVALUACIÓN</p><h1>Instrumentos agrupados</h1></div><p>' + testGroups.length + " instrumentos · " + category.count + " archivos</p></div>" +
+      '<p class="group-description">Cada instrumento reúne sus manuales, cuadernillos, protocolos, hojas y archivos complementarios.</p>' +
+      '<div class="toolbar"><label class="search-box"><span>⌕</span><input id="test-search" type="search" placeholder="Buscar instrumento…" aria-label="Buscar instrumento"></label>' +
+      downloadControl(category.packageAsset, "", "⇩ Descargar todos los instrumentos", "download-section") + "</div>" +
+      '<div id="test-grid" class="category-grid"></div>';
+    const search = document.getElementById("test-search");
+    const grid = document.getElementById("test-grid");
+    function draw() {
+      const query = search.value.trim().toLowerCase();
+      const filtered = testGroups.filter(function (group) {
+        const resources = resourcesForGroup(group);
+        const names = resources.map(function (resource) { return resource.name; }).join(" ");
+        return (group.name + " " + group.component + " " + groupDescription(group) + " " + names).toLowerCase().includes(query);
+      });
+      grid.innerHTML = filtered.length ? filtered.map(function (group, index) { return renderTestGroupCard(group, index); }).join("") : '<div class="empty-state"><strong>No encontramos ese instrumento</strong>Prueba con otra palabra.</div>';
     }
-  };
+    search.addEventListener("input", draw);
+    draw();
+  }
 
-  boot();
-})();
+  function renderTestGroup(group) {
+    const category = testCategory();
+    const index = testGroups.indexOf(group);
+    const style = styleFor(index);
+    const resources = resourcesForGroup(group);
+    app.innerHTML = '<a class="back-link" href="#tests">← Volver a instrumentos</a>' +
+      '<div class="category-summary"><div><p class="eyebrow">INSTRUMENTO DE EVALUACIÓN</p><h1>' + esc(group.name) + '</h1></div><p>' + resources.length + " archivos</p></div>" +
+      '<p class="group-description">' + esc(groupDescription(group)) + "</p>" +
+      '<div class="toolbar"><label class="search-box"><span>⌕</span><input id="resource-search" type="search" placeholder="Buscar en este instrumento…" aria-label="Buscar en este instrumento"></label>' +
+      downloadControl(group.packageAsset, "", "⇩ Descargar instrumento completo", "download-section") + "</div>" +
+      '<div id="resource-grid" class="resource-grid"></div>';
+    const search = document.getElementById("resource-search");
+    const grid = document.getElementById("resource-grid");
+    function draw() {
+      const query = search.value.trim().toLowerCase();
+      const filtered = resources.filter(function (resource) { return resource.name.toLowerCase().includes(query); });
+      grid.innerHTML = filtered.length ? filtered.map(function (resource) { return renderResource(resource, style); }).join("") : '<div class="empty-state"><strong>No encontramos ese archivo</strong>Prueba con otra palabra.</div>';
+    }
+    search.addEventListener("input", draw);
+    draw();
+  }
+
+  function updateNav(route) {
+    const isTests = route.type === "tests" || route.type === "testGroup";
+    document.querySelectorAll("[data-nav]").forEach(function (link) {
+      link.classList.toggle("is-active", (isTests && link.dataset.nav === "tests") || (!isTests && link.dataset.nav === "catalogo"));
+    });
+  }
+
+  function render() {
+    if (!library) return;
+    const route = currentRoute();
+    updateNav(route);
+    if (route.type === "tests") return renderTestGroups();
+    if (route.type === "testGroup") {
+      const group = testGroups.find(function (item) { return item.id === route.id; });
+      return group ? renderTestGroup(group) : renderTestGroups();
+    }
+    if (route.type === "category") {
+      const category = library.categories.find(function (item) { return item.id === route.id; });
+      return category ? renderCategory(category) : renderCatalog();
+    }
+    renderCatalog();
+  }
+
+  window.addEventListener("hashchange", function () {
+    window.scrollTo(0, 0);
+    render();
+  });
+
+  Promise.all([
+    fetch("resources.json").then(function (response) { if (!response.ok) throw new Error("resources"); return response.json(); }),
+    fetch("test-groups.json").then(function (response) { if (!response.ok) throw new Error("test-groups"); return response.json(); })
+  ]).then(function (results) {
+    library = results[0];
+    const groupsData = results[1];
+    testGroups = groupsData.groups.map(function (group, index) {
+      const resources = resourcesForGroup(group);
+      return Object.assign({}, group, { index: index, resources: resources });
+    }).filter(function (group) { return group.resources.length; });
+    document.getElementById("side-total").textContent = library.totalFiles + " recursos disponibles.";
+    document.getElementById("catalogVersion").textContent = "versión " + library.version;
+    render();
+  }).catch(function () {
+    app.innerHTML = '<div class="empty-state"><strong>No se pudo cargar la biblioteca</strong>Revisa que los datos estén publicados junto a esta página.</div>';
+  });
+}());
