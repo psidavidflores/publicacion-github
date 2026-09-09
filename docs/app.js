@@ -2,7 +2,15 @@
   "use strict";
 
   const config = window.SITE_CONFIG || {};
-  const state = { catalog: null, groups: null, mode: "catalog", category: "all", query: "" };
+  const state = {
+    catalog: null,
+    groups: null,
+    mode: "catalog",
+    category: "all",
+    query: "",
+    testQuery: "",
+    selectedGroup: null
+  };
   const $ = (selector) => document.querySelector(selector);
 
   const escapeHtml = (value) => String(value ?? "")
@@ -20,15 +28,10 @@
   };
 
   const getBaseUrl = () => String(config.releaseBaseUrl || "").replace(/\/$/, "");
-
-  const downloadUrl = (assetName, localPath) => {
-    const base = getBaseUrl();
-    return base ? `${base}/${encodeURIComponent(assetName)}` : (localPath || "#");
-  };
-
+  const downloadUrl = (assetName, localPath) => getBaseUrl() ? `${getBaseUrl()}/${encodeURIComponent(assetName)}` : (localPath || "#");
   const canDownload = () => Boolean(getBaseUrl());
 
-  const downloadControl = (assetName, localPath, label = "Descargar", compact = false) => {
+  const downloadControl = (assetName, localPath, label = "⇩ Descargar", compact = false) => {
     if (!canDownload()) {
       return `<button class="download-button ${compact ? "compact" : ""}" type="button" disabled title="La publicación todavía no está conectada a un repositorio">${label}</button>`;
     }
@@ -37,26 +40,35 @@
 
   const typeIcon = (type) => ({ PDF: "PDF", Audio: "♫", Video: "▶", Imagen: "▧", Presentación: "▤", "Hoja de cálculo": "▦", "Documento Word": "W" }[type] || "•");
 
-  const resourceMatches = (resource) => {
-    const query = slugText(state.query);
-    if (!query) return true;
+  const matchesQuery = (resource, query) => {
+    const normalized = slugText(query);
+    if (!normalized) return true;
     const haystack = slugText([resource.name, resource.categoryName, resource.section, resource.component, resource.groupId].join(" "));
-    return haystack.includes(query);
+    return haystack.includes(normalized);
   };
 
+  const resourceMatches = (resource) => matchesQuery(resource, state.query);
   const categoryMatches = (resource) => state.category === "all" || resource.categoryId === state.category;
 
+  const previewMarkup = (resource) => {
+    const fallback = `<div class="preview-fallback-content"><span class="preview-type-icon">${escapeHtml(typeIcon(resource.type))}</span><span>${escapeHtml(resource.type)}</span></div>`;
+    if (!resource.preview) {
+      return `<div class="preview-frame preview-fallback preview-${escapeHtml(resource.type.toLowerCase().replace(/\s+/g, "-"))}">${fallback}</div>`;
+    }
+    return `<div class="preview-frame"><img src="${escapeHtml(resource.preview)}" alt="Vista previa de ${escapeHtml(resource.name)}" loading="lazy" onerror="this.closest('.preview-frame').classList.add('preview-fallback'); this.remove()">${fallback}</div>`;
+  };
+
   const resourceCard = (resource) => {
-    const tag = resource.groupId ? "Instrumento" : resource.categoryName;
+    const tag = resource.groupId ? "Instrumento agrupado" : resource.categoryName;
     return `<article class="resource-card">
-      <div class="file-icon file-${escapeHtml(resource.type.toLowerCase().replace(/\s+/g, "-"))}">${escapeHtml(typeIcon(resource.type))}</div>
+      ${previewMarkup(resource)}
       <div class="resource-body">
         <div class="resource-topline"><span class="file-type">${escapeHtml(resource.extension)}</span><span class="resource-tag">${escapeHtml(tag)}</span></div>
         <h4>${escapeHtml(resource.name)}</h4>
-        <p>${escapeHtml(resource.section)}</p>
-        <div class="resource-meta"><span>${escapeHtml(resource.sizeLabel)}</span>${resource.largeFile ? '<span class="large-mark">archivo grande</span>' : ""}</div>
+        <p class="resource-section">${escapeHtml(resource.section)}</p>
+        <div class="resource-meta"><span>${escapeHtml(resource.type)} · ${escapeHtml(resource.sizeLabel)}</span>${resource.largeFile ? '<span class="large-mark">archivo grande</span>' : ""}</div>
       </div>
-      <div class="resource-action">${downloadControl(resource.assetName, resource.localPath, "Descargar", true)}</div>
+      <div class="resource-action">${downloadControl(resource.assetName, resource.localPath)}</div>
     </article>`;
   };
 
@@ -66,21 +78,11 @@
     return `<section class="category-block" id="category-${escapeHtml(category.id)}">
       <div class="section-heading">
         <div><p class="eyebrow accent">COLECCIÓN</p><h3>${escapeHtml(category.name)}</h3><p>${escapeHtml(category.description)}</p></div>
-        <div class="section-heading-action">${downloadControl(category.packageAsset, "", "Descargar sección")}</div>
+        <div class="section-heading-action">${downloadControl(category.packageAsset, "", "⇩ Descargar sección")}</div>
       </div>
       <div class="section-summary"><span>${categoryResources.length} recursos</span><span>·</span><span>${formatBytes(categoryResources.reduce((sum, resource) => sum + resource.sizeBytes, 0))}</span></div>
       <div class="resource-grid">${categoryResources.map(resourceCard).join("")}</div>
     </section>`;
-  };
-
-  const groupCard = (group, resourceMap) => {
-    const resources = (group.resourceIds || []).map((id) => resourceMap.get(id)).filter(Boolean).filter(resourceMatches);
-    if (state.query && !resources.length && !slugText(`${group.name} ${group.component}`).includes(slugText(state.query))) return "";
-    const allResources = (group.resourceIds || []).map((id) => resourceMap.get(id)).filter(Boolean);
-    return `<details class="test-card" ${state.query ? "open" : ""}>
-      <summary><span class="test-mark">✦</span><span class="test-copy"><span class="test-component">${escapeHtml(group.component)}</span><strong>${escapeHtml(group.name)}</strong><small>${allResources.length} materiales · ${formatBytes(group.sizeBytes)}</small></span><span class="test-summary-action">${downloadControl(group.packageAsset, "", "Descargar test", true)}<span class="chevron">⌄</span></span></summary>
-      <div class="test-materials">${resources.length ? resources.map(resourceCard).join("") : '<p class="empty-state">No hay coincidencias dentro de este instrumento.</p>'}</div>
-    </details>`;
   };
 
   const renderNav = () => {
@@ -98,17 +100,47 @@
     $("#catalogPanel").innerHTML = categories.map((category) => categoryBlock(category, visible)).join("");
   };
 
+  const testOverviewCard = (group) => `<article class="test-overview-card">
+    <div class="test-overview-top"><span class="test-mark">✦</span><span class="test-component">${escapeHtml(group.component)}</span><span class="test-count">${group.count} materiales</span></div>
+    <h4>${escapeHtml(group.name)}</h4>
+    <p>Materiales relacionados agrupados en un solo instrumento para facilitar la consulta y descarga.</p>
+    <div class="test-overview-actions"><button class="outline-button" type="button" data-select-group="${escapeHtml(group.id)}">Ver materiales</button>${downloadControl(group.packageAsset, "", "⇩ Descargar test", true)}</div>
+  </article>`;
+
+  const renderSelectedTest = (group, resourceMap) => {
+    const allResources = (group.resourceIds || []).map((id) => resourceMap.get(id)).filter(Boolean);
+    const visible = allResources.filter((resource) => matchesQuery(resource, state.testQuery));
+    return `<div class="test-detail">
+      <button class="back-button" type="button" data-back-tests>← Instrumentos agrupados</button>
+      <div class="test-detail-heading"><div><p class="eyebrow accent">INSTRUMENTO AGRUPADO</p><h3>${escapeHtml(group.name)}</h3><p>${escapeHtml(group.component)} · ${group.count} materiales · ${formatBytes(group.sizeBytes)}</p></div><div>${downloadControl(group.packageAsset, "", "⇩ Descargar test completo")}</div></div>
+      <p class="test-detail-description">Materiales relacionados organizados en un solo instrumento: manuales, cuadernillos, protocolos, hojas de registro y archivos complementarios.</p>
+      <div class="test-local-toolbar"><div class="search-box"><span aria-hidden="true">⌕</span><input id="testSearch" type="search" value="${escapeHtml(state.testQuery)}" placeholder="Buscar en este test…" autocomplete="off"></div><span class="test-result-count">${visible.length} de ${allResources.length} materiales</span></div>
+      <div class="test-materials-grid">${visible.length ? visible.map(resourceCard).join("") : '<div class="empty-state large-empty"><span>⌕</span><h3>No encontramos materiales</h3><p>Prueba con otro término de búsqueda.</p></div>'}</div>
+    </div>`;
+  };
+
   const renderTests = () => {
     const resourceMap = new Map(state.catalog.resources.map((resource) => [resource.id, resource]));
-    const cards = state.groups.groups.map((group) => groupCard(group, resourceMap)).filter(Boolean).join("");
-    $("#testsPanel").innerHTML = `<div class="section-heading tests-heading"><div><p class="eyebrow accent">ORGANIZADOS POR INSTRUMENTO</p><h3>Instrumentos agrupados</h3><p>Consulta cada instrumento con sus manuales, cuadernillos, hojas y materiales relacionados.</p></div></div><div class="tests-list">${cards || '<div class="empty-state large-empty"><span>⌕</span><h3>No encontramos instrumentos</h3><p>Prueba con otro término de búsqueda.</p></div>'}</div>`;
+    const selected = state.groups.groups.find((group) => group.id === state.selectedGroup);
+    if (selected) {
+      $("#testsPanel").innerHTML = renderSelectedTest(selected, resourceMap);
+      return;
+    }
+    const groups = state.groups.groups.filter((group) => {
+      const query = slugText(state.query);
+      return !query || slugText(`${group.name} ${group.component}`).includes(query);
+    });
+    $("#testsPanel").innerHTML = `<div class="section-heading tests-heading"><div><p class="eyebrow accent">ORGANIZADOS POR INSTRUMENTO</p><h3>Instrumentos agrupados</h3><p>Consulta cada instrumento con sus manuales, cuadernillos, hojas y materiales relacionados.</p></div></div><div class="test-overview-grid">${groups.length ? groups.map(testOverviewCard).join("") : '<div class="empty-state large-empty"><span>⌕</span><h3>No encontramos instrumentos</h3><p>Prueba con otro término de búsqueda.</p></div>'}</div>`;
   };
 
   const render = () => {
     const isTests = state.mode === "tests";
+    const isSelectedTest = isTests && Boolean(state.selectedGroup);
     $("#catalogPanel").classList.toggle("is-hidden", isTests);
     $("#testsPanel").classList.toggle("is-hidden", !isTests);
-    $("#currentView").textContent = isTests ? "Instrumentos agrupados" : state.category === "all" ? "Todos los recursos" : (state.catalog.categories.find((category) => category.id === state.category)?.name || "Catálogo");
+    $("#globalToolbar").classList.toggle("is-hidden", isSelectedTest);
+    const selectedGroup = state.groups?.groups.find((group) => group.id === state.selectedGroup);
+    $("#currentView").textContent = isSelectedTest ? selectedGroup?.name || "Instrumento" : isTests ? "Instrumentos agrupados" : state.category === "all" ? "Todos los recursos" : (state.catalog.categories.find((category) => category.id === state.category)?.name || "Catálogo");
     document.querySelectorAll(".filter-chip").forEach((button) => button.classList.toggle("is-active", button.dataset.mode === state.mode));
     renderNav();
     isTests ? renderTests() : renderCatalog();
@@ -116,27 +148,31 @@
 
   const showSetupState = () => {
     const notice = $("#setupNotice");
-    if (canDownload()) {
-      notice.classList.add("is-hidden");
-      return;
-    }
+    if (canDownload()) { notice.classList.add("is-hidden"); return; }
     notice.classList.remove("is-hidden");
     notice.innerHTML = `<strong>Catálogo listo para publicar.</strong> Las descargas se activarán al conectar la página con el repositorio de distribución.`;
   };
 
   const bindEvents = () => {
     document.addEventListener("click", (event) => {
-      const button = event.target.closest("[data-mode]");
-      if (button) {
-        state.mode = button.dataset.mode;
-        state.category = button.dataset.category || "all";
+      const modeButton = event.target.closest("[data-mode]");
+      if (modeButton) {
+        state.mode = modeButton.dataset.mode;
+        state.category = modeButton.dataset.category || "all";
+        state.selectedGroup = null;
+        state.testQuery = "";
         render();
         if (window.innerWidth < 900) $("#sidebar").classList.remove("is-open");
+        return;
       }
+      const groupButton = event.target.closest("[data-select-group]");
+      if (groupButton) { state.mode = "tests"; state.selectedGroup = groupButton.dataset.selectGroup; state.testQuery = ""; render(); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
+      if (event.target.closest("[data-back-tests]")) { state.selectedGroup = null; state.testQuery = ""; render(); window.scrollTo({ top: 0, behavior: "smooth" }); return; }
       if (event.target.closest("#mobileMenu")) { $("#sidebar").classList.add("is-open"); $("#mobileOverlay").classList.add("is-visible"); }
       if (event.target.closest("#mobileOverlay")) { $("#sidebar").classList.remove("is-open"); $("#mobileOverlay").classList.remove("is-visible"); }
     });
     $("#searchInput").addEventListener("input", (event) => { state.query = event.target.value; render(); });
+    document.addEventListener("input", (event) => { if (event.target.id === "testSearch") { state.testQuery = event.target.value; render(); const input = $("#testSearch"); if (input) { input.focus(); input.setSelectionRange(state.testQuery.length, state.testQuery.length); } } });
   };
 
   const boot = async () => {
