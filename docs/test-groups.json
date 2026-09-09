@@ -14,7 +14,7 @@
         "r-002-laminas-laura-bosch",
         "r-003-manual-laura-bosch"
       ],
-      "packageAsset": "tl-test-componente-fonetico-fonologico-fon-evaluacion-fonologica-del-habla-infantil.zip"
+      "packageAsset": "tl-test-01-fon-evaluaci-n-fonol-gica-del-habla-infantil.zip"
     },
     {
       "id": "test-componente-fonetico-fonologico-peco-prueba-para-la-evaluacion-del-conocimiento-fonologico",
@@ -26,7 +26,7 @@
         "r-004-manual",
         "r-005-prueba-y-hoja-de-registro"
       ],
-      "packageAsset": "tl-test-componente-fonetico-fonologico-peco-prueba-para-la-evaluacion-del-conocimiento-fonologico.zip"
+      "packageAsset": "tl-test-02-peco-prueba-para-la-evaluaci-n-del-conocimiento.zip"
     },
     {
       "id": "test-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino",
@@ -41,7 +41,7 @@
         "r-009-software",
         "r-010-tsa-desarrollo-de-la-morfosintaxis-en-el-nino"
       ],
-      "packageAsset": "tl-test-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino.zip"
+      "packageAsset": "tl-test-03-tsa-el-desarrollo-de-la-morfosintaxis-en-el-ni-o.zip"
     },
     {
       "id": "test-componente-pragmatico-itpa-aptitudes-psicolinguisticas",
@@ -62,7 +62,7 @@
         "r-020-manual-itpa",
         "r-021-plantillas"
       ],
-      "packageAsset": "tl-test-componente-pragmatico-itpa-aptitudes-psicolinguisticas.zip"
+      "packageAsset": "tl-test-04-itpa-aptitudes-psicoling-sticas.zip"
     },
     {
       "id": "test-componente-pragmatico-itpa-3-habilidades-psicolinguisticas",
@@ -96,7 +96,7 @@
         "r-044-cuadernillo-de-respuestas-del-alumno",
         "r-045-manual-itpa-3"
       ],
-      "packageAsset": "tl-test-componente-pragmatico-itpa-3-habilidades-psicolinguisticas.zip"
+      "packageAsset": "tl-test-05-itpa-3-habilidades-psicoling-sticas.zip"
     },
     {
       "id": "test-componente-pragmatico-plon-r-prueba-del-lenguaje-oral-narrativa",
@@ -109,7 +109,7 @@
         "r-047-plon-r-hojas-de-respuestas-compressed",
         "r-048-plon-r-manual-compressed"
       ],
-      "packageAsset": "tl-test-componente-pragmatico-plon-r-prueba-del-lenguaje-oral-narrativa.zip"
+      "packageAsset": "tl-test-06-plon-r-prueba-del-lenguaje-oral-narrativa.zip"
     },
     {
       "id": "test-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m",
@@ -124,7 +124,7 @@
         "r-052-hoja-de-registro-de-la-clase-2-test-boehm-3",
         "r-053-manual-test-boehm-3-compressed"
       ],
-      "packageAsset": "tl-test-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m.zip"
+      "packageAsset": "tl-test-07-boehm-3-test-bohem-de-conceptos-b-sicos-m.zip"
     },
     {
       "id": "test-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos",
@@ -140,7 +140,7 @@
         "r-058-portada-test-boehm-3-preescolar",
         "r-059-rendimiento-del-nino-test-boehm-3-preescolar"
       ],
-      "packageAsset": "tl-test-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos.zip"
+      "packageAsset": "tl-test-08-boehm-3-preescolar-test-bohem-de-conceptos-b-sic.zip"
     },
     {
       "id": "test-componente-semantico-vocabulario-imagenes-peabody",
@@ -153,7 +153,7 @@
         "r-061-laminas",
         "r-062-manual"
       ],
-      "packageAsset": "tl-test-componente-semantico-vocabulario-imagenes-peabody.zip"
+      "packageAsset": "tl-test-09-vocabulario-imagenes-peabody.zip"
     },
     {
       "id": "test-componente-sintactico-test-decomprension-verbal-token",
@@ -169,7 +169,7 @@
         "r-067-token-test-2",
         "r-068-voloraci-on-y-protocolos-token-test"
       ],
-      "packageAsset": "tl-test-componente-sintactico-test-decomprension-verbal-token.zip"
+      "packageAsset": "tl-test-10-test-decomprension-verbal-token.zip"
     },
     {
       "id": "test-otros-cumanes-cuestionario-de-madurez-neuropsicologica-escolar",
@@ -183,7 +183,7 @@
         "r-071-manual",
         "r-072-protocolo"
       ],
-      "packageAsset": "tl-test-otros-cumanes-cuestionario-de-madurez-neuropsicologica-escolar.zip"
+      "packageAsset": "tl-test-11-cumanes-cuestionario-de-madur-z-neuropsicol-gica.zip"
     },
     {
       "id": "test-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos",
@@ -203,7 +203,7 @@
         "r-081-protocolo-2",
         "r-082-software"
       ],
-      "packageAsset": "tl-test-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos.zip"
+      "packageAsset": "tl-test-12-cumanin-cuestionario-de-madurez-neuropsicol-gica.zip"
     },
     {
       "id": "test-otros-eni-2-bateria-neuropsicologica-infantil",
@@ -243,7 +243,7 @@
         "r-111-90041",
         "r-112-9-juego-de-30-tarjetas-mp-98-9"
       ],
-      "packageAsset": "tl-test-otros-eni-2-bateria-neuropsicologica-infantil.zip"
+      "packageAsset": "tl-test-13-eni-2-bater-a-neuropsicol-gica-infantil.zip"
     },
     {
       "id": "test-otros-taveci-test-de-aprendizaje-verbal-infantil",
@@ -256,7 +256,7 @@
         "r-114-manual",
         "r-115-tablas"
       ],
-      "packageAsset": "tl-test-otros-taveci-test-de-aprendizaje-verbal-infantil.zip"
+      "packageAsset": "tl-test-14-taveci-test-de-aprendizaje-verbal-infantil.zip"
     },
     {
       "id": "test-otros-test-para-la-comprension-auditiva-del-lenguaje",
@@ -268,7 +268,7 @@
         "r-116-tecal-laminas",
         "r-117-tecal-manual"
       ],
-      "packageAsset": "tl-test-otros-test-para-la-comprension-auditiva-del-lenguaje.zip"
+      "packageAsset": "tl-test-15-test-para-la-comprension-auditiva-del-lenguaje.zip"
     },
     {
       "id": "test-otros-wisc-iv-m",
@@ -296,7 +296,7 @@
         "r-134-untitled-compressed",
         "r-135-untitled-compressed"
       ],
-      "packageAsset": "tl-test-otros-wisc-iv-m.zip"
+      "packageAsset": "tl-test-16-wisc-iv-m.zip"
     }
   ]
 }

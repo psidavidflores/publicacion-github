@@ -52,7 +52,7 @@
       "sizeBytes": 283143,
       "sizeLabel": "0,3 MB",
       "largeFile": false,
-      "assetName": "tl-001-instrumentos-de-evaluacion-componente-fonetico-fonologico-fon-evaluacion-fonologica-del-habla-infantil-hojas-respuesta-laura-bosch-pdf.pdf",
+      "assetName": "tl-001-hojas-respuesta-laura-bosch.pdf",
       "localPath": "recursos/tl-001-instrumentos-de-evaluacion-componente-fonetico-fonologico-fon-evaluacion-fonologica-del-habla-infantil-hojas-respuesta-laura-bosch-pdf.pdf",
       "preview": null
     },
@@ -69,7 +69,7 @@
       "sizeBytes": 2173548,
       "sizeLabel": "2,1 MB",
       "largeFile": false,
-      "assetName": "tl-002-instrumentos-de-evaluacion-componente-fonetico-fonologico-fon-evaluacion-fonologica-del-habla-infantil-laminas-laura-bosch-pptx.pptx",
+      "assetName": "tl-002-laminas-laura-bosch.pptx",
       "localPath": "recursos/tl-002-instrumentos-de-evaluacion-componente-fonetico-fonologico-fon-evaluacion-fonologica-del-habla-infantil-laminas-laura-bosch-pptx.pptx",
       "preview": null
     },
@@ -86,7 +86,7 @@
       "sizeBytes": 10035540,
       "sizeLabel": "9,6 MB",
       "largeFile": false,
-      "assetName": "tl-003-instrumentos-de-evaluacion-componente-fonetico-fonologico-fon-evaluacion-fonologica-del-habla-infantil-manual-laura-bosch-pdf.pdf",
+      "assetName": "tl-003-manual-laura-bosch.pdf",
       "localPath": "recursos/tl-003-instrumentos-de-evaluacion-componente-fonetico-fonologico-fon-evaluacion-fonologica-del-habla-infantil-manual-laura-bosch-pdf.pdf",
       "preview": null
     },
@@ -103,7 +103,7 @@
       "sizeBytes": 49770229,
       "sizeLabel": "47,5 MB",
       "largeFile": false,
-      "assetName": "tl-004-instrumentos-de-evaluacion-componente-fonetico-fonologico-peco-prueba-para-la-evaluacion-del-conocimiento-fonologico-manual-manual-pdf.pdf",
+      "assetName": "tl-004-manual.pdf",
       "localPath": "recursos/tl-004-instrumentos-de-evaluacion-componente-fonetico-fonologico-peco-prueba-para-la-evaluacion-del-conocimiento-fonologico-manual-manual-pdf.pdf",
       "preview": null
     },
@@ -120,7 +120,7 @@
       "sizeBytes": 3212438,
       "sizeLabel": "3,1 MB",
       "largeFile": false,
-      "assetName": "tl-005-instrumentos-de-evaluacion-componente-fonetico-fonologico-peco-prueba-para-la-evaluacion-del-conocimiento-fonologico-prueba-y-hoja-de-registro-prueba-y-hoja-de-registro-pdf.pdf",
+      "assetName": "tl-005-prueba-y-hoja-de-registro.pdf",
       "localPath": "recursos/tl-005-instrumentos-de-evaluacion-componente-fonetico-fonologico-peco-prueba-para-la-evaluacion-del-conocimiento-fonologico-prueba-y-hoja-de-registro-prueba-y-hoja-de-registro-pdf.pdf",
       "preview": null
     },
@@ -137,7 +137,7 @@
       "sizeBytes": 65063298,
       "sizeLabel": "62,0 MB",
       "largeFile": true,
-      "assetName": "tl-006-instrumentos-de-evaluacion-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino-cuaderno-de-aplicacion-test-tsa-pdf.pdf",
+      "assetName": "tl-006-cuaderno-de-aplicaci-n-test-tsa.pdf",
       "localPath": "recursos/tl-006-instrumentos-de-evaluacion-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino-cuaderno-de-aplicacion-test-tsa-pdf.pdf",
       "preview": null
     },
@@ -154,7 +154,7 @@
       "sizeBytes": 3176738,
       "sizeLabel": "3,0 MB",
       "largeFile": false,
-      "assetName": "tl-007-instrumentos-de-evaluacion-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino-hoja-de-registro-test-tsa-pdf.pdf",
+      "assetName": "tl-007-hoja-de-registro-test-tsa.pdf",
       "localPath": "recursos/tl-007-instrumentos-de-evaluacion-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino-hoja-de-registro-test-tsa-pdf.pdf",
       "preview": null
     },
@@ -171,7 +171,7 @@
       "sizeBytes": 36385444,
       "sizeLabel": "34,7 MB",
       "largeFile": false,
-      "assetName": "tl-008-instrumentos-de-evaluacion-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino-manual-test-tsa-pdf.pdf",
+      "assetName": "tl-008-manual-test-tsa.pdf",
       "localPath": "recursos/tl-008-instrumentos-de-evaluacion-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino-manual-test-tsa-pdf.pdf",
       "preview": null
     },
@@ -188,7 +188,7 @@
       "sizeBytes": 88064,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-009-instrumentos-de-evaluacion-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino-software-xls.xls",
+      "assetName": "tl-009-software.xls",
       "localPath": "recursos/tl-009-instrumentos-de-evaluacion-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino-software-xls.xls",
       "preview": null
     },
@@ -205,7 +205,7 @@
       "sizeBytes": 58127723,
       "sizeLabel": "55,4 MB",
       "largeFile": true,
-      "assetName": "tl-010-instrumentos-de-evaluacion-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino-tsa-desarrollo-de-la-morfosintaxis-en-el-nino-pdf.pdf",
+      "assetName": "tl-010-tsa-desarrollo-de-la-morfosintaxis-en-el-ni-o.pdf",
       "localPath": "recursos/tl-010-instrumentos-de-evaluacion-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino-tsa-desarrollo-de-la-morfosintaxis-en-el-nino-pdf.pdf",
       "preview": null
     },
@@ -222,7 +222,7 @@
       "sizeBytes": 1740167,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-011-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-1-1-comprension-auditiva-imprimir-doble-cara-pdf.pdf",
+      "assetName": "tl-011-1-comprensi-n-auditiva-imprimir-doble-cara.pdf",
       "localPath": "recursos/tl-011-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-1-1-comprension-auditiva-imprimir-doble-cara-pdf.pdf",
       "preview": null
     },
@@ -239,7 +239,7 @@
       "sizeBytes": 20925687,
       "sizeLabel": "20,0 MB",
       "largeFile": false,
-      "assetName": "tl-012-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-1-2-comprension-visual-imprimir-1-cara-pdf.pdf",
+      "assetName": "tl-012-2-comprensi-n-visual-imprimir-1-cara.pdf",
       "localPath": "recursos/tl-012-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-1-2-comprension-visual-imprimir-1-cara-pdf.pdf",
       "preview": null
     },
@@ -256,7 +256,7 @@
       "sizeBytes": 3438145,
       "sizeLabel": "3,3 MB",
       "largeFile": false,
-      "assetName": "tl-013-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-1-3-memoria-secuencial-visomotora-imprimir-1-cara-pdf.pdf",
+      "assetName": "tl-013-3-memoria-secuencial-visomotora-imprimir-1-cara.pdf",
       "localPath": "recursos/tl-013-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-1-3-memoria-secuencial-visomotora-imprimir-1-cara-pdf.pdf",
       "preview": null
     },
@@ -273,7 +273,7 @@
       "sizeBytes": 714632,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-014-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-1-portada-pdf.pdf",
+      "assetName": "tl-014-portada.pdf",
       "localPath": "recursos/tl-014-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-1-portada-pdf.pdf",
       "preview": null
     },
@@ -290,7 +290,7 @@
       "sizeBytes": 5964546,
       "sizeLabel": "5,7 MB",
       "largeFile": false,
-      "assetName": "tl-015-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-2-10-expresion-motora-pdf.pdf",
+      "assetName": "tl-015-10-expresi-n-motora.pdf",
       "localPath": "recursos/tl-015-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-2-10-expresion-motora-pdf.pdf",
       "preview": null
     },
@@ -307,7 +307,7 @@
       "sizeBytes": 32878573,
       "sizeLabel": "31,4 MB",
       "largeFile": false,
-      "assetName": "tl-016-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-2-6-asociacion-visual-imprimir-doble-cara-pdf.pdf",
+      "assetName": "tl-016-6-asociaci-n-visual-imprimir-doble-cara.pdf",
       "localPath": "recursos/tl-016-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-2-6-asociacion-visual-imprimir-doble-cara-pdf.pdf",
       "preview": null
     },
@@ -324,7 +324,7 @@
       "sizeBytes": 2659024,
       "sizeLabel": "2,5 MB",
       "largeFile": false,
-      "assetName": "tl-017-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-2-8-expresion-verbal-imprimir-una-cara-pdf.pdf",
+      "assetName": "tl-017-8-expresi-n-verbal-imprimir-una-cara.pdf",
       "localPath": "recursos/tl-017-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-2-8-expresion-verbal-imprimir-una-cara-pdf.pdf",
       "preview": null
     },
@@ -341,7 +341,7 @@
       "sizeBytes": 11213448,
       "sizeLabel": "10,7 MB",
       "largeFile": false,
-      "assetName": "tl-018-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-2-9-integracion-gramatical-imprimir-una-cara-pdf.pdf",
+      "assetName": "tl-018-9-integraci-n-gramatical-imprimir-una-cara.pdf",
       "localPath": "recursos/tl-018-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-estimulos-2-9-integracion-gramatical-imprimir-una-cara-pdf.pdf",
       "preview": null
     },
@@ -358,7 +358,7 @@
       "sizeBytes": 5162038,
       "sizeLabel": "4,9 MB",
       "largeFile": false,
-      "assetName": "tl-019-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-anotacion-pdf.pdf",
+      "assetName": "tl-019-cuaderno-de-anotacion.pdf",
       "localPath": "recursos/tl-019-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-cuaderno-de-anotacion-pdf.pdf",
       "preview": null
     },
@@ -375,7 +375,7 @@
       "sizeBytes": 23265034,
       "sizeLabel": "22,2 MB",
       "largeFile": false,
-      "assetName": "tl-020-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-manual-itpa-pdf.pdf",
+      "assetName": "tl-020-manual-itpa.pdf",
       "localPath": "recursos/tl-020-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-manual-itpa-pdf.pdf",
       "preview": null
     },
@@ -392,7 +392,7 @@
       "sizeBytes": 1948089,
       "sizeLabel": "1,9 MB",
       "largeFile": false,
-      "assetName": "tl-021-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-plantillas-plantillas-pdf.pdf",
+      "assetName": "tl-021-plantillas.pdf",
       "localPath": "recursos/tl-021-instrumentos-de-evaluacion-componente-pragmatico-itpa-aptitudes-psicolinguisticas-plantillas-plantillas-pdf.pdf",
       "preview": null
     },
@@ -409,7 +409,7 @@
       "sizeBytes": 160021,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-022-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-01-pista-1-mp3.mp3",
+      "assetName": "tl-022-01-pista-1.mp3",
       "localPath": "recursos/tl-022-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-01-pista-1-mp3.mp3",
       "preview": null
     },
@@ -426,7 +426,7 @@
       "sizeBytes": 189628,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-023-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-02-pista-2-mp3.mp3",
+      "assetName": "tl-023-02-pista-2.mp3",
       "localPath": "recursos/tl-023-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-02-pista-2-mp3.mp3",
       "preview": null
     },
@@ -443,7 +443,7 @@
       "sizeBytes": 177952,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-024-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-03-pista-3-mp3.mp3",
+      "assetName": "tl-024-03-pista-3.mp3",
       "localPath": "recursos/tl-024-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-03-pista-3-mp3.mp3",
       "preview": null
     },
@@ -460,7 +460,7 @@
       "sizeBytes": 183373,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-025-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-04-pista-4-mp3.mp3",
+      "assetName": "tl-025-04-pista-4.mp3",
       "localPath": "recursos/tl-025-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-04-pista-4-mp3.mp3",
       "preview": null
     },
@@ -477,7 +477,7 @@
       "sizeBytes": 181288,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-026-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-05-pista-5-mp3.mp3",
+      "assetName": "tl-026-05-pista-5.mp3",
       "localPath": "recursos/tl-026-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-05-pista-5-mp3.mp3",
       "preview": null
     },
@@ -494,7 +494,7 @@
       "sizeBytes": 175867,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-027-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-06-pista-6-mp3.mp3",
+      "assetName": "tl-027-06-pista-6.mp3",
       "localPath": "recursos/tl-027-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-06-pista-6-mp3.mp3",
       "preview": null
     },
@@ -511,7 +511,7 @@
       "sizeBytes": 171697,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-028-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-07-pista-7-mp3.mp3",
+      "assetName": "tl-028-07-pista-7.mp3",
       "localPath": "recursos/tl-028-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-07-pista-7-mp3.mp3",
       "preview": null
     },
@@ -528,7 +528,7 @@
       "sizeBytes": 171697,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-029-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-08-pista-8-mp3.mp3",
+      "assetName": "tl-029-08-pista-8.mp3",
       "localPath": "recursos/tl-029-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-08-pista-8-mp3.mp3",
       "preview": null
     },
@@ -545,7 +545,7 @@
       "sizeBytes": 190879,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-030-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-09-pista-9-mp3.mp3",
+      "assetName": "tl-030-09-pista-9.mp3",
       "localPath": "recursos/tl-030-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-09-pista-9-mp3.mp3",
       "preview": null
     },
@@ -562,7 +562,7 @@
       "sizeBytes": 192964,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-031-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-10-pista-10-mp3.mp3",
+      "assetName": "tl-031-10-pista-10.mp3",
       "localPath": "recursos/tl-031-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-10-pista-10-mp3.mp3",
       "preview": null
     },
@@ -579,7 +579,7 @@
       "sizeBytes": 174616,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-032-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-11-pista-11-mp3.mp3",
+      "assetName": "tl-032-11-pista-11.mp3",
       "localPath": "recursos/tl-032-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-11-pista-11-mp3.mp3",
       "preview": null
     },
@@ -596,7 +596,7 @@
       "sizeBytes": 180037,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-033-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-12-pista-12-mp3.mp3",
+      "assetName": "tl-033-12-pista-12.mp3",
       "localPath": "recursos/tl-033-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-12-pista-12-mp3.mp3",
       "preview": null
     },
@@ -613,7 +613,7 @@
       "sizeBytes": 180037,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-034-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-13-pista-13-mp3.mp3",
+      "assetName": "tl-034-13-pista-13.mp3",
       "localPath": "recursos/tl-034-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-13-pista-13-mp3.mp3",
       "preview": null
     },
@@ -630,7 +630,7 @@
       "sizeBytes": 174616,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-035-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-14-pista-14-mp3.mp3",
+      "assetName": "tl-035-14-pista-14.mp3",
       "localPath": "recursos/tl-035-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-14-pista-14-mp3.mp3",
       "preview": null
     },
@@ -647,7 +647,7 @@
       "sizeBytes": 172531,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-036-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-15-pista-15-mp3.mp3",
+      "assetName": "tl-036-15-pista-15.mp3",
       "localPath": "recursos/tl-036-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-15-pista-15-mp3.mp3",
       "preview": null
     },
@@ -664,7 +664,7 @@
       "sizeBytes": 167527,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-037-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-16-pista-16-mp3.mp3",
+      "assetName": "tl-037-16-pista-16.mp3",
       "localPath": "recursos/tl-037-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-16-pista-16-mp3.mp3",
       "preview": null
     },
@@ -681,7 +681,7 @@
       "sizeBytes": 177952,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-038-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-17-pista-17-mp3.mp3",
+      "assetName": "tl-038-17-pista-17.mp3",
       "localPath": "recursos/tl-038-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-17-pista-17-mp3.mp3",
       "preview": null
     },
@@ -698,7 +698,7 @@
       "sizeBytes": 183373,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-039-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-18-pista-18-mp3.mp3",
+      "assetName": "tl-039-18-pista-18.mp3",
       "localPath": "recursos/tl-039-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-18-pista-18-mp3.mp3",
       "preview": null
     },
@@ -715,7 +715,7 @@
       "sizeBytes": 198385,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-040-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-19-pista-19-mp3.mp3",
+      "assetName": "tl-040-19-pista-19.mp3",
       "localPath": "recursos/tl-040-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-19-pista-19-mp3.mp3",
       "preview": null
     },
@@ -732,7 +732,7 @@
       "sizeBytes": 151681,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-041-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-20-pista-20-mp3.mp3",
+      "assetName": "tl-041-20-pista-20.mp3",
       "localPath": "recursos/tl-041-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-20-pista-20-mp3.mp3",
       "preview": null
     },
@@ -749,7 +749,7 @@
       "sizeBytes": 216316,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-042-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-21-pista-21-mp3.mp3",
+      "assetName": "tl-042-21-pista-21.mp3",
       "localPath": "recursos/tl-042-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-audios-eliminacion-de-sonidos-21-pista-21-mp3.mp3",
       "preview": null
     },
@@ -766,7 +766,7 @@
       "sizeBytes": 5013591,
       "sizeLabel": "4,8 MB",
       "largeFile": false,
-      "assetName": "tl-043-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-cuadernillo-de-registro-del-examinador-cuadernillo-de-registro-del-examinador-pdf.pdf",
+      "assetName": "tl-043-cuadernillo-de-registro-del-examinador.pdf",
       "localPath": "recursos/tl-043-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-cuadernillo-de-registro-del-examinador-cuadernillo-de-registro-del-examinador-pdf.pdf",
       "preview": null
     },
@@ -783,7 +783,7 @@
       "sizeBytes": 1723315,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-044-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-cuadernillo-de-respuestas-del-alumno-cuadernillo-de-respuestas-del-alumno-pdf.pdf",
+      "assetName": "tl-044-cuadernillo-de-respuestas-del-alumno.pdf",
       "localPath": "recursos/tl-044-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-cuadernillo-de-respuestas-del-alumno-cuadernillo-de-respuestas-del-alumno-pdf.pdf",
       "preview": null
     },
@@ -800,7 +800,7 @@
       "sizeBytes": 73796182,
       "sizeLabel": "70,4 MB",
       "largeFile": true,
-      "assetName": "tl-045-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-manual-manual-itpa-3-pdf.pdf",
+      "assetName": "tl-045-manual-itpa-3.pdf",
       "localPath": "recursos/tl-045-instrumentos-de-evaluacion-componente-pragmatico-itpa-3-habilidades-psicolinguisticas-manual-manual-itpa-3-pdf.pdf",
       "preview": null
     },
@@ -817,7 +817,7 @@
       "sizeBytes": 4756987,
       "sizeLabel": "4,5 MB",
       "largeFile": false,
-      "assetName": "tl-046-instrumentos-de-evaluacion-componente-pragmatico-plon-r-prueba-del-lenguaje-oral-narrativa-plon-r-cuaderno-estimulos-compressed-pdf.pdf",
+      "assetName": "tl-046-plon-r-cuaderno-est-mulos-compressed.pdf",
       "localPath": "recursos/tl-046-instrumentos-de-evaluacion-componente-pragmatico-plon-r-prueba-del-lenguaje-oral-narrativa-plon-r-cuaderno-estimulos-compressed-pdf.pdf",
       "preview": null
     },
@@ -834,7 +834,7 @@
       "sizeBytes": 4290691,
       "sizeLabel": "4,1 MB",
       "largeFile": false,
-      "assetName": "tl-047-instrumentos-de-evaluacion-componente-pragmatico-plon-r-prueba-del-lenguaje-oral-narrativa-plon-r-hojas-de-respuestas-compressed-pdf.pdf",
+      "assetName": "tl-047-plon-r-hojas-de-respuestas-compressed.pdf",
       "localPath": "recursos/tl-047-instrumentos-de-evaluacion-componente-pragmatico-plon-r-prueba-del-lenguaje-oral-narrativa-plon-r-hojas-de-respuestas-compressed-pdf.pdf",
       "preview": null
     },
@@ -851,7 +851,7 @@
       "sizeBytes": 11778058,
       "sizeLabel": "11,2 MB",
       "largeFile": false,
-      "assetName": "tl-048-instrumentos-de-evaluacion-componente-pragmatico-plon-r-prueba-del-lenguaje-oral-narrativa-plon-r-manual-compressed-pdf.pdf",
+      "assetName": "tl-048-plon-r-manual-compressed.pdf",
       "localPath": "recursos/tl-048-instrumentos-de-evaluacion-componente-pragmatico-plon-r-prueba-del-lenguaje-oral-narrativa-plon-r-manual-compressed-pdf.pdf",
       "preview": null
     },
@@ -868,7 +868,7 @@
       "sizeBytes": 7174080,
       "sizeLabel": "6,8 MB",
       "largeFile": false,
-      "assetName": "tl-049-instrumentos-de-evaluacion-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m-cuadernillo-de-consignas-de-aplicacion-test-boehm-3-compressed-pdf.pdf",
+      "assetName": "tl-049-cuadernillo-de-consignas-de-aplicaci-n-test-boehm-3-compressed.pdf",
       "localPath": "recursos/tl-049-instrumentos-de-evaluacion-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m-cuadernillo-de-consignas-de-aplicacion-test-boehm-3-compressed-pdf.pdf",
       "preview": null
     },
@@ -885,7 +885,7 @@
       "sizeBytes": 3517173,
       "sizeLabel": "3,4 MB",
       "largeFile": false,
-      "assetName": "tl-050-instrumentos-de-evaluacion-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m-cuadernillo-de-respuestas-test-boehm-3-compressed-pdf.pdf",
+      "assetName": "tl-050-cuadernillo-de-respuestas-test-boehm-3-compressed.pdf",
       "localPath": "recursos/tl-050-instrumentos-de-evaluacion-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m-cuadernillo-de-respuestas-test-boehm-3-compressed-pdf.pdf",
       "preview": null
     },
@@ -902,7 +902,7 @@
       "sizeBytes": 698720,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-051-instrumentos-de-evaluacion-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m-hoja-de-registro-de-la-clase-1-test-boehm-3-compressed-pdf.pdf",
+      "assetName": "tl-051-hoja-de-registro-de-la-clase-1-test-boehm-3-compressed.pdf",
       "localPath": "recursos/tl-051-instrumentos-de-evaluacion-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m-hoja-de-registro-de-la-clase-1-test-boehm-3-compressed-pdf.pdf",
       "preview": null
     },
@@ -919,7 +919,7 @@
       "sizeBytes": 1413877,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-052-instrumentos-de-evaluacion-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m-hoja-de-registro-de-la-clase-2-test-boehm-3-pdf.pdf",
+      "assetName": "tl-052-hoja-de-registro-de-la-clase-2-test-boehm-3.pdf",
       "localPath": "recursos/tl-052-instrumentos-de-evaluacion-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m-hoja-de-registro-de-la-clase-2-test-boehm-3-pdf.pdf",
       "preview": null
     },
@@ -936,7 +936,7 @@
       "sizeBytes": 13333110,
       "sizeLabel": "12,7 MB",
       "largeFile": false,
-      "assetName": "tl-053-instrumentos-de-evaluacion-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m-manual-test-boehm-3-compressed-pdf.pdf",
+      "assetName": "tl-053-manual-test-boehm-3-compressed.pdf",
       "localPath": "recursos/tl-053-instrumentos-de-evaluacion-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m-manual-test-boehm-3-compressed-pdf.pdf",
       "preview": null
     },
@@ -953,7 +953,7 @@
       "sizeBytes": 22814894,
       "sizeLabel": "21,8 MB",
       "largeFile": false,
-      "assetName": "tl-054-instrumentos-de-evaluacion-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos-cuaderno-de-estimulos-test-boehm-3-preescolar-pdf.pdf",
+      "assetName": "tl-054-cuaderno-de-est-mulos-test-boehm-3-preescolar.pdf",
       "localPath": "recursos/tl-054-instrumentos-de-evaluacion-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos-cuaderno-de-estimulos-test-boehm-3-preescolar-pdf.pdf",
       "preview": null
     },
@@ -970,7 +970,7 @@
       "sizeBytes": 1489051,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-055-instrumentos-de-evaluacion-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos-hoja-de-anotacion-test-boehm-3-preescolar-pdf.pdf",
+      "assetName": "tl-055-hoja-de-anotaci-n-test-boehm-3-preescolar.pdf",
       "localPath": "recursos/tl-055-instrumentos-de-evaluacion-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos-hoja-de-anotacion-test-boehm-3-preescolar-pdf.pdf",
       "preview": null
     },
@@ -987,7 +987,7 @@
       "sizeBytes": 1711616,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-056-instrumentos-de-evaluacion-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos-informe-para-los-padres-test-boehm-3-preescolar-doc.doc",
+      "assetName": "tl-056-informe-para-los-padres-test-boehm-3-preescolar.doc",
       "localPath": "recursos/tl-056-instrumentos-de-evaluacion-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos-informe-para-los-padres-test-boehm-3-preescolar-doc.doc",
       "preview": null
     },
@@ -1004,7 +1004,7 @@
       "sizeBytes": 12980907,
       "sizeLabel": "12,4 MB",
       "largeFile": false,
-      "assetName": "tl-057-instrumentos-de-evaluacion-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos-manual-test-boehm-3-preescolar-compressed-pdf.pdf",
+      "assetName": "tl-057-manual-test-boehm-3-preescolar-compressed.pdf",
       "localPath": "recursos/tl-057-instrumentos-de-evaluacion-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos-manual-test-boehm-3-preescolar-compressed-pdf.pdf",
       "preview": null
     },
@@ -1021,7 +1021,7 @@
       "sizeBytes": 442387,
       "sizeLabel": "0,4 MB",
       "largeFile": false,
-      "assetName": "tl-058-instrumentos-de-evaluacion-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos-portada-test-boehm-3-preescolar-pdf.pdf",
+      "assetName": "tl-058-portada-test-boehm-3-preescolar.pdf",
       "localPath": "recursos/tl-058-instrumentos-de-evaluacion-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos-portada-test-boehm-3-preescolar-pdf.pdf",
       "preview": null
     },
@@ -1038,7 +1038,7 @@
       "sizeBytes": 954208,
       "sizeLabel": "0,9 MB",
       "largeFile": false,
-      "assetName": "tl-059-instrumentos-de-evaluacion-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos-rendimiento-del-nino-test-boehm-3-preescolar-pdf.pdf",
+      "assetName": "tl-059-rendimiento-del-ni-o-test-boehm-3-preescolar.pdf",
       "localPath": "recursos/tl-059-instrumentos-de-evaluacion-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos-rendimiento-del-nino-test-boehm-3-preescolar-pdf.pdf",
       "preview": null
     },
@@ -1055,7 +1055,7 @@
       "sizeBytes": 310272,
       "sizeLabel": "0,3 MB",
       "largeFile": false,
-      "assetName": "tl-060-instrumentos-de-evaluacion-componente-semantico-vocabulario-imagenes-peabody-hoja-de-respuestas-doc.doc",
+      "assetName": "tl-060-hoja-de-respuestas.doc",
       "localPath": "recursos/tl-060-instrumentos-de-evaluacion-componente-semantico-vocabulario-imagenes-peabody-hoja-de-respuestas-doc.doc",
       "preview": null
     },
@@ -1072,7 +1072,7 @@
       "sizeBytes": 72066560,
       "sizeLabel": "68,7 MB",
       "largeFile": true,
-      "assetName": "tl-061-instrumentos-de-evaluacion-componente-semantico-vocabulario-imagenes-peabody-laminas-doc.doc",
+      "assetName": "tl-061-laminas.doc",
       "localPath": "recursos/tl-061-instrumentos-de-evaluacion-componente-semantico-vocabulario-imagenes-peabody-laminas-doc.doc",
       "preview": null
     },
@@ -1089,7 +1089,7 @@
       "sizeBytes": 37274112,
       "sizeLabel": "35,5 MB",
       "largeFile": false,
-      "assetName": "tl-062-instrumentos-de-evaluacion-componente-semantico-vocabulario-imagenes-peabody-manual-doc.doc",
+      "assetName": "tl-062-manual.doc",
       "localPath": "recursos/tl-062-instrumentos-de-evaluacion-componente-semantico-vocabulario-imagenes-peabody-manual-doc.doc",
       "preview": null
     },
@@ -1106,7 +1106,7 @@
       "sizeBytes": 33280,
       "sizeLabel": "0,0 MB",
       "largeFile": false,
-      "assetName": "tl-063-instrumentos-de-evaluacion-componente-sintactico-test-decomprension-verbal-token-protocolo-doc.doc",
+      "assetName": "tl-063-protocolo.doc",
       "localPath": "recursos/tl-063-instrumentos-de-evaluacion-componente-sintactico-test-decomprension-verbal-token-protocolo-doc.doc",
       "preview": null
     },
@@ -1123,7 +1123,7 @@
       "sizeBytes": 28160,
       "sizeLabel": "0,0 MB",
       "largeFile": false,
-      "assetName": "tl-064-instrumentos-de-evaluacion-componente-sintactico-test-decomprension-verbal-token-tabla-token-test-doc.doc",
+      "assetName": "tl-064-tabla-token-test.doc",
       "localPath": "recursos/tl-064-instrumentos-de-evaluacion-componente-sintactico-test-decomprension-verbal-token-tabla-token-test-doc.doc",
       "preview": null
     },
@@ -1140,7 +1140,7 @@
       "sizeBytes": 54272,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-065-instrumentos-de-evaluacion-componente-sintactico-test-decomprension-verbal-token-test-lenguaje-comprensivo-token-doc.doc",
+      "assetName": "tl-065-test-lenguaje-comprensivo-token.doc",
       "localPath": "recursos/tl-065-instrumentos-de-evaluacion-componente-sintactico-test-decomprension-verbal-token-test-lenguaje-comprensivo-token-doc.doc",
       "preview": null
     },
@@ -1157,7 +1157,7 @@
       "sizeBytes": 29607,
       "sizeLabel": "0,0 MB",
       "largeFile": false,
-      "assetName": "tl-066-instrumentos-de-evaluacion-componente-sintactico-test-decomprension-verbal-token-token-test-1-jpg.jpg",
+      "assetName": "tl-066-token-test-1.jpg",
       "localPath": "recursos/tl-066-instrumentos-de-evaluacion-componente-sintactico-test-decomprension-verbal-token-token-test-1-jpg.jpg",
       "preview": null
     },
@@ -1174,7 +1174,7 @@
       "sizeBytes": 37092,
       "sizeLabel": "0,0 MB",
       "largeFile": false,
-      "assetName": "tl-067-instrumentos-de-evaluacion-componente-sintactico-test-decomprension-verbal-token-token-test-2-jpg.jpg",
+      "assetName": "tl-067-token-test-2.jpg",
       "localPath": "recursos/tl-067-instrumentos-de-evaluacion-componente-sintactico-test-decomprension-verbal-token-token-test-2-jpg.jpg",
       "preview": null
     },
@@ -1191,7 +1191,7 @@
       "sizeBytes": 120320,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-068-instrumentos-de-evaluacion-componente-sintactico-test-decomprension-verbal-token-voloraci-on-y-protocolos-token-test-doc.doc",
+      "assetName": "tl-068-voloraci-n-y-protocolos-token-test.doc",
       "localPath": "recursos/tl-068-instrumentos-de-evaluacion-componente-sintactico-test-decomprension-verbal-token-voloraci-on-y-protocolos-token-test-doc.doc",
       "preview": null
     },
@@ -1208,7 +1208,7 @@
       "sizeBytes": 3763867,
       "sizeLabel": "3,6 MB",
       "largeFile": false,
-      "assetName": "tl-069-instrumentos-de-evaluacion-otros-cumanes-cuestionario-de-madurez-neuropsicologica-escolar-cuaderno-de-estimulos-pdf.pdf",
+      "assetName": "tl-069-cuaderno-de-estimulos.pdf",
       "localPath": "recursos/tl-069-instrumentos-de-evaluacion-otros-cumanes-cuestionario-de-madurez-neuropsicologica-escolar-cuaderno-de-estimulos-pdf.pdf",
       "preview": null
     },
@@ -1225,7 +1225,7 @@
       "sizeBytes": 521228,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-070-instrumentos-de-evaluacion-otros-cumanes-cuestionario-de-madurez-neuropsicologica-escolar-ejemplar-pdf.pdf",
+      "assetName": "tl-070-ejemplar.pdf",
       "localPath": "recursos/tl-070-instrumentos-de-evaluacion-otros-cumanes-cuestionario-de-madurez-neuropsicologica-escolar-ejemplar-pdf.pdf",
       "preview": null
     },
@@ -1242,7 +1242,7 @@
       "sizeBytes": 31191445,
       "sizeLabel": "29,7 MB",
       "largeFile": false,
-      "assetName": "tl-071-instrumentos-de-evaluacion-otros-cumanes-cuestionario-de-madurez-neuropsicologica-escolar-manual-pdf.pdf",
+      "assetName": "tl-071-manual.pdf",
       "localPath": "recursos/tl-071-instrumentos-de-evaluacion-otros-cumanes-cuestionario-de-madurez-neuropsicologica-escolar-manual-pdf.pdf",
       "preview": null
     },
@@ -1259,7 +1259,7 @@
       "sizeBytes": 2620551,
       "sizeLabel": "2,5 MB",
       "largeFile": false,
-      "assetName": "tl-072-instrumentos-de-evaluacion-otros-cumanes-cuestionario-de-madurez-neuropsicologica-escolar-protocolo-pdf.pdf",
+      "assetName": "tl-072-protocolo.pdf",
       "localPath": "recursos/tl-072-instrumentos-de-evaluacion-otros-cumanes-cuestionario-de-madurez-neuropsicologica-escolar-protocolo-pdf.pdf",
       "preview": null
     },
@@ -1276,7 +1276,7 @@
       "sizeBytes": 23145,
       "sizeLabel": "0,0 MB",
       "largeFile": false,
-      "assetName": "tl-073-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-consideraciones-docx.docx",
+      "assetName": "tl-073-consideraciones.docx",
       "localPath": "recursos/tl-073-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-consideraciones-docx.docx",
       "preview": null
     },
@@ -1293,7 +1293,7 @@
       "sizeBytes": 17067,
       "sizeLabel": "0,0 MB",
       "largeFile": false,
-      "assetName": "tl-074-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-ficha-tecnica-docx.docx",
+      "assetName": "tl-074-ficha-t-cnica.docx",
       "localPath": "recursos/tl-074-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-ficha-tecnica-docx.docx",
       "preview": null
     },
@@ -1310,7 +1310,7 @@
       "sizeBytes": 164714,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-075-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-hoja-con-agujero-jpg.jpg",
+      "assetName": "tl-075-hoja-con-agujero.jpg",
       "localPath": "recursos/tl-075-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-hoja-con-agujero-jpg.jpg",
       "preview": null
     },
@@ -1327,7 +1327,7 @@
       "sizeBytes": 452379,
       "sizeLabel": "0,4 MB",
       "largeFile": false,
-      "assetName": "tl-076-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-laminas-laminas-a-color-pdf.pdf",
+      "assetName": "tl-076-laminas-a-color.pdf",
       "localPath": "recursos/tl-076-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-laminas-laminas-a-color-pdf.pdf",
       "preview": null
     },
@@ -1344,7 +1344,7 @@
       "sizeBytes": 2414590,
       "sizeLabel": "2,3 MB",
       "largeFile": false,
-      "assetName": "tl-077-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-laminas-laminas-cumanini-pdf.pdf",
+      "assetName": "tl-077-laminas-cumanini.pdf",
       "localPath": "recursos/tl-077-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-laminas-laminas-cumanini-pdf.pdf",
       "preview": null
     },
@@ -1361,7 +1361,7 @@
       "sizeBytes": 29461123,
       "sizeLabel": "28,1 MB",
       "largeFile": false,
-      "assetName": "tl-078-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-manual-1-pdf.pdf",
+      "assetName": "tl-078-manual-1.pdf",
       "localPath": "recursos/tl-078-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-manual-1-pdf.pdf",
       "preview": null
     },
@@ -1378,7 +1378,7 @@
       "sizeBytes": 10324630,
       "sizeLabel": "9,8 MB",
       "largeFile": false,
-      "assetName": "tl-079-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-manual-2-pdf.pdf",
+      "assetName": "tl-079-manual-2.pdf",
       "localPath": "recursos/tl-079-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-manual-2-pdf.pdf",
       "preview": null
     },
@@ -1395,7 +1395,7 @@
       "sizeBytes": 3058337,
       "sizeLabel": "2,9 MB",
       "largeFile": false,
-      "assetName": "tl-080-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-protocolo-protocolo-1-pdf.pdf",
+      "assetName": "tl-080-protocolo-1.pdf",
       "localPath": "recursos/tl-080-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-protocolo-protocolo-1-pdf.pdf",
       "preview": null
     },
@@ -1412,7 +1412,7 @@
       "sizeBytes": 8917873,
       "sizeLabel": "8,5 MB",
       "largeFile": false,
-      "assetName": "tl-081-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-protocolo-protocolo-2-pdf.pdf",
+      "assetName": "tl-081-protocolo-2.pdf",
       "localPath": "recursos/tl-081-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-protocolo-protocolo-2-pdf.pdf",
       "preview": null
     },
@@ -1429,7 +1429,7 @@
       "sizeBytes": 92160,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-082-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-software-xls.xls",
+      "assetName": "tl-082-software.xls",
       "localPath": "recursos/tl-082-instrumentos-de-evaluacion-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos-software-xls.xls",
       "preview": null
     },
@@ -1446,7 +1446,7 @@
       "sizeBytes": 20154804,
       "sizeLabel": "19,2 MB",
       "largeFile": false,
-      "assetName": "tl-083-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-1-manual-de-aplicacion-mp-98-1-1-manual-de-aplicacion-mp-98-1-pdf.pdf",
+      "assetName": "tl-083-1-manual-de-aplicaci-n-mp-98-1.pdf",
       "localPath": "recursos/tl-083-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-1-manual-de-aplicacion-mp-98-1-1-manual-de-aplicacion-mp-98-1-pdf.pdf",
       "preview": null
     },
@@ -1463,7 +1463,7 @@
       "sizeBytes": 197886,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-084-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-1-pdf.pdf",
+      "assetName": "tl-084-1.pdf",
       "localPath": "recursos/tl-084-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-1-pdf.pdf",
       "preview": null
     },
@@ -1480,7 +1480,7 @@
       "sizeBytes": 146726,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-085-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-10-pdf.pdf",
+      "assetName": "tl-085-10.pdf",
       "localPath": "recursos/tl-085-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-10-pdf.pdf",
       "preview": null
     },
@@ -1497,7 +1497,7 @@
       "sizeBytes": 135480,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-086-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-11-pdf.pdf",
+      "assetName": "tl-086-11.pdf",
       "localPath": "recursos/tl-086-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-11-pdf.pdf",
       "preview": null
     },
@@ -1514,7 +1514,7 @@
       "sizeBytes": 126578,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-087-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-12-pdf.pdf",
+      "assetName": "tl-087-12.pdf",
       "localPath": "recursos/tl-087-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-12-pdf.pdf",
       "preview": null
     },
@@ -1531,7 +1531,7 @@
       "sizeBytes": 158352,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-088-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-2-pdf.pdf",
+      "assetName": "tl-088-2.pdf",
       "localPath": "recursos/tl-088-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-2-pdf.pdf",
       "preview": null
     },
@@ -1548,7 +1548,7 @@
       "sizeBytes": 191308,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-089-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-3-pdf.pdf",
+      "assetName": "tl-089-3.pdf",
       "localPath": "recursos/tl-089-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-3-pdf.pdf",
       "preview": null
     },
@@ -1565,7 +1565,7 @@
       "sizeBytes": 154927,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-090-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-4-pdf.pdf",
+      "assetName": "tl-090-4.pdf",
       "localPath": "recursos/tl-090-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-4-pdf.pdf",
       "preview": null
     },
@@ -1582,7 +1582,7 @@
       "sizeBytes": 114715,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-091-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-5-pdf.pdf",
+      "assetName": "tl-091-5.pdf",
       "localPath": "recursos/tl-091-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-5-pdf.pdf",
       "preview": null
     },
@@ -1599,7 +1599,7 @@
       "sizeBytes": 103074,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-092-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-6-pdf.pdf",
+      "assetName": "tl-092-6.pdf",
       "localPath": "recursos/tl-092-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-6-pdf.pdf",
       "preview": null
     },
@@ -1616,7 +1616,7 @@
       "sizeBytes": 201140,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-093-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-7-pdf.pdf",
+      "assetName": "tl-093-7.pdf",
       "localPath": "recursos/tl-093-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-7-pdf.pdf",
       "preview": null
     },
@@ -1633,7 +1633,7 @@
       "sizeBytes": 157676,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-094-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-8-pdf.pdf",
+      "assetName": "tl-094-8.pdf",
       "localPath": "recursos/tl-094-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-8-pdf.pdf",
       "preview": null
     },
@@ -1650,7 +1650,7 @@
       "sizeBytes": 191553,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-095-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-9-pdf.pdf",
+      "assetName": "tl-095-9.pdf",
       "localPath": "recursos/tl-095-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-10-juego-de-27-tarjetas-mp-98-10-pdf-9-pdf.pdf",
       "preview": null
     },
@@ -1667,7 +1667,7 @@
       "sizeBytes": 136846,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-096-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-12-cd-estimulos-audios-mp-98-12-01-pista-1-wma.wma",
+      "assetName": "tl-096-01-pista-1.wma",
       "localPath": "recursos/tl-096-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-12-cd-estimulos-audios-mp-98-12-01-pista-1-wma.wma",
       "preview": null
     },
@@ -1684,7 +1684,7 @@
       "sizeBytes": 214534,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-097-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-12-cd-estimulos-audios-mp-98-12-02-pista-2-wma.wma",
+      "assetName": "tl-097-02-pista-2.wma",
       "localPath": "recursos/tl-097-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-12-cd-estimulos-audios-mp-98-12-02-pista-2-wma.wma",
       "preview": null
     },
@@ -1701,7 +1701,7 @@
       "sizeBytes": 1146790,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-098-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-12-cd-estimulos-audios-mp-98-12-03-pista-3-wma.wma",
+      "assetName": "tl-098-03-pista-3.wma",
       "localPath": "recursos/tl-098-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-12-cd-estimulos-audios-mp-98-12-03-pista-3-wma.wma",
       "preview": null
     },
@@ -1718,7 +1718,7 @@
       "sizeBytes": 154774,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-099-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-12-cd-estimulos-audios-mp-98-12-04-pista-4-wma.wma",
+      "assetName": "tl-099-04-pista-4.wma",
       "localPath": "recursos/tl-099-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-12-cd-estimulos-audios-mp-98-12-04-pista-4-wma.wma",
       "preview": null
     },
@@ -1735,7 +1735,7 @@
       "sizeBytes": 919702,
       "sizeLabel": "0,9 MB",
       "largeFile": false,
-      "assetName": "tl-100-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-12-cd-estimulos-audios-mp-98-12-05-pista-5-wma.wma",
+      "assetName": "tl-100-05-pista-5.wma",
       "localPath": "recursos/tl-100-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-12-cd-estimulos-audios-mp-98-12-05-pista-5-wma.wma",
       "preview": null
     },
@@ -1752,7 +1752,7 @@
       "sizeBytes": 1488720,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-101-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-13-plantillas-de-calificacion-mp-98-13-13-plantillas-de-calificacion-mp-98-13-pdf.pdf",
+      "assetName": "tl-101-13-plantillas-de-calificacion-mp-98-13.pdf",
       "localPath": "recursos/tl-101-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-13-plantillas-de-calificacion-mp-98-13-13-plantillas-de-calificacion-mp-98-13-pdf.pdf",
       "preview": null
     },
@@ -1769,7 +1769,7 @@
       "sizeBytes": 13718383,
       "sizeLabel": "13,1 MB",
       "largeFile": false,
-      "assetName": "tl-102-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-2-libreta-de-estimulos-i-mp-98-2-2-compressed-pdf.pdf",
+      "assetName": "tl-102-2-compressed.pdf",
       "localPath": "recursos/tl-102-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-2-libreta-de-estimulos-i-mp-98-2-2-compressed-pdf.pdf",
       "preview": null
     },
@@ -1786,7 +1786,7 @@
       "sizeBytes": 16857194,
       "sizeLabel": "16,1 MB",
       "largeFile": false,
-      "assetName": "tl-103-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-3-libreta-de-estimulos-ii-mp-98-3-3-compressed-pdf.pdf",
+      "assetName": "tl-103-3-compressed.pdf",
       "localPath": "recursos/tl-103-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-3-libreta-de-estimulos-ii-mp-98-3-3-compressed-pdf.pdf",
       "preview": null
     },
@@ -1803,7 +1803,7 @@
       "sizeBytes": 1599261,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-104-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-4-historia-clinica-mp-98-4-4-historia-clinica-mp-98-4-pdf.pdf",
+      "assetName": "tl-104-4-historia-clinica-mp-98-4.pdf",
       "localPath": "recursos/tl-104-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-4-historia-clinica-mp-98-4-4-historia-clinica-mp-98-4-pdf.pdf",
       "preview": null
     },
@@ -1820,7 +1820,7 @@
       "sizeBytes": 576486,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-105-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-5-cuestionario-para-padres-mp-98-5-5-cuestionario-para-padres-mp-98-5-pdf.pdf",
+      "assetName": "tl-105-5-cuestionario-para-padres-mp-98-5.pdf",
       "localPath": "recursos/tl-105-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-5-cuestionario-para-padres-mp-98-5-5-cuestionario-para-padres-mp-98-5-pdf.pdf",
       "preview": null
     },
@@ -1837,7 +1837,7 @@
       "sizeBytes": 7289087,
       "sizeLabel": "7,0 MB",
       "largeFile": false,
-      "assetName": "tl-106-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-6-libreta-de-puntajes-mp-98-6-6-compressed-pdf.pdf",
+      "assetName": "tl-106-6-compressed.pdf",
       "localPath": "recursos/tl-106-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-6-libreta-de-puntajes-mp-98-6-6-compressed-pdf.pdf",
       "preview": null
     },
@@ -1854,7 +1854,7 @@
       "sizeBytes": 834275,
       "sizeLabel": "0,8 MB",
       "largeFile": false,
-      "assetName": "tl-107-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-8-libreta-de-puntajes-de-signos-mp-98-8-8-libreta-de-puntajes-de-signosmp-98-8-pdf.pdf",
+      "assetName": "tl-107-8-libreta-de-puntajes-de-signosmp-98-8.pdf",
       "localPath": "recursos/tl-107-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-8-libreta-de-puntajes-de-signos-mp-98-8-8-libreta-de-puntajes-de-signosmp-98-8-pdf.pdf",
       "preview": null
     },
@@ -1871,7 +1871,7 @@
       "sizeBytes": 474293,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-108-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-8-libreta-de-puntajes-de-signos-mp-98-8-90038-pdf.pdf",
+      "assetName": "tl-108-90038.pdf",
       "localPath": "recursos/tl-108-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-8-libreta-de-puntajes-de-signos-mp-98-8-90038-pdf.pdf",
       "preview": null
     },
@@ -1888,7 +1888,7 @@
       "sizeBytes": 502489,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-109-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-8-libreta-de-puntajes-de-signos-mp-98-8-90039-pdf.pdf",
+      "assetName": "tl-109-90039.pdf",
       "localPath": "recursos/tl-109-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-8-libreta-de-puntajes-de-signos-mp-98-8-90039-pdf.pdf",
       "preview": null
     },
@@ -1905,7 +1905,7 @@
       "sizeBytes": 290628,
       "sizeLabel": "0,3 MB",
       "largeFile": false,
-      "assetName": "tl-110-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-8-libreta-de-puntajes-de-signos-mp-98-8-90040-pdf.pdf",
+      "assetName": "tl-110-90040.pdf",
       "localPath": "recursos/tl-110-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-8-libreta-de-puntajes-de-signos-mp-98-8-90040-pdf.pdf",
       "preview": null
     },
@@ -1922,7 +1922,7 @@
       "sizeBytes": 314436,
       "sizeLabel": "0,3 MB",
       "largeFile": false,
-      "assetName": "tl-111-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-8-libreta-de-puntajes-de-signos-mp-98-8-90041-pdf.pdf",
+      "assetName": "tl-111-90041.pdf",
       "localPath": "recursos/tl-111-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-8-libreta-de-puntajes-de-signos-mp-98-8-90041-pdf.pdf",
       "preview": null
     },
@@ -1939,7 +1939,7 @@
       "sizeBytes": 150491,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-112-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-9-juego-de-30-tarjetas-mp-98-9-9-juego-de-30-tarjetas-mp-98-9-pdf.pdf",
+      "assetName": "tl-112-9-juego-de-30-tarjetas-mp-98-9.pdf",
       "localPath": "recursos/tl-112-instrumentos-de-evaluacion-otros-eni-2-bateria-neuropsicologica-infantil-9-juego-de-30-tarjetas-mp-98-9-9-juego-de-30-tarjetas-mp-98-9-pdf.pdf",
       "preview": null
     },
@@ -1956,7 +1956,7 @@
       "sizeBytes": 153657299,
       "sizeLabel": "146,5 MB",
       "largeFile": true,
-      "assetName": "tl-113-instrumentos-de-evaluacion-otros-taveci-test-de-aprendizaje-verbal-infantil-cuadernillo-pdf.pdf",
+      "assetName": "tl-113-cuadernillo.pdf",
       "localPath": "recursos/tl-113-instrumentos-de-evaluacion-otros-taveci-test-de-aprendizaje-verbal-infantil-cuadernillo-pdf.pdf",
       "preview": null
     },
@@ -1973,7 +1973,7 @@
       "sizeBytes": 18893118,
       "sizeLabel": "18,0 MB",
       "largeFile": false,
-      "assetName": "tl-114-instrumentos-de-evaluacion-otros-taveci-test-de-aprendizaje-verbal-infantil-manual-pdf.pdf",
+      "assetName": "tl-114-manual.pdf",
       "localPath": "recursos/tl-114-instrumentos-de-evaluacion-otros-taveci-test-de-aprendizaje-verbal-infantil-manual-pdf.pdf",
       "preview": null
     },
@@ -1990,7 +1990,7 @@
       "sizeBytes": 14590401,
       "sizeLabel": "13,9 MB",
       "largeFile": false,
-      "assetName": "tl-115-instrumentos-de-evaluacion-otros-taveci-test-de-aprendizaje-verbal-infantil-tablas-pdf.pdf",
+      "assetName": "tl-115-tablas.pdf",
       "localPath": "recursos/tl-115-instrumentos-de-evaluacion-otros-taveci-test-de-aprendizaje-verbal-infantil-tablas-pdf.pdf",
       "preview": null
     },
@@ -2007,7 +2007,7 @@
       "sizeBytes": 13187088,
       "sizeLabel": "12,6 MB",
       "largeFile": false,
-      "assetName": "tl-116-instrumentos-de-evaluacion-otros-test-para-la-comprension-auditiva-del-lenguaje-tecal-laminas-pdf.pdf",
+      "assetName": "tl-116-tecal-laminas.pdf",
       "localPath": "recursos/tl-116-instrumentos-de-evaluacion-otros-test-para-la-comprension-auditiva-del-lenguaje-tecal-laminas-pdf.pdf",
       "preview": null
     },
@@ -2024,7 +2024,7 @@
       "sizeBytes": 2626526,
       "sizeLabel": "2,5 MB",
       "largeFile": false,
-      "assetName": "tl-117-instrumentos-de-evaluacion-otros-test-para-la-comprension-auditiva-del-lenguaje-tecal-manual-pdf.pdf",
+      "assetName": "tl-117-tecal-manual.pdf",
       "localPath": "recursos/tl-117-instrumentos-de-evaluacion-otros-test-para-la-comprension-auditiva-del-lenguaje-tecal-manual-pdf.pdf",
       "preview": null
     },
@@ -2041,7 +2041,7 @@
       "sizeBytes": 17274226,
       "sizeLabel": "16,5 MB",
       "largeFile": false,
-      "assetName": "tl-118-instrumentos-de-evaluacion-otros-wisc-iv-m-claves-para-la-evaluacion-con-wisc-iv-manual-moderno-pdf.pdf",
+      "assetName": "tl-118-claves-para-la-evaluaci-n-con-wisc-iv-manual-moderno.pdf",
       "localPath": "recursos/tl-118-instrumentos-de-evaluacion-otros-wisc-iv-m-claves-para-la-evaluacion-con-wisc-iv-manual-moderno-pdf.pdf",
       "preview": null
     },
@@ -2058,7 +2058,7 @@
       "sizeBytes": 1355797,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-119-instrumentos-de-evaluacion-otros-wisc-iv-m-cuadernillo-respuestas-1-test-wisc-iv-manual-moderno-compressed-pdf.pdf",
+      "assetName": "tl-119-cuadernillo-respuestas-1-test-wisc-iv-manual-moderno-compressed.pdf",
       "localPath": "recursos/tl-119-instrumentos-de-evaluacion-otros-wisc-iv-m-cuadernillo-respuestas-1-test-wisc-iv-manual-moderno-compressed-pdf.pdf",
       "preview": null
     },
@@ -2075,7 +2075,7 @@
       "sizeBytes": 925590,
       "sizeLabel": "0,9 MB",
       "largeFile": false,
-      "assetName": "tl-120-instrumentos-de-evaluacion-otros-wisc-iv-m-cuadernillo-respuestas-2-test-wisc-iv-manual-moderno-compressed-pdf.pdf",
+      "assetName": "tl-120-cuadernillo-respuestas-2-test-wisc-iv-manual-moderno-compressed.pdf",
       "localPath": "recursos/tl-120-instrumentos-de-evaluacion-otros-wisc-iv-m-cuadernillo-respuestas-2-test-wisc-iv-manual-moderno-compressed-pdf.pdf",
       "preview": null
     },
@@ -2092,7 +2092,7 @@
       "sizeBytes": 7394367,
       "sizeLabel": "7,1 MB",
       "largeFile": false,
-      "assetName": "tl-121-instrumentos-de-evaluacion-otros-wisc-iv-m-cuaderno-de-estimulos-1-test-wisc-iv-manual-moderno-compressed-pdf.pdf",
+      "assetName": "tl-121-cuaderno-de-est-mulos-1-test-wisc-iv-manual-moderno-compressed.pdf",
       "localPath": "recursos/tl-121-instrumentos-de-evaluacion-otros-wisc-iv-m-cuaderno-de-estimulos-1-test-wisc-iv-manual-moderno-compressed-pdf.pdf",
       "preview": null
     },
@@ -2109,7 +2109,7 @@
       "sizeBytes": 4427769,
       "sizeLabel": "4,2 MB",
       "largeFile": false,
-      "assetName": "tl-122-instrumentos-de-evaluacion-otros-wisc-iv-m-cuaderno-de-estimulos-2-test-wisc-iv-manual-moderno-compressed-pdf.pdf",
+      "assetName": "tl-122-cuaderno-de-est-mulos-2-test-wisc-iv-manual-moderno-compressed.pdf",
       "localPath": "recursos/tl-122-instrumentos-de-evaluacion-otros-wisc-iv-m-cuaderno-de-estimulos-2-test-wisc-iv-manual-moderno-compressed-pdf.pdf",
       "preview": null
     },
@@ -2126,7 +2126,7 @@
       "sizeBytes": 871089,
       "sizeLabel": "0,8 MB",
       "largeFile": false,
-      "assetName": "tl-123-instrumentos-de-evaluacion-otros-wisc-iv-m-hipotesis-de-los-factores-del-wisc-compressed-pdf.pdf",
+      "assetName": "tl-123-hip-tesis-de-los-factores-del-wisc-compressed.pdf",
       "localPath": "recursos/tl-123-instrumentos-de-evaluacion-otros-wisc-iv-m-hipotesis-de-los-factores-del-wisc-compressed-pdf.pdf",
       "preview": null
     },
@@ -2143,7 +2143,7 @@
       "sizeBytes": 3389237,
       "sizeLabel": "3,2 MB",
       "largeFile": false,
-      "assetName": "tl-124-instrumentos-de-evaluacion-otros-wisc-iv-m-hipotesis-de-los-factores-del-wisc-pdf.pdf",
+      "assetName": "tl-124-hip-tesis-de-los-factores-del-wisc.pdf",
       "localPath": "recursos/tl-124-instrumentos-de-evaluacion-otros-wisc-iv-m-hipotesis-de-los-factores-del-wisc-pdf.pdf",
       "preview": null
     },
@@ -2160,7 +2160,7 @@
       "sizeBytes": 19079803,
       "sizeLabel": "18,2 MB",
       "largeFile": false,
-      "assetName": "tl-125-instrumentos-de-evaluacion-otros-wisc-iv-m-manual-test-wisc-iv-manual-moderno-form-alt-pdf.pdf",
+      "assetName": "tl-125-manual-test-wisc-iv-manual-moderno-form-alt.pdf",
       "localPath": "recursos/tl-125-instrumentos-de-evaluacion-otros-wisc-iv-m-manual-test-wisc-iv-manual-moderno-form-alt-pdf.pdf",
       "preview": null
     },
@@ -2177,7 +2177,7 @@
       "sizeBytes": 64911494,
       "sizeLabel": "61,9 MB",
       "largeFile": true,
-      "assetName": "tl-126-instrumentos-de-evaluacion-otros-wisc-iv-m-manual-test-wisc-iv-manual-moderno-pdf.pdf",
+      "assetName": "tl-126-manual-test-wisc-iv-manual-moderno.pdf",
       "localPath": "recursos/tl-126-instrumentos-de-evaluacion-otros-wisc-iv-m-manual-test-wisc-iv-manual-moderno-pdf.pdf",
       "preview": null
     },
@@ -2194,7 +2194,7 @@
       "sizeBytes": 668056,
       "sizeLabel": "0,6 MB",
       "largeFile": false,
-      "assetName": "tl-127-instrumentos-de-evaluacion-otros-wisc-iv-m-plantillas-de-calificacion-test-wisc-iv-manual-moderno-compressed-pdf.pdf",
+      "assetName": "tl-127-plantillas-de-calificaci-n-test-wisc-iv-manual-moderno-compressed.pdf",
       "localPath": "recursos/tl-127-instrumentos-de-evaluacion-otros-wisc-iv-m-plantillas-de-calificacion-test-wisc-iv-manual-moderno-compressed-pdf.pdf",
       "preview": null
     },
@@ -2211,7 +2211,7 @@
       "sizeBytes": 1335028,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-128-instrumentos-de-evaluacion-otros-wisc-iv-m-plantillas-de-calificacion-test-wisc-iv-manual-moderno-pdf.pdf",
+      "assetName": "tl-128-plantillas-de-calificaci-n-test-wisc-iv-manual-moderno.pdf",
       "localPath": "recursos/tl-128-instrumentos-de-evaluacion-otros-wisc-iv-m-plantillas-de-calificacion-test-wisc-iv-manual-moderno-pdf.pdf",
       "preview": null
     },
@@ -2228,7 +2228,7 @@
       "sizeBytes": 2930595,
       "sizeLabel": "2,8 MB",
       "largeFile": false,
-      "assetName": "tl-129-instrumentos-de-evaluacion-otros-wisc-iv-m-protocolo-de-registro-test-wisc-iv-manual-moderno-compressed-pdf.pdf",
+      "assetName": "tl-129-protocolo-de-registro-test-wisc-iv-manual-moderno-compressed.pdf",
       "localPath": "recursos/tl-129-instrumentos-de-evaluacion-otros-wisc-iv-m-protocolo-de-registro-test-wisc-iv-manual-moderno-compressed-pdf.pdf",
       "preview": null
     },
@@ -2245,7 +2245,7 @@
       "sizeBytes": 8478003,
       "sizeLabel": "8,1 MB",
       "largeFile": false,
-      "assetName": "tl-130-instrumentos-de-evaluacion-otros-wisc-iv-m-protocolo-de-registro-test-wisc-iv-manual-moderno-pdf.pdf",
+      "assetName": "tl-130-protocolo-de-registro-test-wisc-iv-manual-moderno.pdf",
       "localPath": "recursos/tl-130-instrumentos-de-evaluacion-otros-wisc-iv-m-protocolo-de-registro-test-wisc-iv-manual-moderno-pdf.pdf",
       "preview": null
     },
@@ -2262,7 +2262,7 @@
       "sizeBytes": 16439808,
       "sizeLabel": "15,7 MB",
       "largeFile": false,
-      "assetName": "tl-131-instrumentos-de-evaluacion-otros-wisc-iv-m-registro-doc.doc",
+      "assetName": "tl-131-registro.doc",
       "localPath": "recursos/tl-131-instrumentos-de-evaluacion-otros-wisc-iv-m-registro-doc.doc",
       "preview": null
     },
@@ -2279,7 +2279,7 @@
       "sizeBytes": 100352,
       "sizeLabel": "0,1 MB",
       "largeFile": false,
-      "assetName": "tl-132-instrumentos-de-evaluacion-otros-wisc-iv-m-software-xls.xls",
+      "assetName": "tl-132-software.xls",
       "localPath": "recursos/tl-132-instrumentos-de-evaluacion-otros-wisc-iv-m-software-xls.xls",
       "preview": null
     },
@@ -2296,7 +2296,7 @@
       "sizeBytes": 8091857,
       "sizeLabel": "7,7 MB",
       "largeFile": false,
-      "assetName": "tl-133-instrumentos-de-evaluacion-otros-wisc-iv-m-tablas-de-calificacion-test-wisc-iv-manual-moderno-apendice-a-untitled-compressed-pdf.pdf",
+      "assetName": "tl-133-untitled-compressed.pdf",
       "localPath": "recursos/tl-133-instrumentos-de-evaluacion-otros-wisc-iv-m-tablas-de-calificacion-test-wisc-iv-manual-moderno-apendice-a-untitled-compressed-pdf.pdf",
       "preview": null
     },
@@ -2313,7 +2313,7 @@
       "sizeBytes": 2356857,
       "sizeLabel": "2,2 MB",
       "largeFile": false,
-      "assetName": "tl-134-instrumentos-de-evaluacion-otros-wisc-iv-m-tablas-de-calificacion-test-wisc-iv-manual-moderno-apendice-b-untitled-compressed-pdf.pdf",
+      "assetName": "tl-134-untitled-compressed.pdf",
       "localPath": "recursos/tl-134-instrumentos-de-evaluacion-otros-wisc-iv-m-tablas-de-calificacion-test-wisc-iv-manual-moderno-apendice-b-untitled-compressed-pdf.pdf",
       "preview": null
     },
@@ -2330,7 +2330,7 @@
       "sizeBytes": 1800044,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-135-instrumentos-de-evaluacion-otros-wisc-iv-m-tablas-de-calificacion-test-wisc-iv-manual-moderno-apendice-c-untitled-compressed-pdf.pdf",
+      "assetName": "tl-135-untitled-compressed.pdf",
       "localPath": "recursos/tl-135-instrumentos-de-evaluacion-otros-wisc-iv-m-tablas-de-calificacion-test-wisc-iv-manual-moderno-apendice-c-untitled-compressed-pdf.pdf",
       "preview": null
     },
@@ -2347,7 +2347,7 @@
       "sizeBytes": 718110,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-136-libros-sobre-logoterapia-dialogo-socratico-logoterapia-pdf.pdf",
+      "assetName": "tl-136-di-logo-socr-tico-logoterapia.pdf",
       "localPath": "recursos/tl-136-libros-sobre-logoterapia-dialogo-socratico-logoterapia-pdf.pdf",
       "preview": null
     },
@@ -2364,7 +2364,7 @@
       "sizeBytes": 1030275,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-137-libros-sobre-logoterapia-el-hombre-en-busca-de-sentido-viktor-frankl-pdf.pdf",
+      "assetName": "tl-137-el-hombre-en-busca-de-sentido-viktor-frankl.pdf",
       "localPath": "recursos/tl-137-libros-sobre-logoterapia-el-hombre-en-busca-de-sentido-viktor-frankl-pdf.pdf",
       "preview": null
     },
@@ -2381,7 +2381,7 @@
       "sizeBytes": 2067292,
       "sizeLabel": "2,0 MB",
       "largeFile": false,
-      "assetName": "tl-138-libros-sobre-logoterapia-frankl-fundamentos-y-aplicaciones-de-la-logoterapia-pdf.pdf",
+      "assetName": "tl-138-frankl-fundamentos-y-aplicaciones-de-la-logoterapia.pdf",
       "localPath": "recursos/tl-138-libros-sobre-logoterapia-frankl-fundamentos-y-aplicaciones-de-la-logoterapia-pdf.pdf",
       "preview": null
     },
@@ -2398,7 +2398,7 @@
       "sizeBytes": 1788213,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-139-libros-sobre-logoterapia-frankl-logoterapia-y-analisis-existencial-textos-de-cinco-decadas-pdf.pdf",
+      "assetName": "tl-139-frankl-logoterapia-y-an-lisis-existencial-textos-de-cinco-d-cadas.pdf",
       "localPath": "recursos/tl-139-libros-sobre-logoterapia-frankl-logoterapia-y-analisis-existencial-textos-de-cinco-decadas-pdf.pdf",
       "preview": null
     },
@@ -2415,7 +2415,7 @@
       "sizeBytes": 873241,
       "sizeLabel": "0,8 MB",
       "largeFile": false,
-      "assetName": "tl-140-libros-sobre-logoterapia-libro-de-logoterapia-encontrando-y-realizando-sentido-pdf.pdf",
+      "assetName": "tl-140-libro-de-logoterapia-encontrando-y-realizando-sentido.pdf",
       "localPath": "recursos/tl-140-libros-sobre-logoterapia-libro-de-logoterapia-encontrando-y-realizando-sentido-pdf.pdf",
       "preview": null
     },
@@ -2432,7 +2432,7 @@
       "sizeBytes": 873241,
       "sizeLabel": "0,8 MB",
       "largeFile": false,
-      "assetName": "tl-141-libros-sobre-logoterapia-libro-de-logoterapia-encontrando-y-realizando-sentido-1-pdf.pdf",
+      "assetName": "tl-141-libro-de-logoterapia-encontrando-y-realizando-sentido-1.pdf",
       "localPath": "recursos/tl-141-libros-sobre-logoterapia-libro-de-logoterapia-encontrando-y-realizando-sentido-1-pdf.pdf",
       "preview": null
     },
@@ -2449,7 +2449,7 @@
       "sizeBytes": 521314,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-142-libros-sobre-logoterapia-logoterapia-y-drogradiccion-jose-arturo-luna-vargas-pdf.pdf",
+      "assetName": "tl-142-logoterapia-y-drogradicci-n-jos-arturo-luna-vargas.pdf",
       "localPath": "recursos/tl-142-libros-sobre-logoterapia-logoterapia-y-drogradiccion-jose-arturo-luna-vargas-pdf.pdf",
       "preview": null
     },
@@ -2466,7 +2466,7 @@
       "sizeBytes": 205116,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-143-libros-sobre-logoterapia-logoterapia-ensayo-pdf.pdf",
+      "assetName": "tl-143-logoterapia-ensayo.pdf",
       "localPath": "recursos/tl-143-libros-sobre-logoterapia-logoterapia-ensayo-pdf.pdf",
       "preview": null
     },
@@ -2483,7 +2483,7 @@
       "sizeBytes": 1217182,
       "sizeLabel": "1,2 MB",
       "largeFile": false,
-      "assetName": "tl-144-libros-sobre-logoterapia-logoterapia-tercera-escuela-vienesa-de-sicologia-jose-arturo-luna-pdf.pdf",
+      "assetName": "tl-144-logoterapia-tercera-escuela-vienesa-de-sicolog-a-jos-arturo-luna.pdf",
       "localPath": "recursos/tl-144-libros-sobre-logoterapia-logoterapia-tercera-escuela-vienesa-de-sicologia-jose-arturo-luna-pdf.pdf",
       "preview": null
     },
@@ -2500,7 +2500,7 @@
       "sizeBytes": 1907547,
       "sizeLabel": "1,8 MB",
       "largeFile": false,
-      "assetName": "tl-145-libros-sobre-logoterapia-teoria-y-terapia-de-las-neurosis-viktor-emil-frankl-pdf.pdf",
+      "assetName": "tl-145-teor-a-y-terapia-de-las-neurosis-viktor-emil-frankl.pdf",
       "localPath": "recursos/tl-145-libros-sobre-logoterapia-teoria-y-terapia-de-las-neurosis-viktor-emil-frankl-pdf.pdf",
       "preview": null
     },
@@ -2517,7 +2517,7 @@
       "sizeBytes": 583001,
       "sizeLabel": "0,6 MB",
       "largeFile": false,
-      "assetName": "tl-146-material-de-trabajo-estimulacion-de-lenguaje-correos-electronicos-lenguaje-pdf.pdf",
+      "assetName": "tl-146-correos-electr-nicos-lenguaje.pdf",
       "localPath": "recursos/tl-146-material-de-trabajo-estimulacion-de-lenguaje-correos-electronicos-lenguaje-pdf.pdf",
       "preview": null
     },
@@ -2534,7 +2534,7 @@
       "sizeBytes": 2279225,
       "sizeLabel": "2,2 MB",
       "largeFile": false,
-      "assetName": "tl-147-material-de-trabajo-estimulacion-de-lenguaje-correos-electronicos-materiales-para-trabajar-las-habilidades-fonologicas-creena-pdf.pdf",
+      "assetName": "tl-147-correos-electr-nicos-materiales-para-trabajar-las-habilidades-fonologica.pdf",
       "localPath": "recursos/tl-147-material-de-trabajo-estimulacion-de-lenguaje-correos-electronicos-materiales-para-trabajar-las-habilidades-fonologicas-creena-pdf.pdf",
       "preview": null
     },
@@ -2551,7 +2551,7 @@
       "sizeBytes": 7833043,
       "sizeLabel": "7,5 MB",
       "largeFile": false,
-      "assetName": "tl-148-material-de-trabajo-estimulacion-de-lenguaje-cuadernillo-de-lenguaje-3-pdf-pdf.pdf",
+      "assetName": "tl-148-cuadernillo-de-lenguaje-3-pdf.pdf",
       "localPath": "recursos/tl-148-material-de-trabajo-estimulacion-de-lenguaje-cuadernillo-de-lenguaje-3-pdf-pdf.pdf",
       "preview": null
     },
@@ -2568,7 +2568,7 @@
       "sizeBytes": 1788206,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-149-material-de-trabajo-estimulacion-de-lenguaje-cuadernillo-trabajo-niveles-del-lenguaje-pdf.pdf",
+      "assetName": "tl-149-cuadernillo-trabajo-niveles-del-lenguaje.pdf",
       "localPath": "recursos/tl-149-material-de-trabajo-estimulacion-de-lenguaje-cuadernillo-trabajo-niveles-del-lenguaje-pdf.pdf",
       "preview": null
     },
@@ -2585,7 +2585,7 @@
       "sizeBytes": 1819268,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-150-material-de-trabajo-estimulacion-de-lenguaje-cuaderno-actividades-para-estimular-el-lenguaje-red-cenit-pdf.pdf",
+      "assetName": "tl-150-cuaderno-actividades-para-estimular-el-lenguaje-red-cenit.pdf",
       "localPath": "recursos/tl-150-material-de-trabajo-estimulacion-de-lenguaje-cuaderno-actividades-para-estimular-el-lenguaje-red-cenit-pdf.pdf",
       "preview": null
     },
@@ -2602,7 +2602,7 @@
       "sizeBytes": 7293863,
       "sizeLabel": "7,0 MB",
       "largeFile": false,
-      "assetName": "tl-151-material-de-trabajo-estimulacion-de-lenguaje-libro-de-estimulacion-del-lenguaje-oral-pdf.pdf",
+      "assetName": "tl-151-libro-de-estimulacion-del-lenguaje-oral.pdf",
       "localPath": "recursos/tl-151-material-de-trabajo-estimulacion-de-lenguaje-libro-de-estimulacion-del-lenguaje-oral-pdf.pdf",
       "preview": null
     },
@@ -2619,7 +2619,7 @@
       "sizeBytes": 18954071,
       "sizeLabel": "18,1 MB",
       "largeFile": false,
-      "assetName": "tl-152-material-de-trabajo-terapia-de-lenguaje-corefo-1pca-act-pdf.pdf",
+      "assetName": "tl-152-1pca-act.pdf",
       "localPath": "recursos/tl-152-material-de-trabajo-terapia-de-lenguaje-corefo-1pca-act-pdf.pdf",
       "preview": null
     },
@@ -2636,7 +2636,7 @@
       "sizeBytes": 21024994,
       "sizeLabel": "20,1 MB",
       "largeFile": false,
-      "assetName": "tl-153-material-de-trabajo-terapia-de-lenguaje-corefo-2prim-com-act-pdf.pdf",
+      "assetName": "tl-153-2prim-com-act.pdf",
       "localPath": "recursos/tl-153-material-de-trabajo-terapia-de-lenguaje-corefo-2prim-com-act-pdf.pdf",
       "preview": null
     },
@@ -2653,7 +2653,7 @@
       "sizeBytes": 14607023,
       "sizeLabel": "13,9 MB",
       "largeFile": false,
-      "assetName": "tl-154-material-de-trabajo-terapia-de-lenguaje-corefo-4prim-com-act-pdf.pdf",
+      "assetName": "tl-154-4prim-com-act.pdf",
       "localPath": "recursos/tl-154-material-de-trabajo-terapia-de-lenguaje-corefo-4prim-com-act-pdf.pdf",
       "preview": null
     },
@@ -2670,7 +2670,7 @@
       "sizeBytes": 12937758,
       "sizeLabel": "12,3 MB",
       "largeFile": false,
-      "assetName": "tl-155-material-de-trabajo-terapia-de-lenguaje-corefo-5prim-com-act-pdf.pdf",
+      "assetName": "tl-155-5prim-com-act.pdf",
       "localPath": "recursos/tl-155-material-de-trabajo-terapia-de-lenguaje-corefo-5prim-com-act-pdf.pdf",
       "preview": null
     },
@@ -2687,7 +2687,7 @@
       "sizeBytes": 11754180,
       "sizeLabel": "11,2 MB",
       "largeFile": false,
-      "assetName": "tl-156-material-de-trabajo-terapia-de-lenguaje-corefo-hab-com-3a-pdf.pdf",
+      "assetName": "tl-156-hab-com-3a.pdf",
       "localPath": "recursos/tl-156-material-de-trabajo-terapia-de-lenguaje-corefo-hab-com-3a-pdf.pdf",
       "preview": null
     },
@@ -2704,7 +2704,7 @@
       "sizeBytes": 12606483,
       "sizeLabel": "12,0 MB",
       "largeFile": false,
-      "assetName": "tl-157-material-de-trabajo-terapia-de-lenguaje-corefo-hab-com-4a-pdf.pdf",
+      "assetName": "tl-157-hab-com-4a.pdf",
       "localPath": "recursos/tl-157-material-de-trabajo-terapia-de-lenguaje-corefo-hab-com-4a-pdf.pdf",
       "preview": null
     },
@@ -2721,7 +2721,7 @@
       "sizeBytes": 10424833,
       "sizeLabel": "9,9 MB",
       "largeFile": false,
-      "assetName": "tl-158-material-de-trabajo-terapia-de-lenguaje-corefo-hab-com-5a-pdf.pdf",
+      "assetName": "tl-158-hab-com-5a.pdf",
       "localPath": "recursos/tl-158-material-de-trabajo-terapia-de-lenguaje-corefo-hab-com-5a-pdf.pdf",
       "preview": null
     },
@@ -2738,7 +2738,7 @@
       "sizeBytes": 12925016,
       "sizeLabel": "12,3 MB",
       "largeFile": false,
-      "assetName": "tl-159-material-de-trabajo-terapia-de-lenguaje-corefo-hab-mat-3a-pdf.pdf",
+      "assetName": "tl-159-hab-mat-3a.pdf",
       "localPath": "recursos/tl-159-material-de-trabajo-terapia-de-lenguaje-corefo-hab-mat-3a-pdf.pdf",
       "preview": null
     },
@@ -2755,7 +2755,7 @@
       "sizeBytes": 9354618,
       "sizeLabel": "8,9 MB",
       "largeFile": false,
-      "assetName": "tl-160-material-de-trabajo-terapia-de-lenguaje-corefo-hab-mat-4a-pdf.pdf",
+      "assetName": "tl-160-hab-mat-4a.pdf",
       "localPath": "recursos/tl-160-material-de-trabajo-terapia-de-lenguaje-corefo-hab-mat-4a-pdf.pdf",
       "preview": null
     },
@@ -2772,7 +2772,7 @@
       "sizeBytes": 10738127,
       "sizeLabel": "10,2 MB",
       "largeFile": false,
-      "assetName": "tl-161-material-de-trabajo-terapia-de-lenguaje-corefo-hab-mat-5a-pdf.pdf",
+      "assetName": "tl-161-hab-mat-5a.pdf",
       "localPath": "recursos/tl-161-material-de-trabajo-terapia-de-lenguaje-corefo-hab-mat-5a-pdf.pdf",
       "preview": null
     },
@@ -2789,7 +2789,7 @@
       "sizeBytes": 7696440,
       "sizeLabel": "7,3 MB",
       "largeFile": false,
-      "assetName": "tl-162-material-de-trabajo-terapia-de-lenguaje-corefo-ingles-3a-pdf.pdf",
+      "assetName": "tl-162-ingles-3a.pdf",
       "localPath": "recursos/tl-162-material-de-trabajo-terapia-de-lenguaje-corefo-ingles-3a-pdf.pdf",
       "preview": null
     },
@@ -2806,7 +2806,7 @@
       "sizeBytes": 8249045,
       "sizeLabel": "7,9 MB",
       "largeFile": false,
-      "assetName": "tl-163-material-de-trabajo-terapia-de-lenguaje-corefo-ingles-4a-pdf.pdf",
+      "assetName": "tl-163-ingles-4a.pdf",
       "localPath": "recursos/tl-163-material-de-trabajo-terapia-de-lenguaje-corefo-ingles-4a-pdf.pdf",
       "preview": null
     },
@@ -2823,7 +2823,7 @@
       "sizeBytes": 12458704,
       "sizeLabel": "11,9 MB",
       "largeFile": false,
-      "assetName": "tl-164-material-de-trabajo-terapia-de-lenguaje-corefo-ingles-5a-pdf.pdf",
+      "assetName": "tl-164-ingles-5a.pdf",
       "localPath": "recursos/tl-164-material-de-trabajo-terapia-de-lenguaje-corefo-ingles-5a-pdf.pdf",
       "preview": null
     },
@@ -2840,7 +2840,7 @@
       "sizeBytes": 20085174,
       "sizeLabel": "19,2 MB",
       "largeFile": false,
-      "assetName": "tl-165-material-de-trabajo-terapia-de-lenguaje-corefo-libro-2-a-pdf.pdf",
+      "assetName": "tl-165-libro-2-a.pdf",
       "localPath": "recursos/tl-165-material-de-trabajo-terapia-de-lenguaje-corefo-libro-2-a-pdf.pdf",
       "preview": null
     },
@@ -2857,7 +2857,7 @@
       "sizeBytes": 2270385,
       "sizeLabel": "2,2 MB",
       "largeFile": false,
-      "assetName": "tl-166-material-de-trabajo-terapia-de-lenguaje-corefo-libro-2-a-1-pdf.pdf",
+      "assetName": "tl-166-libro-2-a-1.pdf",
       "localPath": "recursos/tl-166-material-de-trabajo-terapia-de-lenguaje-corefo-libro-2-a-1-pdf.pdf",
       "preview": null
     },
@@ -2874,7 +2874,7 @@
       "sizeBytes": 3478036,
       "sizeLabel": "3,3 MB",
       "largeFile": false,
-      "assetName": "tl-167-material-de-trabajo-terapia-de-lenguaje-corefo-libro-3p-mate-actividades-pdf.pdf",
+      "assetName": "tl-167-libro-3p-mate-actividades.pdf",
       "localPath": "recursos/tl-167-material-de-trabajo-terapia-de-lenguaje-corefo-libro-3p-mate-actividades-pdf.pdf",
       "preview": null
     },
@@ -2891,7 +2891,7 @@
       "sizeBytes": 4460180,
       "sizeLabel": "4,3 MB",
       "largeFile": false,
-      "assetName": "tl-168-material-de-trabajo-terapia-de-lenguaje-corefo-libro-3p-mate-area-pdf.pdf",
+      "assetName": "tl-168-libro-3p-mate-area.pdf",
       "localPath": "recursos/tl-168-material-de-trabajo-terapia-de-lenguaje-corefo-libro-3p-mate-area-pdf.pdf",
       "preview": null
     },
@@ -2908,7 +2908,7 @@
       "sizeBytes": 3305236,
       "sizeLabel": "3,2 MB",
       "largeFile": false,
-      "assetName": "tl-169-material-de-trabajo-terapia-de-lenguaje-corefo-libro-6p-mate-actividades-pdf.pdf",
+      "assetName": "tl-169-libro-6p-mate-actividades.pdf",
       "localPath": "recursos/tl-169-material-de-trabajo-terapia-de-lenguaje-corefo-libro-6p-mate-actividades-pdf.pdf",
       "preview": null
     },
@@ -2925,7 +2925,7 @@
       "sizeBytes": 3791439,
       "sizeLabel": "3,6 MB",
       "largeFile": false,
-      "assetName": "tl-170-material-de-trabajo-terapia-de-lenguaje-corefo-libro-6p-mate-area-pdf.pdf",
+      "assetName": "tl-170-libro-6p-mate-area.pdf",
       "localPath": "recursos/tl-170-material-de-trabajo-terapia-de-lenguaje-corefo-libro-6p-mate-area-pdf.pdf",
       "preview": null
     },
@@ -2942,7 +2942,7 @@
       "sizeBytes": 18291564,
       "sizeLabel": "17,4 MB",
       "largeFile": false,
-      "assetName": "tl-171-material-de-trabajo-terapia-de-lenguaje-corefo-ps-ca-3a-pdf.pdf",
+      "assetName": "tl-171-ps-ca-3a.pdf",
       "localPath": "recursos/tl-171-material-de-trabajo-terapia-de-lenguaje-corefo-ps-ca-3a-pdf.pdf",
       "preview": null
     },
@@ -2959,7 +2959,7 @@
       "sizeBytes": 17912088,
       "sizeLabel": "17,1 MB",
       "largeFile": false,
-      "assetName": "tl-172-material-de-trabajo-terapia-de-lenguaje-corefo-ps-ca-4a-pdf.pdf",
+      "assetName": "tl-172-ps-ca-4a.pdf",
       "localPath": "recursos/tl-172-material-de-trabajo-terapia-de-lenguaje-corefo-ps-ca-4a-pdf.pdf",
       "preview": null
     },
@@ -2976,7 +2976,7 @@
       "sizeBytes": 19663532,
       "sizeLabel": "18,8 MB",
       "largeFile": false,
-      "assetName": "tl-173-material-de-trabajo-terapia-de-lenguaje-corefo-ps-ca-5a-pdf.pdf",
+      "assetName": "tl-173-ps-ca-5a.pdf",
       "localPath": "recursos/tl-173-material-de-trabajo-terapia-de-lenguaje-corefo-ps-ca-5a-pdf.pdf",
       "preview": null
     },
@@ -2993,7 +2993,7 @@
       "sizeBytes": 1958241,
       "sizeLabel": "1,9 MB",
       "largeFile": false,
-      "assetName": "tl-174-material-de-trabajo-terapia-de-lenguaje-cuadernillo-de-actividades-cuadernillo-40-actividades-eduacion-preescolar-5-anos-1-pdf.pdf",
+      "assetName": "tl-174-cuadernillo-40-actividades-eduaci-n-preescolar-5-a-os-1.pdf",
       "localPath": "recursos/tl-174-material-de-trabajo-terapia-de-lenguaje-cuadernillo-de-actividades-cuadernillo-40-actividades-eduacion-preescolar-5-anos-1-pdf.pdf",
       "preview": null
     },
@@ -3010,7 +3010,7 @@
       "sizeBytes": 7019287,
       "sizeLabel": "6,7 MB",
       "largeFile": false,
-      "assetName": "tl-175-material-de-trabajo-terapia-de-lenguaje-cuaderno-para-4-anos-cuaderno-de-actividades-verano-4-anos-pdf.pdf",
+      "assetName": "tl-175-cuaderno-de-actividades-verano-4-a-os.pdf",
       "localPath": "recursos/tl-175-material-de-trabajo-terapia-de-lenguaje-cuaderno-para-4-anos-cuaderno-de-actividades-verano-4-anos-pdf.pdf",
       "preview": null
     },
@@ -3027,7 +3027,7 @@
       "sizeBytes": 8153713,
       "sizeLabel": "7,8 MB",
       "largeFile": false,
-      "assetName": "tl-176-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-101-dalmatas-pdf.pdf",
+      "assetName": "tl-176-copia-de-101-dalmatas.pdf",
       "localPath": "recursos/tl-176-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-101-dalmatas-pdf.pdf",
       "preview": null
     },
@@ -3044,7 +3044,7 @@
       "sizeBytes": 9149313,
       "sizeLabel": "8,7 MB",
       "largeFile": false,
-      "assetName": "tl-177-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-alicia-en-el-pais-de-las-maravillas-pdf.pdf",
+      "assetName": "tl-177-copia-de-alicia-en-el-pais-de-las-maravillas.pdf",
       "localPath": "recursos/tl-177-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-alicia-en-el-pais-de-las-maravillas-pdf.pdf",
       "preview": null
     },
@@ -3061,7 +3061,7 @@
       "sizeBytes": 8496755,
       "sizeLabel": "8,1 MB",
       "largeFile": false,
-      "assetName": "tl-178-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-basil-el-raton-superdetective-pdf.pdf",
+      "assetName": "tl-178-copia-de-basil-el-raton-superdetective.pdf",
       "localPath": "recursos/tl-178-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-basil-el-raton-superdetective-pdf.pdf",
       "preview": null
     },
@@ -3078,7 +3078,7 @@
       "sizeBytes": 10170217,
       "sizeLabel": "9,7 MB",
       "largeFile": false,
-      "assetName": "tl-179-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-blancanieves-y-los-siete-enanitos-pdf.pdf",
+      "assetName": "tl-179-copia-de-blancanieves-y-los-siete-enanitos.pdf",
       "localPath": "recursos/tl-179-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-blancanieves-y-los-siete-enanitos-pdf.pdf",
       "preview": null
     },
@@ -3095,7 +3095,7 @@
       "sizeBytes": 4317848,
       "sizeLabel": "4,1 MB",
       "largeFile": false,
-      "assetName": "tl-180-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-disney-walt-bambi-pdf.pdf",
+      "assetName": "tl-180-copia-de-disney-walt-bambi.pdf",
       "localPath": "recursos/tl-180-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-disney-walt-bambi-pdf.pdf",
       "preview": null
     },
@@ -3112,7 +3112,7 @@
       "sizeBytes": 4754217,
       "sizeLabel": "4,5 MB",
       "largeFile": false,
-      "assetName": "tl-181-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-disney-walt-pocahontas-pdf.pdf",
+      "assetName": "tl-181-copia-de-disney-walt-pocahontas.pdf",
       "localPath": "recursos/tl-181-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-disney-walt-pocahontas-pdf.pdf",
       "preview": null
     },
@@ -3129,7 +3129,7 @@
       "sizeBytes": 22518475,
       "sizeLabel": "21,5 MB",
       "largeFile": false,
-      "assetName": "tl-182-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-los-rescatadores-en-cangurolandia-pdf.pdf",
+      "assetName": "tl-182-copia-de-los-rescatadores-en-cangurolandia.pdf",
       "localPath": "recursos/tl-182-material-de-trabajo-terapia-de-lenguaje-cuentos-divertidos-copia-de-los-rescatadores-en-cangurolandia-pdf.pdf",
       "preview": null
     },
@@ -3146,7 +3146,7 @@
       "sizeBytes": 470502,
       "sizeLabel": "0,4 MB",
       "largeFile": false,
-      "assetName": "tl-183-material-de-trabajo-terapia-de-lenguaje-fichas-de-motricidad-fichas-de-grafomotricidad-pdf1.pdf",
+      "assetName": "tl-183-fichas-de-grafomotricidad.pdf",
       "localPath": "recursos/tl-183-material-de-trabajo-terapia-de-lenguaje-fichas-de-motricidad-fichas-de-grafomotricidad-pdf1.pdf",
       "preview": null
     },
@@ -3163,7 +3163,7 @@
       "sizeBytes": 681537,
       "sizeLabel": "0,6 MB",
       "largeFile": false,
-      "assetName": "tl-184-material-de-trabajo-terapia-de-lenguaje-fonema-r-pdf.pdf",
+      "assetName": "tl-184-fonema-r.pdf",
       "localPath": "recursos/tl-184-material-de-trabajo-terapia-de-lenguaje-fonema-r-pdf.pdf",
       "preview": null
     },
@@ -3180,7 +3180,7 @@
       "sizeBytes": 3348438,
       "sizeLabel": "3,2 MB",
       "largeFile": false,
-      "assetName": "tl-185-material-de-trabajo-terapia-de-lenguaje-grafomotricidad-4-anos-fichas-de-grafomotricidad-4-anos-pdf.pdf",
+      "assetName": "tl-185-fichas-de-grafomotricidad-4-a-os.pdf",
       "localPath": "recursos/tl-185-material-de-trabajo-terapia-de-lenguaje-grafomotricidad-4-anos-fichas-de-grafomotricidad-4-anos-pdf.pdf",
       "preview": null
     },
@@ -3197,7 +3197,7 @@
       "sizeBytes": 234001,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-186-material-de-trabajo-terapia-de-lenguaje-grafomotricidad-4-anos-fichas-de-grafomotricidad-4-anos-1-1-pdf.pdf",
+      "assetName": "tl-186-fichas-de-grafomotricidad-4-a-os-1-1.pdf",
       "localPath": "recursos/tl-186-material-de-trabajo-terapia-de-lenguaje-grafomotricidad-4-anos-fichas-de-grafomotricidad-4-anos-1-1-pdf.pdf",
       "preview": null
     },
@@ -3214,7 +3214,7 @@
       "sizeBytes": 6237184,
       "sizeLabel": "5,9 MB",
       "largeFile": false,
-      "assetName": "tl-187-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-07-fichas-cap-7-lectura-1a-etapa-ppt.ppt",
+      "assetName": "tl-187-07-fichas-cap-7-lectura-1a-etapa.ppt",
       "localPath": "recursos/tl-187-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-07-fichas-cap-7-lectura-1a-etapa-ppt.ppt",
       "preview": null
     },
@@ -3231,7 +3231,7 @@
       "sizeBytes": 5502976,
       "sizeLabel": "5,2 MB",
       "largeFile": false,
-      "assetName": "tl-188-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-08-fichas-cap-8-lectura-2a-etapa-ppt.ppt",
+      "assetName": "tl-188-08-fichas-cap-8-lectura-2a-etapa.ppt",
       "localPath": "recursos/tl-188-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-08-fichas-cap-8-lectura-2a-etapa-ppt.ppt",
       "preview": null
     },
@@ -3248,7 +3248,7 @@
       "sizeBytes": 2299392,
       "sizeLabel": "2,2 MB",
       "largeFile": false,
-      "assetName": "tl-189-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-09-fichas-cap-9-lectura-3a-etapa-ppt.ppt",
+      "assetName": "tl-189-09-fichas-cap-9-lectura-3a-etapa.ppt",
       "localPath": "recursos/tl-189-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-09-fichas-cap-9-lectura-3a-etapa-ppt.ppt",
       "preview": null
     },
@@ -3265,7 +3265,7 @@
       "sizeBytes": 3563008,
       "sizeLabel": "3,4 MB",
       "largeFile": false,
-      "assetName": "tl-190-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-11-fichas-cap-11-escritura-at-n-temprana-y-1a-etapa-ppt.ppt",
+      "assetName": "tl-190-11-fichas-cap-11-escritura-at-n-temprana-y-1a-etapa.ppt",
       "localPath": "recursos/tl-190-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-11-fichas-cap-11-escritura-at-n-temprana-y-1a-etapa-ppt.ppt",
       "preview": null
     },
@@ -3282,7 +3282,7 @@
       "sizeBytes": 5031936,
       "sizeLabel": "4,8 MB",
       "largeFile": false,
-      "assetName": "tl-191-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-12-fichas-cap-12-escritura-2a-etapa-ppt.ppt",
+      "assetName": "tl-191-12-fichas-cap-12-escritura-2a-etapa.ppt",
       "localPath": "recursos/tl-191-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-12-fichas-cap-12-escritura-2a-etapa-ppt.ppt",
       "preview": null
     },
@@ -3299,7 +3299,7 @@
       "sizeBytes": 1723737,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-192-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-manual-estudiantes-etapas-3y4-diarioeducacion-pdf.pdf",
+      "assetName": "tl-192-manual-estudiantes-etapas-3y4-diarioeducacion.pdf",
       "localPath": "recursos/tl-192-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-manual-estudiantes-etapas-3y4-diarioeducacion-pdf.pdf",
       "preview": null
     },
@@ -3316,7 +3316,7 @@
       "sizeBytes": 2056345,
       "sizeLabel": "2,0 MB",
       "largeFile": false,
-      "assetName": "tl-193-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-palabra-palabras-cuadernillo-alumno-1a-etapa-pdf.pdf",
+      "assetName": "tl-193-palabra-palabras-cuadernillo-alumno-1a-etapa.pdf",
       "localPath": "recursos/tl-193-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-palabra-palabras-cuadernillo-alumno-1a-etapa-pdf.pdf",
       "preview": null
     },
@@ -3333,7 +3333,7 @@
       "sizeBytes": 3550276,
       "sizeLabel": "3,4 MB",
       "largeFile": false,
-      "assetName": "tl-194-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-palabra-palabras-cuadernillo-alumno-2a-etapa-pdf.pdf",
+      "assetName": "tl-194-palabra-palabras-cuadernillo-alumno-2a-etapa.pdf",
       "localPath": "recursos/tl-194-material-de-trabajo-terapia-de-lenguaje-lecto-escritura-down-palabra-palabras-cuadernillo-alumno-2a-etapa-pdf.pdf",
       "preview": null
     },
@@ -3350,7 +3350,7 @@
       "sizeBytes": 3058432,
       "sizeLabel": "2,9 MB",
       "largeFile": false,
-      "assetName": "tl-195-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-abecedario-abc-fonologico-pdf.pdf",
+      "assetName": "tl-195-abecedario-abc-fonologico.pdf",
       "localPath": "recursos/tl-195-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-abecedario-abc-fonologico-pdf.pdf",
       "preview": null
     },
@@ -3367,7 +3367,7 @@
       "sizeBytes": 215739,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-196-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-cuentospraxias-pdf.pdf",
+      "assetName": "tl-196-cuentospraxias.pdf",
       "localPath": "recursos/tl-196-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-cuentospraxias-pdf.pdf",
       "preview": null
     },
@@ -3384,7 +3384,7 @@
       "sizeBytes": 12121624,
       "sizeLabel": "11,6 MB",
       "largeFile": false,
-      "assetName": "tl-197-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-dilodilo-2020-1-pdf.pdf",
+      "assetName": "tl-197-dilodilo-2020-1.pdf",
       "localPath": "recursos/tl-197-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-dilodilo-2020-1-pdf.pdf",
       "preview": null
     },
@@ -3401,7 +3401,7 @@
       "sizeBytes": 10447080,
       "sizeLabel": "10,0 MB",
       "largeFile": false,
-      "assetName": "tl-198-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-eral-ejercicios-repaso-audicion-y-lenguaje-pdf.pdf",
+      "assetName": "tl-198-eral-ejercicios-repaso-audicion-y-lenguaje.pdf",
       "localPath": "recursos/tl-198-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-eral-ejercicios-repaso-audicion-y-lenguaje-pdf.pdf",
       "preview": null
     },
@@ -3418,7 +3418,7 @@
       "sizeBytes": 38138899,
       "sizeLabel": "36,4 MB",
       "largeFile": false,
-      "assetName": "tl-199-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-estimulacion-pepito-pdf.pdf",
+      "assetName": "tl-199-estimulacion-pepito.pdf",
       "localPath": "recursos/tl-199-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-estimulacion-pepito-pdf.pdf",
       "preview": null
     },
@@ -3435,7 +3435,7 @@
       "sizeBytes": 34801000,
       "sizeLabel": "33,2 MB",
       "largeFile": false,
-      "assetName": "tl-200-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-guia-practica-terapia-de-lenguaje-pdf.pdf",
+      "assetName": "tl-200-guia-practica-terapia-de-lenguaje.pdf",
       "localPath": "recursos/tl-200-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-guia-practica-terapia-de-lenguaje-pdf.pdf",
       "preview": null
     },
@@ -3452,7 +3452,7 @@
       "sizeBytes": 2183879,
       "sizeLabel": "2,1 MB",
       "largeFile": false,
-      "assetName": "tl-201-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-juego-ruleta-praxias-orofaciales-pptx.pptx",
+      "assetName": "tl-201-juego-ruleta-praxias-orofaciales.pptx",
       "localPath": "recursos/tl-201-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-juego-ruleta-praxias-orofaciales-pptx.pptx",
       "preview": null
     },
@@ -3469,7 +3469,7 @@
       "sizeBytes": 2257408,
       "sizeLabel": "2,2 MB",
       "largeFile": false,
-      "assetName": "tl-202-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-praxias-buco-fonatorias-ppt.ppt",
+      "assetName": "tl-202-praxias-buco-fonatorias.ppt",
       "localPath": "recursos/tl-202-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-praxias-buco-fonatorias-ppt.ppt",
       "preview": null
     },
@@ -3486,7 +3486,7 @@
       "sizeBytes": 236638,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-203-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-praxias-reverso-tarjetas-pdf.pdf",
+      "assetName": "tl-203-praxias-reverso-tarjetas.pdf",
       "localPath": "recursos/tl-203-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-praxias-reverso-tarjetas-pdf.pdf",
       "preview": null
     },
@@ -3503,7 +3503,7 @@
       "sizeBytes": 1048556,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-204-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-praxias-tarjetas-pdf.pdf",
+      "assetName": "tl-204-praxias-tarjetas.pdf",
       "localPath": "recursos/tl-204-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-1-praxias-tarjetas-pdf.pdf",
       "preview": null
     },
@@ -3520,7 +3520,7 @@
       "sizeBytes": 8936559,
       "sizeLabel": "8,5 MB",
       "largeFile": false,
-      "assetName": "tl-205-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-juego-comecocos-parlanchines-docx.docx",
+      "assetName": "tl-205-juego-comecocos-parlanchines.docx",
       "localPath": "recursos/tl-205-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-juego-comecocos-parlanchines-docx.docx",
       "preview": null
     },
@@ -3537,7 +3537,7 @@
       "sizeBytes": 6632629,
       "sizeLabel": "6,3 MB",
       "largeFile": false,
-      "assetName": "tl-206-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-juego-comecocos-parlanchines-pdf.pdf",
+      "assetName": "tl-206-juego-comecocos-parlanchines.pdf",
       "localPath": "recursos/tl-206-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-juego-comecocos-parlanchines-pdf.pdf",
       "preview": null
     },
@@ -3554,7 +3554,7 @@
       "sizeBytes": 516370,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-207-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-memory-r-pdf.pdf",
+      "assetName": "tl-207-memory-r.pdf",
       "localPath": "recursos/tl-207-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-memory-r-pdf.pdf",
       "preview": null
     },
@@ -3571,7 +3571,7 @@
       "sizeBytes": 190656,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-208-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-memory-reverso-tarjetas-pdf.pdf",
+      "assetName": "tl-208-memory-reverso-tarjetas.pdf",
       "localPath": "recursos/tl-208-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-memory-reverso-tarjetas-pdf.pdf",
       "preview": null
     },
@@ -3588,7 +3588,7 @@
       "sizeBytes": 798022,
       "sizeLabel": "0,8 MB",
       "largeFile": false,
-      "assetName": "tl-209-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-memory-sinfones-l-pdf.pdf",
+      "assetName": "tl-209-memory-sinfones-l.pdf",
       "localPath": "recursos/tl-209-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-memory-sinfones-l-pdf.pdf",
       "preview": null
     },
@@ -3605,7 +3605,7 @@
       "sizeBytes": 1036138,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-210-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-memory-sinfones-r-pdf.pdf",
+      "assetName": "tl-210-memory-sinfones-r.pdf",
       "localPath": "recursos/tl-210-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-memory-sinfones-r-pdf.pdf",
       "preview": null
     },
@@ -3622,7 +3622,7 @@
       "sizeBytes": 1048556,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-211-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-praxias-tarjetas-pdf.pdf",
+      "assetName": "tl-211-praxias-tarjetas.pdf",
       "localPath": "recursos/tl-211-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-praxias-tarjetas-pdf.pdf",
       "preview": null
     },
@@ -3639,7 +3639,7 @@
       "sizeBytes": 2059776,
       "sizeLabel": "2,0 MB",
       "largeFile": false,
-      "assetName": "tl-212-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-registro-praxias-doc.doc",
+      "assetName": "tl-212-registro-praxias.doc",
       "localPath": "recursos/tl-212-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-registro-praxias-doc.doc",
       "preview": null
     },
@@ -3656,7 +3656,7 @@
       "sizeBytes": 210503,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-213-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-respiracion-reverso-tarjetas-pdf.pdf",
+      "assetName": "tl-213-respiracion-reverso-tarjetas.pdf",
       "localPath": "recursos/tl-213-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-respiracion-reverso-tarjetas-pdf.pdf",
       "preview": null
     },
@@ -3673,7 +3673,7 @@
       "sizeBytes": 289746,
       "sizeLabel": "0,3 MB",
       "largeFile": false,
-      "assetName": "tl-214-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-respiracion-tarjetas-pdf.pdf",
+      "assetName": "tl-214-respiracion-tarjetas.pdf",
       "localPath": "recursos/tl-214-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-respiracion-tarjetas-pdf.pdf",
       "preview": null
     },
@@ -3690,7 +3690,7 @@
       "sizeBytes": 186521,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-215-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-soplo-reverso-tarjetas-pdf.pdf",
+      "assetName": "tl-215-soplo-reverso-tarjetas.pdf",
       "localPath": "recursos/tl-215-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-soplo-reverso-tarjetas-pdf.pdf",
       "preview": null
     },
@@ -3707,7 +3707,7 @@
       "sizeBytes": 284497,
       "sizeLabel": "0,3 MB",
       "largeFile": false,
-      "assetName": "tl-216-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-soplo-tarjetas-pdf.pdf",
+      "assetName": "tl-216-soplo-tarjetas.pdf",
       "localPath": "recursos/tl-216-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-soplo-tarjetas-pdf.pdf",
       "preview": null
     },
@@ -3724,7 +3724,7 @@
       "sizeBytes": 380125,
       "sizeLabel": "0,4 MB",
       "largeFile": false,
-      "assetName": "tl-217-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-silabas-trabadas-pdf.pdf",
+      "assetName": "tl-217-tablero-silabas-trabadas.pdf",
       "localPath": "recursos/tl-217-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-silabas-trabadas-pdf.pdf",
       "preview": null
     },
@@ -3741,7 +3741,7 @@
       "sizeBytes": 704391,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-218-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-b-pdf.pdf",
+      "assetName": "tl-218-tablero-articulacion-fonema-b.pdf",
       "localPath": "recursos/tl-218-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-b-pdf.pdf",
       "preview": null
     },
@@ -3758,7 +3758,7 @@
       "sizeBytes": 720518,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-219-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-d-pdf.pdf",
+      "assetName": "tl-219-tablero-articulacion-fonema-d.pdf",
       "localPath": "recursos/tl-219-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-d-pdf.pdf",
       "preview": null
     },
@@ -3775,7 +3775,7 @@
       "sizeBytes": 748455,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-220-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-f-pdf.pdf",
+      "assetName": "tl-220-tablero-articulacion-fonema-f.pdf",
       "localPath": "recursos/tl-220-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-f-pdf.pdf",
       "preview": null
     },
@@ -3792,7 +3792,7 @@
       "sizeBytes": 717117,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-221-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-g-pdf.pdf",
+      "assetName": "tl-221-tablero-articulacion-fonema-g.pdf",
       "localPath": "recursos/tl-221-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-g-pdf.pdf",
       "preview": null
     },
@@ -3809,7 +3809,7 @@
       "sizeBytes": 745826,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-222-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-j-pdf.pdf",
+      "assetName": "tl-222-tablero-articulacion-fonema-j.pdf",
       "localPath": "recursos/tl-222-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-j-pdf.pdf",
       "preview": null
     },
@@ -3826,7 +3826,7 @@
       "sizeBytes": 728241,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-223-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-k-pdf.pdf",
+      "assetName": "tl-223-tablero-articulacion-fonema-k.pdf",
       "localPath": "recursos/tl-223-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-k-pdf.pdf",
       "preview": null
     },
@@ -3843,7 +3843,7 @@
       "sizeBytes": 721168,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-224-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-l-pdf.pdf",
+      "assetName": "tl-224-tablero-articulacion-fonema-l.pdf",
       "localPath": "recursos/tl-224-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-l-pdf.pdf",
       "preview": null
     },
@@ -3860,7 +3860,7 @@
       "sizeBytes": 678080,
       "sizeLabel": "0,6 MB",
       "largeFile": false,
-      "assetName": "tl-225-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-ll-pdf.pdf",
+      "assetName": "tl-225-tablero-articulacion-fonema-ll.pdf",
       "localPath": "recursos/tl-225-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-ll-pdf.pdf",
       "preview": null
     },
@@ -3877,7 +3877,7 @@
       "sizeBytes": 681627,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-226-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-m-pdf.pdf",
+      "assetName": "tl-226-tablero-articulacion-fonema-m.pdf",
       "localPath": "recursos/tl-226-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-m-pdf.pdf",
       "preview": null
     },
@@ -3894,7 +3894,7 @@
       "sizeBytes": 723695,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-227-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-n-pdf.pdf",
+      "assetName": "tl-227-tablero-articulacion-fonema-n.pdf",
       "localPath": "recursos/tl-227-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-n-pdf.pdf",
       "preview": null
     },
@@ -3911,7 +3911,7 @@
       "sizeBytes": 697620,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-228-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-ny-pdf.pdf",
+      "assetName": "tl-228-tablero-articulacion-fonema-ny.pdf",
       "localPath": "recursos/tl-228-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-ny-pdf.pdf",
       "preview": null
     },
@@ -3928,7 +3928,7 @@
       "sizeBytes": 694477,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-229-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-p-pdf.pdf",
+      "assetName": "tl-229-tablero-articulacion-fonema-p.pdf",
       "localPath": "recursos/tl-229-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-p-pdf.pdf",
       "preview": null
     },
@@ -3945,7 +3945,7 @@
       "sizeBytes": 678329,
       "sizeLabel": "0,6 MB",
       "largeFile": false,
-      "assetName": "tl-230-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-r-pdf.pdf",
+      "assetName": "tl-230-tablero-articulacion-fonema-r.pdf",
       "localPath": "recursos/tl-230-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-r-pdf.pdf",
       "preview": null
     },
@@ -3962,7 +3962,7 @@
       "sizeBytes": 756056,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-231-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-rr-pdf.pdf",
+      "assetName": "tl-231-tablero-articulacion-fonema-rr.pdf",
       "localPath": "recursos/tl-231-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-rr-pdf.pdf",
       "preview": null
     },
@@ -3979,7 +3979,7 @@
       "sizeBytes": 499905,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-232-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-s-docx.docx",
+      "assetName": "tl-232-tablero-articulacion-fonema-s.docx",
       "localPath": "recursos/tl-232-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-s-docx.docx",
       "preview": null
     },
@@ -3996,7 +3996,7 @@
       "sizeBytes": 700045,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-233-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-t-pdf.pdf",
+      "assetName": "tl-233-tablero-articulacion-fonema-t.pdf",
       "localPath": "recursos/tl-233-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-t-pdf.pdf",
       "preview": null
     },
@@ -4013,7 +4013,7 @@
       "sizeBytes": 720998,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-234-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-z-pdf.pdf",
+      "assetName": "tl-234-tablero-articulacion-fonema-z.pdf",
       "localPath": "recursos/tl-234-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-articulacion-fonema-z-pdf.pdf",
       "preview": null
     },
@@ -4030,7 +4030,7 @@
       "sizeBytes": 249355,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-235-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-parchis-pdf.pdf",
+      "assetName": "tl-235-tablero-parchis.pdf",
       "localPath": "recursos/tl-235-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-tablero-parchis-pdf.pdf",
       "preview": null
     },
@@ -4047,7 +4047,7 @@
       "sizeBytes": 46011,
       "sizeLabel": "0,0 MB",
       "largeFile": false,
-      "assetName": "tl-236-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-trabalenguas-r-simple-y-r-vibrante-pdf.pdf",
+      "assetName": "tl-236-trabalenguas-r-simple-y-r-vibrante.pdf",
       "localPath": "recursos/tl-236-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-trabalenguas-r-simple-y-r-vibrante-pdf.pdf",
       "preview": null
     },
@@ -4064,7 +4064,7 @@
       "sizeBytes": 177423,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-237-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-trabalenguas-sinfones-l-pdf.pdf",
+      "assetName": "tl-237-trabalenguas-sinfones-l.pdf",
       "localPath": "recursos/tl-237-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-trabalenguas-sinfones-l-pdf.pdf",
       "preview": null
     },
@@ -4081,7 +4081,7 @@
       "sizeBytes": 229197,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-238-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-trabalenguas-sinfones-r-pdf.pdf",
+      "assetName": "tl-238-trabalenguas-sinfones-r.pdf",
       "localPath": "recursos/tl-238-material-de-trabajo-terapia-de-lenguaje-lenguaje-carpeta-2-trabalenguas-sinfones-r-pdf.pdf",
       "preview": null
     },
@@ -4098,7 +4098,7 @@
       "sizeBytes": 291716,
       "sizeLabel": "0,3 MB",
       "largeFile": false,
-      "assetName": "tl-239-material-de-trabajo-terapia-de-lenguaje-lenguaje-i-anamnesis-pdf.pdf",
+      "assetName": "tl-239-anamnesis.pdf",
       "localPath": "recursos/tl-239-material-de-trabajo-terapia-de-lenguaje-lenguaje-i-anamnesis-pdf.pdf",
       "preview": null
     },
@@ -4115,7 +4115,7 @@
       "sizeBytes": 737107,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-240-material-de-trabajo-terapia-de-lenguaje-lenguaje-i-hitos-del-desarrollo-del-lenguaje-0-7-anos-por-ndl-pdf.pdf",
+      "assetName": "tl-240-hitos-del-desarrollo-del-lenguaje-0-7-a-os-por-ndl.pdf",
       "localPath": "recursos/tl-240-material-de-trabajo-terapia-de-lenguaje-lenguaje-i-hitos-del-desarrollo-del-lenguaje-0-7-anos-por-ndl-pdf.pdf",
       "preview": null
     },
@@ -4132,7 +4132,7 @@
       "sizeBytes": 1401919,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-241-material-de-trabajo-terapia-de-lenguaje-lenguaje-i-imprimir-para-el-cuaderno-modelo-i-pdf.pdf",
+      "assetName": "tl-241-imprimir-para-el-cuaderno-modelo-i.pdf",
       "localPath": "recursos/tl-241-material-de-trabajo-terapia-de-lenguaje-lenguaje-i-imprimir-para-el-cuaderno-modelo-i-pdf.pdf",
       "preview": null
     },
@@ -4149,7 +4149,7 @@
       "sizeBytes": 2340928,
       "sizeLabel": "2,2 MB",
       "largeFile": false,
-      "assetName": "tl-242-material-de-trabajo-terapia-de-lenguaje-lenguaje-i-laminas-de-onomatopeyas-pdf.pdf",
+      "assetName": "tl-242-l-minas-de-onomatopeyas.pdf",
       "localPath": "recursos/tl-242-material-de-trabajo-terapia-de-lenguaje-lenguaje-i-laminas-de-onomatopeyas-pdf.pdf",
       "preview": null
     },
@@ -4166,7 +4166,7 @@
       "sizeBytes": 695771,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-243-material-de-trabajo-terapia-de-lenguaje-lenguaje-i-onomatopeyas-y-posicion-tipo-pdf.pdf",
+      "assetName": "tl-243-onomatopeyas-y-posicion-tipo.pdf",
       "localPath": "recursos/tl-243-material-de-trabajo-terapia-de-lenguaje-lenguaje-i-onomatopeyas-y-posicion-tipo-pdf.pdf",
       "preview": null
     },
@@ -4183,7 +4183,7 @@
       "sizeBytes": 363426,
       "sizeLabel": "0,3 MB",
       "largeFile": false,
-      "assetName": "tl-244-material-de-trabajo-terapia-de-lenguaje-lenguaje-i-test-de-quiroz-completo-pdf.pdf",
+      "assetName": "tl-244-test-de-quiroz-completo.pdf",
       "localPath": "recursos/tl-244-material-de-trabajo-terapia-de-lenguaje-lenguaje-i-test-de-quiroz-completo-pdf.pdf",
       "preview": null
     },
@@ -4200,7 +4200,7 @@
       "sizeBytes": 5308209,
       "sizeLabel": "5,1 MB",
       "largeFile": false,
-      "assetName": "tl-245-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-9-material-vi-praxias-de-ninos-y-ninas-pdf.pdf",
+      "assetName": "tl-245-9-material-vi-praxias-de-ni-os-y-ni-as.pdf",
       "localPath": "recursos/tl-245-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-9-material-vi-praxias-de-ninos-y-ninas-pdf.pdf",
       "preview": null
     },
@@ -4217,7 +4217,7 @@
       "sizeBytes": 4395942,
       "sizeLabel": "4,2 MB",
       "largeFile": false,
-      "assetName": "tl-246-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-album-de-vocabulario-pdf.pdf",
+      "assetName": "tl-246-lbum-de-vocabulario.pdf",
       "localPath": "recursos/tl-246-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-album-de-vocabulario-pdf.pdf",
       "preview": null
     },
@@ -4234,7 +4234,7 @@
       "sizeBytes": 3629366,
       "sizeLabel": "3,5 MB",
       "largeFile": false,
-      "assetName": "tl-247-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-casitas-semanticas-pdf.pdf",
+      "assetName": "tl-247-casitas-semanticas.pdf",
       "localPath": "recursos/tl-247-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-casitas-semanticas-pdf.pdf",
       "preview": null
     },
@@ -4251,7 +4251,7 @@
       "sizeBytes": 4084335,
       "sizeLabel": "3,9 MB",
       "largeFile": false,
-      "assetName": "tl-248-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-cuadernillo-para-trabajo-en-ninos-2-3-anos-convertido-pdf.pdf",
+      "assetName": "tl-248-cuadernillo-para-trabajo-en-ni-os-2-3-a-os-convertido.pdf",
       "localPath": "recursos/tl-248-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-cuadernillo-para-trabajo-en-ninos-2-3-anos-convertido-pdf.pdf",
       "preview": null
     },
@@ -4268,7 +4268,7 @@
       "sizeBytes": 179263,
       "sizeLabel": "0,2 MB",
       "largeFile": false,
-      "assetName": "tl-249-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-ficha-del-test-de-melgar-pdf.pdf",
+      "assetName": "tl-249-ficha-del-test-de-melgar.pdf",
       "localPath": "recursos/tl-249-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-ficha-del-test-de-melgar-pdf.pdf",
       "preview": null
     },
@@ -4285,7 +4285,7 @@
       "sizeBytes": 2115100,
       "sizeLabel": "2,0 MB",
       "largeFile": false,
-      "assetName": "tl-250-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-imprimir-para-el-cuaderno-modelo-pdf.pdf",
+      "assetName": "tl-250-imprimir-para-el-cuaderno-modelo.pdf",
       "localPath": "recursos/tl-250-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-imprimir-para-el-cuaderno-modelo-pdf.pdf",
       "preview": null
     },
@@ -4302,7 +4302,7 @@
       "sizeBytes": 800246,
       "sizeLabel": "0,8 MB",
       "largeFile": false,
-      "assetName": "tl-251-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-material-para-estimular-praxias-pdf.pdf",
+      "assetName": "tl-251-material-para-estimular-praxias.pdf",
       "localPath": "recursos/tl-251-material-de-trabajo-terapia-de-lenguaje-lenguaje-ii-material-para-estimular-praxias-pdf.pdf",
       "preview": null
     },
@@ -4319,7 +4319,7 @@
       "sizeBytes": 5738158,
       "sizeLabel": "5,5 MB",
       "largeFile": false,
-      "assetName": "tl-252-material-de-trabajo-terapia-de-lenguaje-libros-coquito-clasico-1-pdf.pdf",
+      "assetName": "tl-252-coquito-clasico-1.pdf",
       "localPath": "recursos/tl-252-material-de-trabajo-terapia-de-lenguaje-libros-coquito-clasico-1-pdf.pdf",
       "preview": null
     },
@@ -4336,7 +4336,7 @@
       "sizeBytes": 4005900,
       "sizeLabel": "3,8 MB",
       "largeFile": false,
-      "assetName": "tl-253-material-de-trabajo-terapia-de-lenguaje-libros-coquito-escolar-1-pdf.pdf",
+      "assetName": "tl-253-coquito-escolar-1.pdf",
       "localPath": "recursos/tl-253-material-de-trabajo-terapia-de-lenguaje-libros-coquito-escolar-1-pdf.pdf",
       "preview": null
     },
@@ -4353,7 +4353,7 @@
       "sizeBytes": 21730557,
       "sizeLabel": "20,7 MB",
       "largeFile": false,
-      "assetName": "tl-254-material-de-trabajo-terapia-de-lenguaje-libros-coquito-prematematica-n3-1-pdf.pdf",
+      "assetName": "tl-254-coquito-prematematica-n3-1.pdf",
       "localPath": "recursos/tl-254-material-de-trabajo-terapia-de-lenguaje-libros-coquito-prematematica-n3-1-pdf.pdf",
       "preview": null
     },
@@ -4370,7 +4370,7 @@
       "sizeBytes": 3660426,
       "sizeLabel": "3,5 MB",
       "largeFile": false,
-      "assetName": "tl-255-material-de-trabajo-terapia-de-lenguaje-libros-coquito-razonamienti-verbal-3-1-pdf.pdf",
+      "assetName": "tl-255-coquito-razonamienti-verbal-3-1.pdf",
       "localPath": "recursos/tl-255-material-de-trabajo-terapia-de-lenguaje-libros-coquito-razonamienti-verbal-3-1-pdf.pdf",
       "preview": null
     },
@@ -4387,7 +4387,7 @@
       "sizeBytes": 4016945,
       "sizeLabel": "3,8 MB",
       "largeFile": false,
-      "assetName": "tl-256-material-de-trabajo-terapia-de-lenguaje-libros-coquito-pdf.pdf",
+      "assetName": "tl-256-coquito.pdf",
       "localPath": "recursos/tl-256-material-de-trabajo-terapia-de-lenguaje-libros-coquito-pdf.pdf",
       "preview": null
     },
@@ -4404,7 +4404,7 @@
       "sizeBytes": 20600256,
       "sizeLabel": "19,6 MB",
       "largeFile": false,
-      "assetName": "tl-257-material-de-trabajo-terapia-de-lenguaje-libros-cuaderno-1-razonamiento-logico-pdf.pdf",
+      "assetName": "tl-257-cuaderno-1-razonamiento-logico.pdf",
       "localPath": "recursos/tl-257-material-de-trabajo-terapia-de-lenguaje-libros-cuaderno-1-razonamiento-logico-pdf.pdf",
       "preview": null
     },
@@ -4421,7 +4421,7 @@
       "sizeBytes": 12117290,
       "sizeLabel": "11,6 MB",
       "largeFile": false,
-      "assetName": "tl-258-material-de-trabajo-terapia-de-lenguaje-libros-escritura-coquito-pdf.pdf",
+      "assetName": "tl-258-escritura-coquito.pdf",
       "localPath": "recursos/tl-258-material-de-trabajo-terapia-de-lenguaje-libros-escritura-coquito-pdf.pdf",
       "preview": null
     },
@@ -4438,7 +4438,7 @@
       "sizeBytes": 3785700,
       "sizeLabel": "3,6 MB",
       "largeFile": false,
-      "assetName": "tl-259-material-de-trabajo-terapia-de-lenguaje-libros-fichas-de-atencion-y-memoria-1-pdf.pdf",
+      "assetName": "tl-259-fichas-de-atencion-y-memoria-1.pdf",
       "localPath": "recursos/tl-259-material-de-trabajo-terapia-de-lenguaje-libros-fichas-de-atencion-y-memoria-1-pdf.pdf",
       "preview": null
     },
@@ -4455,7 +4455,7 @@
       "sizeBytes": 2391475,
       "sizeLabel": "2,3 MB",
       "largeFile": false,
-      "assetName": "tl-260-material-de-trabajo-terapia-de-lenguaje-libros-gimnasia-cerebral-pdf-pdf.pdf",
+      "assetName": "tl-260-gimnasia-cerebral-pdf.pdf",
       "localPath": "recursos/tl-260-material-de-trabajo-terapia-de-lenguaje-libros-gimnasia-cerebral-pdf-pdf.pdf",
       "preview": null
     },
@@ -4472,7 +4472,7 @@
       "sizeBytes": 6049273,
       "sizeLabel": "5,8 MB",
       "largeFile": false,
-      "assetName": "tl-261-material-de-trabajo-terapia-de-lenguaje-libros-manual-de-tecnicas-de-trabajo-intelectual-pdf.pdf",
+      "assetName": "tl-261-manual-de-tecnicas-de-trabajo-intelectual.pdf",
       "localPath": "recursos/tl-261-material-de-trabajo-terapia-de-lenguaje-libros-manual-de-tecnicas-de-trabajo-intelectual-pdf.pdf",
       "preview": null
     },
@@ -4489,7 +4489,7 @@
       "sizeBytes": 24726849,
       "sizeLabel": "23,6 MB",
       "largeFile": false,
-      "assetName": "tl-262-material-de-trabajo-terapia-de-lenguaje-libros-vamos-a-dibujar-pdf.pdf",
+      "assetName": "tl-262-vamos-a-dibujar.pdf",
       "localPath": "recursos/tl-262-material-de-trabajo-terapia-de-lenguaje-libros-vamos-a-dibujar-pdf.pdf",
       "preview": null
     },
@@ -4506,7 +4506,7 @@
       "sizeBytes": 5303273,
       "sizeLabel": "5,1 MB",
       "largeFile": false,
-      "assetName": "tl-263-material-de-trabajo-terapia-de-lenguaje-libros-varios-ejercicios-de-estimulacion-cognitiva-para-reforzar-la-memoria-pdf.pdf",
+      "assetName": "tl-263-varios-ejercicios-de-estimulaci-n-cognitiva-para-reforzar-la-memoria.pdf",
       "localPath": "recursos/tl-263-material-de-trabajo-terapia-de-lenguaje-libros-varios-ejercicios-de-estimulacion-cognitiva-para-reforzar-la-memoria-pdf.pdf",
       "preview": null
     },
@@ -4523,7 +4523,7 @@
       "sizeBytes": 2366155,
       "sizeLabel": "2,3 MB",
       "largeFile": false,
-      "assetName": "tl-264-material-de-trabajo-terapia-de-lenguaje-tartamudez-correos-electronicos-libro-disfemiaguiadeapoyo-definitivo-pdf.pdf",
+      "assetName": "tl-264-correos-electr-nicos-libro-disfemiaguiadeapoyo-definitivo.pdf",
       "localPath": "recursos/tl-264-material-de-trabajo-terapia-de-lenguaje-tartamudez-correos-electronicos-libro-disfemiaguiadeapoyo-definitivo-pdf.pdf",
       "preview": null
     },
@@ -4540,7 +4540,7 @@
       "sizeBytes": 332159,
       "sizeLabel": "0,3 MB",
       "largeFile": false,
-      "assetName": "tl-265-material-de-trabajo-terapia-de-lenguaje-tartamudez-ejercicios-para-trabajar-la-tartamudez-pdf.pdf",
+      "assetName": "tl-265-ejercicios-para-trabajar-la-tartamudez.pdf",
       "localPath": "recursos/tl-265-material-de-trabajo-terapia-de-lenguaje-tartamudez-ejercicios-para-trabajar-la-tartamudez-pdf.pdf",
       "preview": null
     },
@@ -4557,7 +4557,7 @@
       "sizeBytes": 600388,
       "sizeLabel": "0,6 MB",
       "largeFile": false,
-      "assetName": "tl-266-material-de-trabajo-terapia-de-lenguaje-tartamudez-terapia-global-pdf.pdf",
+      "assetName": "tl-266-terapia-global.pdf",
       "localPath": "recursos/tl-266-material-de-trabajo-terapia-de-lenguaje-tartamudez-terapia-global-pdf.pdf",
       "preview": null
     },
@@ -4574,7 +4574,7 @@
       "sizeBytes": 1117951,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-267-regalos-colorear-44-gatos-7p-pdf.pdf",
+      "assetName": "tl-267-44-gatos-7p.pdf",
       "localPath": "recursos/tl-267-regalos-colorear-44-gatos-7p-pdf.pdf",
       "preview": null
     },
@@ -4591,7 +4591,7 @@
       "sizeBytes": 719816,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-268-regalos-colorear-abby-hatcher-5-pdf.pdf",
+      "assetName": "tl-268-abby-hatcher-5.pdf",
       "localPath": "recursos/tl-268-regalos-colorear-abby-hatcher-5-pdf.pdf",
       "preview": null
     },
@@ -4608,7 +4608,7 @@
       "sizeBytes": 11549129,
       "sizeLabel": "11,0 MB",
       "largeFile": false,
-      "assetName": "tl-269-regalos-colorear-abc-colorear-pdf.pdf",
+      "assetName": "tl-269-abc-colorear.pdf",
       "localPath": "recursos/tl-269-regalos-colorear-abc-colorear-pdf.pdf",
       "preview": null
     },
@@ -4625,7 +4625,7 @@
       "sizeBytes": 1538243,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-270-regalos-colorear-abeja-maya-7-pdf.pdf",
+      "assetName": "tl-270-abeja-maya-7.pdf",
       "localPath": "recursos/tl-270-regalos-colorear-abeja-maya-7-pdf.pdf",
       "preview": null
     },
@@ -4642,7 +4642,7 @@
       "sizeBytes": 1054975,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-271-regalos-colorear-abominable-5-pdf.pdf",
+      "assetName": "tl-271-abominable-5.pdf",
       "localPath": "recursos/tl-271-regalos-colorear-abominable-5-pdf.pdf",
       "preview": null
     },
@@ -4659,7 +4659,7 @@
       "sizeBytes": 1760071,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-272-regalos-colorear-aladin-7-pdf.pdf",
+      "assetName": "tl-272-aladin-7.pdf",
       "localPath": "recursos/tl-272-regalos-colorear-aladin-7-pdf.pdf",
       "preview": null
     },
@@ -4676,7 +4676,7 @@
       "sizeBytes": 1629353,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-273-regalos-colorear-alicia-7-pdf.pdf",
+      "assetName": "tl-273-alicia-7.pdf",
       "localPath": "recursos/tl-273-regalos-colorear-alicia-7-pdf.pdf",
       "preview": null
     },
@@ -4693,7 +4693,7 @@
       "sizeBytes": 850168,
       "sizeLabel": "0,8 MB",
       "largeFile": false,
-      "assetName": "tl-274-regalos-colorear-alicia-en-el-pais-de-las-maravillas-pdf.pdf",
+      "assetName": "tl-274-alicia-en-el-pais-de-las-maravillas.pdf",
       "localPath": "recursos/tl-274-regalos-colorear-alicia-en-el-pais-de-las-maravillas-pdf.pdf",
       "preview": null
     },
@@ -4710,7 +4710,7 @@
       "sizeBytes": 482437,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-275-regalos-colorear-among-us-pdf.pdf",
+      "assetName": "tl-275-among-us.pdf",
       "localPath": "recursos/tl-275-regalos-colorear-among-us-pdf.pdf",
       "preview": null
     },
@@ -4727,7 +4727,7 @@
       "sizeBytes": 2680918,
       "sizeLabel": "2,6 MB",
       "largeFile": false,
-      "assetName": "tl-276-regalos-colorear-angelina-bailarina-pdf.pdf",
+      "assetName": "tl-276-angelina-bailarina.pdf",
       "localPath": "recursos/tl-276-regalos-colorear-angelina-bailarina-pdf.pdf",
       "preview": null
     },
@@ -4744,7 +4744,7 @@
       "sizeBytes": 1710574,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-277-regalos-colorear-angry-birds-33-pdf.pdf",
+      "assetName": "tl-277-angry-birds-33.pdf",
       "localPath": "recursos/tl-277-regalos-colorear-angry-birds-33-pdf.pdf",
       "preview": null
     },
@@ -4761,7 +4761,7 @@
       "sizeBytes": 1973117,
       "sizeLabel": "1,9 MB",
       "largeFile": false,
-      "assetName": "tl-278-regalos-colorear-angry-birds-7-pdf.pdf",
+      "assetName": "tl-278-angry-birds-7.pdf",
       "localPath": "recursos/tl-278-regalos-colorear-angry-birds-7-pdf.pdf",
       "preview": null
     },
@@ -4778,7 +4778,7 @@
       "sizeBytes": 2768415,
       "sizeLabel": "2,6 MB",
       "largeFile": false,
-      "assetName": "tl-279-regalos-colorear-animales-de-la-selva-pdf.pdf",
+      "assetName": "tl-279-animales-de-la-selva.pdf",
       "localPath": "recursos/tl-279-regalos-colorear-animales-de-la-selva-pdf.pdf",
       "preview": null
     },
@@ -4795,7 +4795,7 @@
       "sizeBytes": 6681181,
       "sizeLabel": "6,4 MB",
       "largeFile": false,
-      "assetName": "tl-280-regalos-colorear-avengers-15-pdf.pdf",
+      "assetName": "tl-280-avengers-15.pdf",
       "localPath": "recursos/tl-280-regalos-colorear-avengers-15-pdf.pdf",
       "preview": null
     },
@@ -4812,7 +4812,7 @@
       "sizeBytes": 1532899,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-281-regalos-colorear-avengers-10-pdf.pdf",
+      "assetName": "tl-281-avengers-10.pdf",
       "localPath": "recursos/tl-281-regalos-colorear-avengers-10-pdf.pdf",
       "preview": null
     },
@@ -4829,7 +4829,7 @@
       "sizeBytes": 1160221,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-282-regalos-colorear-baby-shark-friend-12-pdf.pdf",
+      "assetName": "tl-282-baby-shark-friend-12.pdf",
       "localPath": "recursos/tl-282-regalos-colorear-baby-shark-friend-12-pdf.pdf",
       "preview": null
     },
@@ -4846,7 +4846,7 @@
       "sizeBytes": 1832946,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-283-regalos-colorear-baby-shark-11-pdf.pdf",
+      "assetName": "tl-283-baby-shark-11.pdf",
       "localPath": "recursos/tl-283-regalos-colorear-baby-shark-11-pdf.pdf",
       "preview": null
     },
@@ -4863,7 +4863,7 @@
       "sizeBytes": 1340437,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-284-regalos-colorear-baby-tv-pdf.pdf",
+      "assetName": "tl-284-baby-tv.pdf",
       "localPath": "recursos/tl-284-regalos-colorear-baby-tv-pdf.pdf",
       "preview": null
     },
@@ -4880,7 +4880,7 @@
       "sizeBytes": 2177557,
       "sizeLabel": "2,1 MB",
       "largeFile": false,
-      "assetName": "tl-285-regalos-colorear-backyardigans-28-pdf.pdf",
+      "assetName": "tl-285-backyardigans-28.pdf",
       "localPath": "recursos/tl-285-regalos-colorear-backyardigans-28-pdf.pdf",
       "preview": null
     },
@@ -4897,7 +4897,7 @@
       "sizeBytes": 534869,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-286-regalos-colorear-backyardigans-7-pdf.pdf",
+      "assetName": "tl-286-backyardigans-7.pdf",
       "localPath": "recursos/tl-286-regalos-colorear-backyardigans-7-pdf.pdf",
       "preview": null
     },
@@ -4914,7 +4914,7 @@
       "sizeBytes": 1082176,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-287-regalos-colorear-ballerina-7-pdf.pdf",
+      "assetName": "tl-287-ballerina-7.pdf",
       "localPath": "recursos/tl-287-regalos-colorear-ballerina-7-pdf.pdf",
       "preview": null
     },
@@ -4931,7 +4931,7 @@
       "sizeBytes": 1854919,
       "sizeLabel": "1,8 MB",
       "largeFile": false,
-      "assetName": "tl-288-regalos-colorear-bamby-7-pdf.pdf",
+      "assetName": "tl-288-bamby-7.pdf",
       "localPath": "recursos/tl-288-regalos-colorear-bamby-7-pdf.pdf",
       "preview": null
     },
@@ -4948,7 +4948,7 @@
       "sizeBytes": 3179139,
       "sizeLabel": "3,0 MB",
       "largeFile": false,
-      "assetName": "tl-289-regalos-colorear-barbie-38-pdf.pdf",
+      "assetName": "tl-289-barbie-38.pdf",
       "localPath": "recursos/tl-289-regalos-colorear-barbie-38-pdf.pdf",
       "preview": null
     },
@@ -4965,7 +4965,7 @@
       "sizeBytes": 1597761,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-290-regalos-colorear-barbie-7-pdf.pdf",
+      "assetName": "tl-290-barbie-7.pdf",
       "localPath": "recursos/tl-290-regalos-colorear-barbie-7-pdf.pdf",
       "preview": null
     },
@@ -4982,7 +4982,7 @@
       "sizeBytes": 753682,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-291-regalos-colorear-batman-9-pdf.pdf",
+      "assetName": "tl-291-batman-9.pdf",
       "localPath": "recursos/tl-291-regalos-colorear-batman-9-pdf.pdf",
       "preview": null
     },
@@ -4999,7 +4999,7 @@
       "sizeBytes": 2282874,
       "sizeLabel": "2,2 MB",
       "largeFile": false,
-      "assetName": "tl-292-regalos-colorear-batman-35-pdf.pdf",
+      "assetName": "tl-292-batman-35.pdf",
       "localPath": "recursos/tl-292-regalos-colorear-batman-35-pdf.pdf",
       "preview": null
     },
@@ -5016,7 +5016,7 @@
       "sizeBytes": 1768765,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-293-regalos-colorear-batman-7-pdf.pdf",
+      "assetName": "tl-293-batman-7.pdf",
       "localPath": "recursos/tl-293-regalos-colorear-batman-7-pdf.pdf",
       "preview": null
     },
@@ -5033,7 +5033,7 @@
       "sizeBytes": 1617549,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-294-regalos-colorear-batman-pdf.pdf",
+      "assetName": "tl-294-batman.pdf",
       "localPath": "recursos/tl-294-regalos-colorear-batman-pdf.pdf",
       "preview": null
     },
@@ -5050,7 +5050,7 @@
       "sizeBytes": 2389250,
       "sizeLabel": "2,3 MB",
       "largeFile": false,
-      "assetName": "tl-295-regalos-colorear-bebes-llorones-22-pdf.pdf",
+      "assetName": "tl-295-beb-s-llorones-22.pdf",
       "localPath": "recursos/tl-295-regalos-colorear-bebes-llorones-22-pdf.pdf",
       "preview": null
     },
@@ -5067,7 +5067,7 @@
       "sizeBytes": 1201077,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-296-regalos-colorear-ben-10-6-pdf.pdf",
+      "assetName": "tl-296-ben-10-6.pdf",
       "localPath": "recursos/tl-296-regalos-colorear-ben-10-6-pdf.pdf",
       "preview": null
     },
@@ -5084,7 +5084,7 @@
       "sizeBytes": 1636076,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-297-regalos-colorear-ben-10-10-pdf.pdf",
+      "assetName": "tl-297-ben-10-10.pdf",
       "localPath": "recursos/tl-297-regalos-colorear-ben-10-10-pdf.pdf",
       "preview": null
     },
@@ -5101,7 +5101,7 @@
       "sizeBytes": 1863011,
       "sizeLabel": "1,8 MB",
       "largeFile": false,
-      "assetName": "tl-298-regalos-colorear-ben-10-26-pdf.pdf",
+      "assetName": "tl-298-ben-10-26.pdf",
       "localPath": "recursos/tl-298-regalos-colorear-ben-10-26-pdf.pdf",
       "preview": null
     },
@@ -5118,7 +5118,7 @@
       "sizeBytes": 1485699,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-299-regalos-colorear-blanca-nieves-7-pdf.pdf",
+      "assetName": "tl-299-blanca-nieves-7.pdf",
       "localPath": "recursos/tl-299-regalos-colorear-blanca-nieves-7-pdf.pdf",
       "preview": null
     },
@@ -5135,7 +5135,7 @@
       "sizeBytes": 2344137,
       "sizeLabel": "2,2 MB",
       "largeFile": false,
-      "assetName": "tl-300-regalos-colorear-blancanieves-pdf.pdf",
+      "assetName": "tl-300-blancanieves.pdf",
       "localPath": "recursos/tl-300-regalos-colorear-blancanieves-pdf.pdf",
       "preview": null
     },
@@ -5152,7 +5152,7 @@
       "sizeBytes": 1368518,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-301-regalos-colorear-bob-el-contructor-6-pdf.pdf",
+      "assetName": "tl-301-bob-el-contructor-6.pdf",
       "localPath": "recursos/tl-301-regalos-colorear-bob-el-contructor-6-pdf.pdf",
       "preview": null
     },
@@ -5169,7 +5169,7 @@
       "sizeBytes": 1205646,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-302-regalos-colorear-bob-esponja-14-pdf.pdf",
+      "assetName": "tl-302-bob-esponja-14.pdf",
       "localPath": "recursos/tl-302-regalos-colorear-bob-esponja-14-pdf.pdf",
       "preview": null
     },
@@ -5186,7 +5186,7 @@
       "sizeBytes": 813664,
       "sizeLabel": "0,8 MB",
       "largeFile": false,
-      "assetName": "tl-303-regalos-colorear-campanita-pdf.pdf",
+      "assetName": "tl-303-campanita.pdf",
       "localPath": "recursos/tl-303-regalos-colorear-campanita-pdf.pdf",
       "preview": null
     },
@@ -5203,7 +5203,7 @@
       "sizeBytes": 1906422,
       "sizeLabel": "1,8 MB",
       "largeFile": false,
-      "assetName": "tl-304-regalos-colorear-capitan-america-10-pdf.pdf",
+      "assetName": "tl-304-capitan-am-rica-10.pdf",
       "localPath": "recursos/tl-304-regalos-colorear-capitan-america-10-pdf.pdf",
       "preview": null
     },
@@ -5220,7 +5220,7 @@
       "sizeBytes": 1698427,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-305-regalos-colorear-cars-10-pdf.pdf",
+      "assetName": "tl-305-cars-10.pdf",
       "localPath": "recursos/tl-305-regalos-colorear-cars-10-pdf.pdf",
       "preview": null
     },
@@ -5237,7 +5237,7 @@
       "sizeBytes": 2190246,
       "sizeLabel": "2,1 MB",
       "largeFile": false,
-      "assetName": "tl-306-regalos-colorear-cars-14-pdf.pdf",
+      "assetName": "tl-306-cars-14.pdf",
       "localPath": "recursos/tl-306-regalos-colorear-cars-14-pdf.pdf",
       "preview": null
     },
@@ -5254,7 +5254,7 @@
       "sizeBytes": 1572407,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-307-regalos-colorear-cars-7-pdf.pdf",
+      "assetName": "tl-307-cars-7.pdf",
       "localPath": "recursos/tl-307-regalos-colorear-cars-7-pdf.pdf",
       "preview": null
     },
@@ -5271,7 +5271,7 @@
       "sizeBytes": 364708,
       "sizeLabel": "0,3 MB",
       "largeFile": false,
-      "assetName": "tl-308-regalos-colorear-cars-coloring-pdf.pdf",
+      "assetName": "tl-308-cars-coloring.pdf",
       "localPath": "recursos/tl-308-regalos-colorear-cars-coloring-pdf.pdf",
       "preview": null
     },
@@ -5288,7 +5288,7 @@
       "sizeBytes": 1097337,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-309-regalos-colorear-cars-8-pdf.pdf",
+      "assetName": "tl-309-cars-8.pdf",
       "localPath": "recursos/tl-309-regalos-colorear-cars-8-pdf.pdf",
       "preview": null
     },
@@ -5305,7 +5305,7 @@
       "sizeBytes": 3419001,
       "sizeLabel": "3,3 MB",
       "largeFile": false,
-      "assetName": "tl-310-regalos-colorear-dinosaurios-32-pdf.pdf",
+      "assetName": "tl-310-dinosaurios-32.pdf",
       "localPath": "recursos/tl-310-regalos-colorear-dinosaurios-32-pdf.pdf",
       "preview": null
     },
@@ -5322,7 +5322,7 @@
       "sizeBytes": 766105,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-311-regalos-colorear-dinosaurs-coloring-pdf.pdf",
+      "assetName": "tl-311-dinosaurs-coloring.pdf",
       "localPath": "recursos/tl-311-regalos-colorear-dinosaurs-coloring-pdf.pdf",
       "preview": null
     },
@@ -5339,7 +5339,7 @@
       "sizeBytes": 2123607,
       "sizeLabel": "2,0 MB",
       "largeFile": false,
-      "assetName": "tl-312-regalos-colorear-disney-13-pdf.pdf",
+      "assetName": "tl-312-disney-13.pdf",
       "localPath": "recursos/tl-312-regalos-colorear-disney-13-pdf.pdf",
       "preview": null
     },
@@ -5356,7 +5356,7 @@
       "sizeBytes": 3655735,
       "sizeLabel": "3,5 MB",
       "largeFile": false,
-      "assetName": "tl-313-regalos-colorear-disney-46-pdf.pdf",
+      "assetName": "tl-313-disney-46.pdf",
       "localPath": "recursos/tl-313-regalos-colorear-disney-46-pdf.pdf",
       "preview": null
     },
@@ -5373,7 +5373,7 @@
       "sizeBytes": 2689652,
       "sizeLabel": "2,6 MB",
       "largeFile": false,
-      "assetName": "tl-314-regalos-colorear-doctora-juguetes-30-pdf.pdf",
+      "assetName": "tl-314-doctora-juguetes-30.pdf",
       "localPath": "recursos/tl-314-regalos-colorear-doctora-juguetes-30-pdf.pdf",
       "preview": null
     },
@@ -5390,7 +5390,7 @@
       "sizeBytes": 2298312,
       "sizeLabel": "2,2 MB",
       "largeFile": false,
-      "assetName": "tl-315-regalos-colorear-donald-7-pdf.pdf",
+      "assetName": "tl-315-donald-7.pdf",
       "localPath": "recursos/tl-315-regalos-colorear-donald-7-pdf.pdf",
       "preview": null
     },
@@ -5407,7 +5407,7 @@
       "sizeBytes": 2158499,
       "sizeLabel": "2,1 MB",
       "largeFile": false,
-      "assetName": "tl-316-regalos-colorear-dora-7-pdf.pdf",
+      "assetName": "tl-316-dora-7.pdf",
       "localPath": "recursos/tl-316-regalos-colorear-dora-7-pdf.pdf",
       "preview": null
     },
@@ -5424,7 +5424,7 @@
       "sizeBytes": 1273418,
       "sizeLabel": "1,2 MB",
       "largeFile": false,
-      "assetName": "tl-317-regalos-colorear-dragon-ball-5-pdf.pdf",
+      "assetName": "tl-317-dragon-ball-5.pdf",
       "localPath": "recursos/tl-317-regalos-colorear-dragon-ball-5-pdf.pdf",
       "preview": null
     },
@@ -5441,7 +5441,7 @@
       "sizeBytes": 454050,
       "sizeLabel": "0,4 MB",
       "largeFile": false,
-      "assetName": "tl-318-regalos-colorear-emogggi-5-pdf.pdf",
+      "assetName": "tl-318-emogggi-5.pdf",
       "localPath": "recursos/tl-318-regalos-colorear-emogggi-5-pdf.pdf",
       "preview": null
     },
@@ -5458,7 +5458,7 @@
       "sizeBytes": 1682783,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-319-regalos-colorear-emojis-22-pdf.pdf",
+      "assetName": "tl-319-emojis-22.pdf",
       "localPath": "recursos/tl-319-regalos-colorear-emojis-22-pdf.pdf",
       "preview": null
     },
@@ -5475,7 +5475,7 @@
       "sizeBytes": 1150699,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-320-regalos-colorear-emojis-pdf.pdf",
+      "assetName": "tl-320-emojis.pdf",
       "localPath": "recursos/tl-320-regalos-colorear-emojis-pdf.pdf",
       "preview": null
     },
@@ -5492,7 +5492,7 @@
       "sizeBytes": 2731579,
       "sizeLabel": "2,6 MB",
       "largeFile": false,
-      "assetName": "tl-321-regalos-colorear-fancy-nancy-17-pdf.pdf",
+      "assetName": "tl-321-fancy-nancy-17.pdf",
       "localPath": "recursos/tl-321-regalos-colorear-fancy-nancy-17-pdf.pdf",
       "preview": null
     },
@@ -5509,7 +5509,7 @@
       "sizeBytes": 1282230,
       "sizeLabel": "1,2 MB",
       "largeFile": false,
-      "assetName": "tl-322-regalos-colorear-fancy-nancy-10-pdf.pdf",
+      "assetName": "tl-322-fancy-nancy-10.pdf",
       "localPath": "recursos/tl-322-regalos-colorear-fancy-nancy-10-pdf.pdf",
       "preview": null
     },
@@ -5526,7 +5526,7 @@
       "sizeBytes": 1455590,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-323-regalos-colorear-fortnite-10-pdf.pdf",
+      "assetName": "tl-323-fortnite-10.pdf",
       "localPath": "recursos/tl-323-regalos-colorear-fortnite-10-pdf.pdf",
       "preview": null
     },
@@ -5543,7 +5543,7 @@
       "sizeBytes": 2547871,
       "sizeLabel": "2,4 MB",
       "largeFile": false,
-      "assetName": "tl-324-regalos-colorear-fortnite-10-pdf.pdf",
+      "assetName": "tl-324-fortnite-10.pdf",
       "localPath": "recursos/tl-324-regalos-colorear-fortnite-10-pdf.pdf",
       "preview": null
     },
@@ -5560,7 +5560,7 @@
       "sizeBytes": 2237488,
       "sizeLabel": "2,1 MB",
       "largeFile": false,
-      "assetName": "tl-325-regalos-colorear-fortnite-20-pdf.pdf",
+      "assetName": "tl-325-fortnite-20.pdf",
       "localPath": "recursos/tl-325-regalos-colorear-fortnite-20-pdf.pdf",
       "preview": null
     },
@@ -5577,7 +5577,7 @@
       "sizeBytes": 1468183,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-326-regalos-colorear-free-fire-pdf.pdf",
+      "assetName": "tl-326-free-fire.pdf",
       "localPath": "recursos/tl-326-regalos-colorear-free-fire-pdf.pdf",
       "preview": null
     },
@@ -5594,7 +5594,7 @@
       "sizeBytes": 1370062,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-327-regalos-colorear-frozen-8-pdf.pdf",
+      "assetName": "tl-327-frozen-8.pdf",
       "localPath": "recursos/tl-327-regalos-colorear-frozen-8-pdf.pdf",
       "preview": null
     },
@@ -5611,7 +5611,7 @@
       "sizeBytes": 1687727,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-328-regalos-colorear-frozen-2-7-pdf.pdf",
+      "assetName": "tl-328-frozen-2-7.pdf",
       "localPath": "recursos/tl-328-regalos-colorear-frozen-2-7-pdf.pdf",
       "preview": null
     },
@@ -5628,7 +5628,7 @@
       "sizeBytes": 1272974,
       "sizeLabel": "1,2 MB",
       "largeFile": false,
-      "assetName": "tl-329-regalos-colorear-frozen-10-pdf.pdf",
+      "assetName": "tl-329-frozen-10.pdf",
       "localPath": "recursos/tl-329-regalos-colorear-frozen-10-pdf.pdf",
       "preview": null
     },
@@ -5645,7 +5645,7 @@
       "sizeBytes": 4299286,
       "sizeLabel": "4,1 MB",
       "largeFile": false,
-      "assetName": "tl-330-regalos-colorear-frozen-12-pdf.pdf",
+      "assetName": "tl-330-frozen-12.pdf",
       "localPath": "recursos/tl-330-regalos-colorear-frozen-12-pdf.pdf",
       "preview": null
     },
@@ -5662,7 +5662,7 @@
       "sizeBytes": 5742061,
       "sizeLabel": "5,5 MB",
       "largeFile": false,
-      "assetName": "tl-331-regalos-colorear-frozen-49-pdf.pdf",
+      "assetName": "tl-331-frozen-49.pdf",
       "localPath": "recursos/tl-331-regalos-colorear-frozen-49-pdf.pdf",
       "preview": null
     },
@@ -5679,7 +5679,7 @@
       "sizeBytes": 2405944,
       "sizeLabel": "2,3 MB",
       "largeFile": false,
-      "assetName": "tl-332-regalos-colorear-frozen-9-pdf.pdf",
+      "assetName": "tl-332-frozen-9.pdf",
       "localPath": "recursos/tl-332-regalos-colorear-frozen-9-pdf.pdf",
       "preview": null
     },
@@ -5696,7 +5696,7 @@
       "sizeBytes": 1273082,
       "sizeLabel": "1,2 MB",
       "largeFile": false,
-      "assetName": "tl-333-regalos-colorear-frozen-pdf.pdf",
+      "assetName": "tl-333-frozen.pdf",
       "localPath": "recursos/tl-333-regalos-colorear-frozen-pdf.pdf",
       "preview": null
     },
@@ -5713,7 +5713,7 @@
       "sizeBytes": 1478422,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-334-regalos-colorear-frutillitas-pdf.pdf",
+      "assetName": "tl-334-frutillitas.pdf",
       "localPath": "recursos/tl-334-regalos-colorear-frutillitas-pdf.pdf",
       "preview": null
     },
@@ -5730,7 +5730,7 @@
       "sizeBytes": 1495734,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-335-regalos-colorear-gallina-pintadita-15-pdf.pdf",
+      "assetName": "tl-335-gallina-pintadita-15.pdf",
       "localPath": "recursos/tl-335-regalos-colorear-gallina-pintadita-15-pdf.pdf",
       "preview": null
     },
@@ -5747,7 +5747,7 @@
       "sizeBytes": 1297249,
       "sizeLabel": "1,2 MB",
       "largeFile": false,
-      "assetName": "tl-336-regalos-colorear-gallina-pintadita-7-pdf.pdf",
+      "assetName": "tl-336-gallina-pintadita-7.pdf",
       "localPath": "recursos/tl-336-regalos-colorear-gallina-pintadita-7-pdf.pdf",
       "preview": null
     },
@@ -5764,7 +5764,7 @@
       "sizeBytes": 1542241,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-337-regalos-colorear-gallina-pintadita-pdf.pdf",
+      "assetName": "tl-337-gallina-pintadita.pdf",
       "localPath": "recursos/tl-337-regalos-colorear-gallina-pintadita-pdf.pdf",
       "preview": null
     },
@@ -5781,7 +5781,7 @@
       "sizeBytes": 1356993,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-338-regalos-colorear-gallinita-pintada-10-pdf.pdf",
+      "assetName": "tl-338-gallinita-pintada-10.pdf",
       "localPath": "recursos/tl-338-regalos-colorear-gallinita-pintada-10-pdf.pdf",
       "preview": null
     },
@@ -5798,7 +5798,7 @@
       "sizeBytes": 1552055,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-339-regalos-colorear-garfield-24-pdf.pdf",
+      "assetName": "tl-339-garfield-24.pdf",
       "localPath": "recursos/tl-339-regalos-colorear-garfield-24-pdf.pdf",
       "preview": null
     },
@@ -5815,7 +5815,7 @@
       "sizeBytes": 1327763,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-340-regalos-colorear-garfield-pdf.pdf",
+      "assetName": "tl-340-garfield.pdf",
       "localPath": "recursos/tl-340-regalos-colorear-garfield-pdf.pdf",
       "preview": null
     },
@@ -5832,7 +5832,7 @@
       "sizeBytes": 2058749,
       "sizeLabel": "2,0 MB",
       "largeFile": false,
-      "assetName": "tl-341-regalos-colorear-george-el-curioso-10-pdf.pdf",
+      "assetName": "tl-341-george-el-curioso-10.pdf",
       "localPath": "recursos/tl-341-regalos-colorear-george-el-curioso-10-pdf.pdf",
       "preview": null
     },
@@ -5849,7 +5849,7 @@
       "sizeBytes": 943087,
       "sizeLabel": "0,9 MB",
       "largeFile": false,
-      "assetName": "tl-342-regalos-colorear-gigantosaurio-5-pdf.pdf",
+      "assetName": "tl-342-gigantosaurio-5.pdf",
       "localPath": "recursos/tl-342-regalos-colorear-gigantosaurio-5-pdf.pdf",
       "preview": null
     },
@@ -5866,7 +5866,7 @@
       "sizeBytes": 1084957,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-343-regalos-colorear-granja-de-zenon-10-pdf.pdf",
+      "assetName": "tl-343-granja-de-zenon-10.pdf",
       "localPath": "recursos/tl-343-regalos-colorear-granja-de-zenon-10-pdf.pdf",
       "preview": null
     },
@@ -5883,7 +5883,7 @@
       "sizeBytes": 1438750,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-344-regalos-colorear-granja-pdf.pdf",
+      "assetName": "tl-344-granja.pdf",
       "localPath": "recursos/tl-344-regalos-colorear-granja-pdf.pdf",
       "preview": null
     },
@@ -5900,7 +5900,7 @@
       "sizeBytes": 1658448,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-345-regalos-colorear-gravity-falls-20-pdf.pdf",
+      "assetName": "tl-345-gravity-falls-20.pdf",
       "localPath": "recursos/tl-345-regalos-colorear-gravity-falls-20-pdf.pdf",
       "preview": null
     },
@@ -5917,7 +5917,7 @@
       "sizeBytes": 1295010,
       "sizeLabel": "1,2 MB",
       "largeFile": false,
-      "assetName": "tl-346-regalos-colorear-gumball-19-pdf.pdf",
+      "assetName": "tl-346-gumball-19.pdf",
       "localPath": "recursos/tl-346-regalos-colorear-gumball-19-pdf.pdf",
       "preview": null
     },
@@ -5934,7 +5934,7 @@
       "sizeBytes": 3611427,
       "sizeLabel": "3,4 MB",
       "largeFile": false,
-      "assetName": "tl-347-regalos-colorear-haloween-12-pdf.pdf",
+      "assetName": "tl-347-haloween-12.pdf",
       "localPath": "recursos/tl-347-regalos-colorear-haloween-12-pdf.pdf",
       "preview": null
     },
@@ -5951,7 +5951,7 @@
       "sizeBytes": 2596649,
       "sizeLabel": "2,5 MB",
       "largeFile": false,
-      "assetName": "tl-348-regalos-colorear-harry-potter-7-pdf.pdf",
+      "assetName": "tl-348-harry-potter-7.pdf",
       "localPath": "recursos/tl-348-regalos-colorear-harry-potter-7-pdf.pdf",
       "preview": null
     },
@@ -5968,7 +5968,7 @@
       "sizeBytes": 1074217,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-349-regalos-colorear-hello-kitty-19-pdf.pdf",
+      "assetName": "tl-349-hello-kitty-19.pdf",
       "localPath": "recursos/tl-349-regalos-colorear-hello-kitty-19-pdf.pdf",
       "preview": null
     },
@@ -5985,7 +5985,7 @@
       "sizeBytes": 1516719,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-350-regalos-colorear-hello-kitty-8-pdf.pdf",
+      "assetName": "tl-350-hello-kitty-8.pdf",
       "localPath": "recursos/tl-350-regalos-colorear-hello-kitty-8-pdf.pdf",
       "preview": null
     },
@@ -6002,7 +6002,7 @@
       "sizeBytes": 501518,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-351-regalos-colorear-henry-5-pdf.pdf",
+      "assetName": "tl-351-henry-5.pdf",
       "localPath": "recursos/tl-351-regalos-colorear-henry-5-pdf.pdf",
       "preview": null
     },
@@ -6019,7 +6019,7 @@
       "sizeBytes": 1508356,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-352-regalos-colorear-hora-de-aventuras-18-pdf.pdf",
+      "assetName": "tl-352-hora-de-aventuras-18.pdf",
       "localPath": "recursos/tl-352-regalos-colorear-hora-de-aventuras-18-pdf.pdf",
       "preview": null
     },
@@ -6036,7 +6036,7 @@
       "sizeBytes": 1951959,
       "sizeLabel": "1,9 MB",
       "largeFile": false,
-      "assetName": "tl-353-regalos-colorear-hot-weels-5-pdf.pdf",
+      "assetName": "tl-353-hot-weels-5.pdf",
       "localPath": "recursos/tl-353-regalos-colorear-hot-weels-5-pdf.pdf",
       "preview": null
     },
@@ -6053,7 +6053,7 @@
       "sizeBytes": 1681988,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-354-regalos-colorear-hotel-transylvania-21-pdf.pdf",
+      "assetName": "tl-354-hotel-transylvania-21.pdf",
       "localPath": "recursos/tl-354-regalos-colorear-hotel-transylvania-21-pdf.pdf",
       "preview": null
     },
@@ -6070,7 +6070,7 @@
       "sizeBytes": 844124,
       "sizeLabel": "0,8 MB",
       "largeFile": false,
-      "assetName": "tl-355-regalos-colorear-hull-pdf.pdf",
+      "assetName": "tl-355-hull.pdf",
       "localPath": "recursos/tl-355-regalos-colorear-hull-pdf.pdf",
       "preview": null
     },
@@ -6087,7 +6087,7 @@
       "sizeBytes": 2329017,
       "sizeLabel": "2,2 MB",
       "largeFile": false,
-      "assetName": "tl-356-regalos-colorear-jake-7-pdf.pdf",
+      "assetName": "tl-356-jake-7.pdf",
       "localPath": "recursos/tl-356-regalos-colorear-jake-7-pdf.pdf",
       "preview": null
     },
@@ -6104,7 +6104,7 @@
       "sizeBytes": 1035989,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-357-regalos-colorear-jefe-en-panales-10-pdf.pdf",
+      "assetName": "tl-357-jefe-en-pa-ales-10.pdf",
       "localPath": "recursos/tl-357-regalos-colorear-jefe-en-panales-10-pdf.pdf",
       "preview": null
     },
@@ -6121,7 +6121,7 @@
       "sizeBytes": 1406625,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-358-regalos-colorear-jorge-el-curioso-20-pdf.pdf",
+      "assetName": "tl-358-jorge-el-curioso-20.pdf",
       "localPath": "recursos/tl-358-regalos-colorear-jorge-el-curioso-20-pdf.pdf",
       "preview": null
     },
@@ -6138,7 +6138,7 @@
       "sizeBytes": 2480189,
       "sizeLabel": "2,4 MB",
       "largeFile": false,
-      "assetName": "tl-359-regalos-colorear-jurasic-10-pdf.pdf",
+      "assetName": "tl-359-jurasic-10.pdf",
       "localPath": "recursos/tl-359-regalos-colorear-jurasic-10-pdf.pdf",
       "preview": null
     },
@@ -6155,7 +6155,7 @@
       "sizeBytes": 1208266,
       "sizeLabel": "1,2 MB",
       "largeFile": false,
-      "assetName": "tl-360-regalos-colorear-kawai-colorear-pdf.pdf",
+      "assetName": "tl-360-kawai-colorear.pdf",
       "localPath": "recursos/tl-360-regalos-colorear-kawai-colorear-pdf.pdf",
       "preview": null
     },
@@ -6172,7 +6172,7 @@
       "sizeBytes": 4122970,
       "sizeLabel": "3,9 MB",
       "largeFile": false,
-      "assetName": "tl-361-regalos-colorear-kawaii-46-pdf.pdf",
+      "assetName": "tl-361-kawaii-46.pdf",
       "localPath": "recursos/tl-361-regalos-colorear-kawaii-46-pdf.pdf",
       "preview": null
     },
@@ -6189,7 +6189,7 @@
       "sizeBytes": 1418597,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-362-regalos-colorear-la-granja-de-zenon-13-pdf.pdf",
+      "assetName": "tl-362-la-granja-de-zen-n-13.pdf",
       "localPath": "recursos/tl-362-regalos-colorear-la-granja-de-zenon-13-pdf.pdf",
       "preview": null
     },
@@ -6206,7 +6206,7 @@
       "sizeBytes": 1610328,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-363-regalos-colorear-ladybug-7-pdf.pdf",
+      "assetName": "tl-363-ladybug-7.pdf",
       "localPath": "recursos/tl-363-regalos-colorear-ladybug-7-pdf.pdf",
       "preview": null
     },
@@ -6223,7 +6223,7 @@
       "sizeBytes": 1800072,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-364-regalos-colorear-libro-reyes-magos-pdf.pdf",
+      "assetName": "tl-364-libro-reyes-magos.pdf",
       "localPath": "recursos/tl-364-regalos-colorear-libro-reyes-magos-pdf.pdf",
       "preview": null
     },
@@ -6240,7 +6240,7 @@
       "sizeBytes": 1451230,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-365-regalos-colorear-lilo-y-stitch-31-pdf.pdf",
+      "assetName": "tl-365-lilo-y-stitch-31.pdf",
       "localPath": "recursos/tl-365-regalos-colorear-lilo-y-stitch-31-pdf.pdf",
       "preview": null
     },
@@ -6257,7 +6257,7 @@
       "sizeBytes": 496032,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-366-regalos-colorear-little-ponny-pdf.pdf",
+      "assetName": "tl-366-little-ponny.pdf",
       "localPath": "recursos/tl-366-regalos-colorear-little-ponny-pdf.pdf",
       "preview": null
     },
@@ -6274,7 +6274,7 @@
       "sizeBytes": 2274674,
       "sizeLabel": "2,2 MB",
       "largeFile": false,
-      "assetName": "tl-367-regalos-colorear-lol-22-pdf.pdf",
+      "assetName": "tl-367-lol-22.pdf",
       "localPath": "recursos/tl-367-regalos-colorear-lol-22-pdf.pdf",
       "preview": null
     },
@@ -6291,7 +6291,7 @@
       "sizeBytes": 738022,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-368-regalos-colorear-lol-5-pdf.pdf",
+      "assetName": "tl-368-lol-5.pdf",
       "localPath": "recursos/tl-368-regalos-colorear-lol-5-pdf.pdf",
       "preview": null
     },
@@ -6308,7 +6308,7 @@
       "sizeBytes": 2621744,
       "sizeLabel": "2,5 MB",
       "largeFile": false,
-      "assetName": "tl-369-regalos-colorear-lol-a5-pdf.pdf",
+      "assetName": "tl-369-lol-a5.pdf",
       "localPath": "recursos/tl-369-regalos-colorear-lol-a5-pdf.pdf",
       "preview": null
     },
@@ -6325,7 +6325,7 @@
       "sizeBytes": 1779783,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-370-regalos-colorear-lol-surprise-9-pdf.pdf",
+      "assetName": "tl-370-lol-surprise-9.pdf",
       "localPath": "recursos/tl-370-regalos-colorear-lol-surprise-9-pdf.pdf",
       "preview": null
     },
@@ -6342,7 +6342,7 @@
       "sizeBytes": 1175403,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-371-regalos-colorear-los-jovenes-titanes-en-accion-13-pdf.pdf",
+      "assetName": "tl-371-los-j-venes-titanes-en-acci-n-13.pdf",
       "localPath": "recursos/tl-371-regalos-colorear-los-jovenes-titanes-en-accion-13-pdf.pdf",
       "preview": null
     },
@@ -6359,7 +6359,7 @@
       "sizeBytes": 1976096,
       "sizeLabel": "1,9 MB",
       "largeFile": false,
-      "assetName": "tl-372-regalos-colorear-los-vengadores-pdf.pdf",
+      "assetName": "tl-372-los-vengadores.pdf",
       "localPath": "recursos/tl-372-regalos-colorear-los-vengadores-pdf.pdf",
       "preview": null
     },
@@ -6376,7 +6376,7 @@
       "sizeBytes": 1652012,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-373-regalos-colorear-madagascar-22-pdf.pdf",
+      "assetName": "tl-373-madagascar-22.pdf",
       "localPath": "recursos/tl-373-regalos-colorear-madagascar-22-pdf.pdf",
       "preview": null
     },
@@ -6393,7 +6393,7 @@
       "sizeBytes": 2684176,
       "sizeLabel": "2,6 MB",
       "largeFile": false,
-      "assetName": "tl-374-regalos-colorear-mandalas-infantiles-20-pdf.pdf",
+      "assetName": "tl-374-mandalas-infantiles-20.pdf",
       "localPath": "recursos/tl-374-regalos-colorear-mandalas-infantiles-20-pdf.pdf",
       "preview": null
     },
@@ -6410,7 +6410,7 @@
       "sizeBytes": 2446571,
       "sizeLabel": "2,3 MB",
       "largeFile": false,
-      "assetName": "tl-375-regalos-colorear-marbel-31-pdf.pdf",
+      "assetName": "tl-375-marbel-31.pdf",
       "localPath": "recursos/tl-375-regalos-colorear-marbel-31-pdf.pdf",
       "preview": null
     },
@@ -6427,7 +6427,7 @@
       "sizeBytes": 1660251,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-376-regalos-colorear-mario-10-pdf.pdf",
+      "assetName": "tl-376-mario-10.pdf",
       "localPath": "recursos/tl-376-regalos-colorear-mario-10-pdf.pdf",
       "preview": null
     },
@@ -6444,7 +6444,7 @@
       "sizeBytes": 1199654,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-377-regalos-colorear-mario-bross-10-pdf.pdf",
+      "assetName": "tl-377-mario-bross-10.pdf",
       "localPath": "recursos/tl-377-regalos-colorear-mario-bross-10-pdf.pdf",
       "preview": null
     },
@@ -6461,7 +6461,7 @@
       "sizeBytes": 1790120,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-378-regalos-colorear-mario-bross-16-pdf.pdf",
+      "assetName": "tl-378-mario-bross-16.pdf",
       "localPath": "recursos/tl-378-regalos-colorear-mario-bross-16-pdf.pdf",
       "preview": null
     },
@@ -6478,7 +6478,7 @@
       "sizeBytes": 1875902,
       "sizeLabel": "1,8 MB",
       "largeFile": false,
-      "assetName": "tl-379-regalos-colorear-masha-7-pdf.pdf",
+      "assetName": "tl-379-masha-7.pdf",
       "localPath": "recursos/tl-379-regalos-colorear-masha-7-pdf.pdf",
       "preview": null
     },
@@ -6495,7 +6495,7 @@
       "sizeBytes": 2060422,
       "sizeLabel": "2,0 MB",
       "largeFile": false,
-      "assetName": "tl-380-regalos-colorear-masha-y-el-oso-10-pdf.pdf",
+      "assetName": "tl-380-masha-y-el-oso-10.pdf",
       "localPath": "recursos/tl-380-regalos-colorear-masha-y-el-oso-10-pdf.pdf",
       "preview": null
     },
@@ -6512,7 +6512,7 @@
       "sizeBytes": 6242770,
       "sizeLabel": "6,0 MB",
       "largeFile": false,
-      "assetName": "tl-381-regalos-colorear-masha-y-el-oso-56-pdf.pdf",
+      "assetName": "tl-381-masha-y-el-oso-56.pdf",
       "localPath": "recursos/tl-381-regalos-colorear-masha-y-el-oso-56-pdf.pdf",
       "preview": null
     },
@@ -6529,7 +6529,7 @@
       "sizeBytes": 1134729,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-382-regalos-colorear-masha-y-el-oso-7-pdf.pdf",
+      "assetName": "tl-382-masha-y-el-oso-7.pdf",
       "localPath": "recursos/tl-382-regalos-colorear-masha-y-el-oso-7-pdf.pdf",
       "preview": null
     },
@@ -6546,7 +6546,7 @@
       "sizeBytes": 1762079,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-383-regalos-colorear-masha-y-el-oso-pdf.pdf",
+      "assetName": "tl-383-masha-y-el-oso.pdf",
       "localPath": "recursos/tl-383-regalos-colorear-masha-y-el-oso-pdf.pdf",
       "preview": null
     },
@@ -6563,7 +6563,7 @@
       "sizeBytes": 2995776,
       "sizeLabel": "2,9 MB",
       "largeFile": false,
-      "assetName": "tl-384-regalos-colorear-medialuna-12-pdf.pdf",
+      "assetName": "tl-384-medialuna-12.pdf",
       "localPath": "recursos/tl-384-regalos-colorear-medialuna-12-pdf.pdf",
       "preview": null
     },
@@ -6580,7 +6580,7 @@
       "sizeBytes": 843854,
       "sizeLabel": "0,8 MB",
       "largeFile": false,
-      "assetName": "tl-385-regalos-colorear-mermaid-12-pdf.pdf",
+      "assetName": "tl-385-mermaid-12.pdf",
       "localPath": "recursos/tl-385-regalos-colorear-mermaid-12-pdf.pdf",
       "preview": null
     },
@@ -6597,7 +6597,7 @@
       "sizeBytes": 4505743,
       "sizeLabel": "4,3 MB",
       "largeFile": false,
-      "assetName": "tl-386-regalos-colorear-mermaids-pdf.pdf",
+      "assetName": "tl-386-mermaids.pdf",
       "localPath": "recursos/tl-386-regalos-colorear-mermaids-pdf.pdf",
       "preview": null
     },
@@ -6614,7 +6614,7 @@
       "sizeBytes": 1431341,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-387-regalos-colorear-mickey-mouse-10-pdf.pdf",
+      "assetName": "tl-387-mickey-mouse-10.pdf",
       "localPath": "recursos/tl-387-regalos-colorear-mickey-mouse-10-pdf.pdf",
       "preview": null
     },
@@ -6631,7 +6631,7 @@
       "sizeBytes": 1376948,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-388-regalos-colorear-mickey-rojo-pdf.pdf",
+      "assetName": "tl-388-mickey-rojo.pdf",
       "localPath": "recursos/tl-388-regalos-colorear-mickey-rojo-pdf.pdf",
       "preview": null
     },
@@ -6648,7 +6648,7 @@
       "sizeBytes": 803013,
       "sizeLabel": "0,8 MB",
       "largeFile": false,
-      "assetName": "tl-389-regalos-colorear-mickey-pdf.pdf",
+      "assetName": "tl-389-mickey.pdf",
       "localPath": "recursos/tl-389-regalos-colorear-mickey-pdf.pdf",
       "preview": null
     },
@@ -6665,7 +6665,7 @@
       "sizeBytes": 1467707,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-390-regalos-colorear-miles-del-manana-pdf.pdf",
+      "assetName": "tl-390-miles-del-ma-ana.pdf",
       "localPath": "recursos/tl-390-regalos-colorear-miles-del-manana-pdf.pdf",
       "preview": null
     },
@@ -6682,7 +6682,7 @@
       "sizeBytes": 1829198,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-391-regalos-colorear-minecraf-11-pdf.pdf",
+      "assetName": "tl-391-minecraf-11.pdf",
       "localPath": "recursos/tl-391-regalos-colorear-minecraf-11-pdf.pdf",
       "preview": null
     },
@@ -6699,7 +6699,7 @@
       "sizeBytes": 2401516,
       "sizeLabel": "2,3 MB",
       "largeFile": false,
-      "assetName": "tl-392-regalos-colorear-minecraft-34-pdf.pdf",
+      "assetName": "tl-392-minecraft-34.pdf",
       "localPath": "recursos/tl-392-regalos-colorear-minecraft-34-pdf.pdf",
       "preview": null
     },
@@ -6716,7 +6716,7 @@
       "sizeBytes": 1172385,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-393-regalos-colorear-mini-beat-8-pdf.pdf",
+      "assetName": "tl-393-mini-beat-8.pdf",
       "localPath": "recursos/tl-393-regalos-colorear-mini-beat-8-pdf.pdf",
       "preview": null
     },
@@ -6733,7 +6733,7 @@
       "sizeBytes": 923461,
       "sizeLabel": "0,9 MB",
       "largeFile": false,
-      "assetName": "tl-394-regalos-colorear-mini-beat-power-rocket-8-pdf.pdf",
+      "assetName": "tl-394-mini-beat-power-rocket-8.pdf",
       "localPath": "recursos/tl-394-regalos-colorear-mini-beat-power-rocket-8-pdf.pdf",
       "preview": null
     },
@@ -6750,7 +6750,7 @@
       "sizeBytes": 959852,
       "sizeLabel": "0,9 MB",
       "largeFile": false,
-      "assetName": "tl-395-regalos-colorear-mini-beats-15-pdf.pdf",
+      "assetName": "tl-395-mini-beats-15.pdf",
       "localPath": "recursos/tl-395-regalos-colorear-mini-beats-15-pdf.pdf",
       "preview": null
     },
@@ -6767,7 +6767,7 @@
       "sizeBytes": 2466147,
       "sizeLabel": "2,4 MB",
       "largeFile": false,
-      "assetName": "tl-396-regalos-colorear-mini-beats-9-pdf.pdf",
+      "assetName": "tl-396-mini-beats-9.pdf",
       "localPath": "recursos/tl-396-regalos-colorear-mini-beats-9-pdf.pdf",
       "preview": null
     },
@@ -6784,7 +6784,7 @@
       "sizeBytes": 2702979,
       "sizeLabel": "2,6 MB",
       "largeFile": false,
-      "assetName": "tl-397-regalos-colorear-minions-30-pdf.pdf",
+      "assetName": "tl-397-minions-30.pdf",
       "localPath": "recursos/tl-397-regalos-colorear-minions-30-pdf.pdf",
       "preview": null
     },
@@ -6801,7 +6801,7 @@
       "sizeBytes": 1724996,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-398-regalos-colorear-minions-pdf.pdf",
+      "assetName": "tl-398-minions.pdf",
       "localPath": "recursos/tl-398-regalos-colorear-minions-pdf.pdf",
       "preview": null
     },
@@ -6818,7 +6818,7 @@
       "sizeBytes": 2447681,
       "sizeLabel": "2,3 MB",
       "largeFile": false,
-      "assetName": "tl-399-regalos-colorear-minnie-10-pdf.pdf",
+      "assetName": "tl-399-minnie-10.pdf",
       "localPath": "recursos/tl-399-regalos-colorear-minnie-10-pdf.pdf",
       "preview": null
     },
@@ -6835,7 +6835,7 @@
       "sizeBytes": 1234888,
       "sizeLabel": "1,2 MB",
       "largeFile": false,
-      "assetName": "tl-400-regalos-colorear-minnie-6-pdf.pdf",
+      "assetName": "tl-400-minnie-6.pdf",
       "localPath": "recursos/tl-400-regalos-colorear-minnie-6-pdf.pdf",
       "preview": null
     },
@@ -6852,7 +6852,7 @@
       "sizeBytes": 1449024,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-401-regalos-colorear-minnie-1-pdf.pdf",
+      "assetName": "tl-401-minnie-1.pdf",
       "localPath": "recursos/tl-401-regalos-colorear-minnie-1-pdf.pdf",
       "preview": null
     },
@@ -6869,7 +6869,7 @@
       "sizeBytes": 1456248,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-402-regalos-colorear-minnie-bebe-1-pdf.pdf",
+      "assetName": "tl-402-minnie-bebe-1.pdf",
       "localPath": "recursos/tl-402-regalos-colorear-minnie-bebe-1-pdf.pdf",
       "preview": null
     },
@@ -6886,7 +6886,7 @@
       "sizeBytes": 1476102,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-403-regalos-colorear-miraculous-11-pdf.pdf",
+      "assetName": "tl-403-miraculous-11.pdf",
       "localPath": "recursos/tl-403-regalos-colorear-miraculous-11-pdf.pdf",
       "preview": null
     },
@@ -6903,7 +6903,7 @@
       "sizeBytes": 1233594,
       "sizeLabel": "1,2 MB",
       "largeFile": false,
-      "assetName": "tl-404-regalos-colorear-moana-6-pdf.pdf",
+      "assetName": "tl-404-moana-6.pdf",
       "localPath": "recursos/tl-404-regalos-colorear-moana-6-pdf.pdf",
       "preview": null
     },
@@ -6920,7 +6920,7 @@
       "sizeBytes": 2602957,
       "sizeLabel": "2,5 MB",
       "largeFile": false,
-      "assetName": "tl-405-regalos-colorear-moana-7-pdf.pdf",
+      "assetName": "tl-405-moana-7.pdf",
       "localPath": "recursos/tl-405-regalos-colorear-moana-7-pdf.pdf",
       "preview": null
     },
@@ -6937,7 +6937,7 @@
       "sizeBytes": 1697158,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-406-regalos-colorear-moana-7-pdf.pdf",
+      "assetName": "tl-406-moana-7.pdf",
       "localPath": "recursos/tl-406-regalos-colorear-moana-7-pdf.pdf",
       "preview": null
     },
@@ -6954,7 +6954,7 @@
       "sizeBytes": 555644,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-407-regalos-colorear-monsters-12-pdf.pdf",
+      "assetName": "tl-407-monsters-12.pdf",
       "localPath": "recursos/tl-407-regalos-colorear-monsters-12-pdf.pdf",
       "preview": null
     },
@@ -6971,7 +6971,7 @@
       "sizeBytes": 4640233,
       "sizeLabel": "4,4 MB",
       "largeFile": false,
-      "assetName": "tl-408-regalos-colorear-monstruo-de-colores-pdf.pdf",
+      "assetName": "tl-408-monstruo-de-colores.pdf",
       "localPath": "recursos/tl-408-regalos-colorear-monstruo-de-colores-pdf.pdf",
       "preview": null
     },
@@ -6988,7 +6988,7 @@
       "sizeBytes": 1577367,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-409-regalos-colorear-naruto-10-pdf.pdf",
+      "assetName": "tl-409-naruto-10.pdf",
       "localPath": "recursos/tl-409-regalos-colorear-naruto-10-pdf.pdf",
       "preview": null
     },
@@ -7005,7 +7005,7 @@
       "sizeBytes": 1525412,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-410-regalos-colorear-navidad-8-pdf.pdf",
+      "assetName": "tl-410-navidad-8.pdf",
       "localPath": "recursos/tl-410-regalos-colorear-navidad-8-pdf.pdf",
       "preview": null
     },
@@ -7022,7 +7022,7 @@
       "sizeBytes": 1361612,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-411-regalos-colorear-navidad-pdf.pdf",
+      "assetName": "tl-411-navidad.pdf",
       "localPath": "recursos/tl-411-regalos-colorear-navidad-pdf.pdf",
       "preview": null
     },
@@ -7039,7 +7039,7 @@
       "sizeBytes": 1665692,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-412-regalos-colorear-nemo-7-pdf.pdf",
+      "assetName": "tl-412-nemo-7.pdf",
       "localPath": "recursos/tl-412-regalos-colorear-nemo-7-pdf.pdf",
       "preview": null
     },
@@ -7056,7 +7056,7 @@
       "sizeBytes": 1938593,
       "sizeLabel": "1,8 MB",
       "largeFile": false,
-      "assetName": "tl-413-regalos-colorear-ositos-carinositos-7-pdf.pdf",
+      "assetName": "tl-413-ositos-cari-ositos-7.pdf",
       "localPath": "recursos/tl-413-regalos-colorear-ositos-carinositos-7-pdf.pdf",
       "preview": null
     },
@@ -7073,7 +7073,7 @@
       "sizeBytes": 1519207,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-414-regalos-colorear-pantas-vs-zombie-10-pdf.pdf",
+      "assetName": "tl-414-pantas-vs-zombie-10.pdf",
       "localPath": "recursos/tl-414-regalos-colorear-pantas-vs-zombie-10-pdf.pdf",
       "preview": null
     },
@@ -7090,7 +7090,7 @@
       "sizeBytes": 829645,
       "sizeLabel": "0,8 MB",
       "largeFile": false,
-      "assetName": "tl-415-regalos-colorear-pantera-rosa-pdf.pdf",
+      "assetName": "tl-415-pantera-rosa.pdf",
       "localPath": "recursos/tl-415-regalos-colorear-pantera-rosa-pdf.pdf",
       "preview": null
     },
@@ -7107,7 +7107,7 @@
       "sizeBytes": 1599363,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-416-regalos-colorear-pascuas-9-pdf.pdf",
+      "assetName": "tl-416-pascuas-9.pdf",
       "localPath": "recursos/tl-416-regalos-colorear-pascuas-9-pdf.pdf",
       "preview": null
     },
@@ -7124,7 +7124,7 @@
       "sizeBytes": 925872,
       "sizeLabel": "0,9 MB",
       "largeFile": false,
-      "assetName": "tl-417-regalos-colorear-patitos-pdf.pdf",
+      "assetName": "tl-417-patitos.pdf",
       "localPath": "recursos/tl-417-regalos-colorear-patitos-pdf.pdf",
       "preview": null
     },
@@ -7141,7 +7141,7 @@
       "sizeBytes": 2671728,
       "sizeLabel": "2,5 MB",
       "largeFile": false,
-      "assetName": "tl-418-regalos-colorear-paw-patrol-16-pdf.pdf",
+      "assetName": "tl-418-paw-patrol-16.pdf",
       "localPath": "recursos/tl-418-regalos-colorear-paw-patrol-16-pdf.pdf",
       "preview": null
     },
@@ -7158,7 +7158,7 @@
       "sizeBytes": 2179815,
       "sizeLabel": "2,1 MB",
       "largeFile": false,
-      "assetName": "tl-419-regalos-colorear-paw-patrol-8-pdf.pdf",
+      "assetName": "tl-419-paw-patrol-8.pdf",
       "localPath": "recursos/tl-419-regalos-colorear-paw-patrol-8-pdf.pdf",
       "preview": null
     },
@@ -7175,7 +7175,7 @@
       "sizeBytes": 4274148,
       "sizeLabel": "4,1 MB",
       "largeFile": false,
-      "assetName": "tl-420-regalos-colorear-paw-patrol-41-pdf.pdf",
+      "assetName": "tl-420-paw-patrol-41.pdf",
       "localPath": "recursos/tl-420-regalos-colorear-paw-patrol-41-pdf.pdf",
       "preview": null
     },
@@ -7192,7 +7192,7 @@
       "sizeBytes": 1184400,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-421-regalos-colorear-peppa-george-pdf.pdf",
+      "assetName": "tl-421-peppa-george.pdf",
       "localPath": "recursos/tl-421-regalos-colorear-peppa-george-pdf.pdf",
       "preview": null
     },
@@ -7209,7 +7209,7 @@
       "sizeBytes": 2152883,
       "sizeLabel": "2,1 MB",
       "largeFile": false,
-      "assetName": "tl-422-regalos-colorear-peppa-pig-33-pdf.pdf",
+      "assetName": "tl-422-peppa-pig-33.pdf",
       "localPath": "recursos/tl-422-regalos-colorear-peppa-pig-33-pdf.pdf",
       "preview": null
     },
@@ -7226,7 +7226,7 @@
       "sizeBytes": 765275,
       "sizeLabel": "0,7 MB",
       "largeFile": false,
-      "assetName": "tl-423-regalos-colorear-peppa-pig-9-pdf.pdf",
+      "assetName": "tl-423-peppa-pig-9.pdf",
       "localPath": "recursos/tl-423-regalos-colorear-peppa-pig-9-pdf.pdf",
       "preview": null
     },
@@ -7243,7 +7243,7 @@
       "sizeBytes": 1462700,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-424-regalos-colorear-peppa-pig-1-pdf.pdf",
+      "assetName": "tl-424-peppa-pig-1.pdf",
       "localPath": "recursos/tl-424-regalos-colorear-peppa-pig-1-pdf.pdf",
       "preview": null
     },
@@ -7260,7 +7260,7 @@
       "sizeBytes": 903986,
       "sizeLabel": "0,9 MB",
       "largeFile": false,
-      "assetName": "tl-425-regalos-colorear-peppa-pig-3-pdf.pdf",
+      "assetName": "tl-425-peppa-pig-3.pdf",
       "localPath": "recursos/tl-425-regalos-colorear-peppa-pig-3-pdf.pdf",
       "preview": null
     },
@@ -7277,7 +7277,7 @@
       "sizeBytes": 1138438,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-426-regalos-colorear-petit-de-pakapaka-15-pdf.pdf",
+      "assetName": "tl-426-petit-de-pakapaka-15.pdf",
       "localPath": "recursos/tl-426-regalos-colorear-petit-de-pakapaka-15-pdf.pdf",
       "preview": null
     },
@@ -7294,7 +7294,7 @@
       "sizeBytes": 1669548,
       "sizeLabel": "1,6 MB",
       "largeFile": false,
-      "assetName": "tl-427-regalos-colorear-picapiedras-10-pdf.pdf",
+      "assetName": "tl-427-picapiedras-10.pdf",
       "localPath": "recursos/tl-427-regalos-colorear-picapiedras-10-pdf.pdf",
       "preview": null
     },
@@ -7311,7 +7311,7 @@
       "sizeBytes": 1508611,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-428-regalos-colorear-pinon-fijo-10-pdf.pdf",
+      "assetName": "tl-428-pi-n-fijo-10.pdf",
       "localPath": "recursos/tl-428-regalos-colorear-pinon-fijo-10-pdf.pdf",
       "preview": null
     },
@@ -7328,7 +7328,7 @@
       "sizeBytes": 1164417,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-429-regalos-colorear-pitufos-16-pdf.pdf",
+      "assetName": "tl-429-pitufos-16.pdf",
       "localPath": "recursos/tl-429-regalos-colorear-pitufos-16-pdf.pdf",
       "preview": null
     },
@@ -7345,7 +7345,7 @@
       "sizeBytes": 1378692,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-430-regalos-colorear-pj-masks-10-pdf.pdf",
+      "assetName": "tl-430-pj-masks-10.pdf",
       "localPath": "recursos/tl-430-regalos-colorear-pj-masks-10-pdf.pdf",
       "preview": null
     },
@@ -7362,7 +7362,7 @@
       "sizeBytes": 1773477,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-431-regalos-colorear-pjmasks-7-pdf.pdf",
+      "assetName": "tl-431-pjmasks-7.pdf",
       "localPath": "recursos/tl-431-regalos-colorear-pjmasks-7-pdf.pdf",
       "preview": null
     },
@@ -7379,7 +7379,7 @@
       "sizeBytes": 1519207,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-432-regalos-colorear-plantas-vs-zombies-10-pdf.pdf",
+      "assetName": "tl-432-plantas-vs-zombies-10.pdf",
       "localPath": "recursos/tl-432-regalos-colorear-plantas-vs-zombies-10-pdf.pdf",
       "preview": null
     },
@@ -7396,7 +7396,7 @@
       "sizeBytes": 2938881,
       "sizeLabel": "2,8 MB",
       "largeFile": false,
-      "assetName": "tl-433-regalos-colorear-plantas-vs-zombies-33-pdf.pdf",
+      "assetName": "tl-433-plantas-vs-zombies-33.pdf",
       "localPath": "recursos/tl-433-regalos-colorear-plantas-vs-zombies-33-pdf.pdf",
       "preview": null
     },
@@ -7413,7 +7413,7 @@
       "sizeBytes": 1002241,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-434-regalos-colorear-plim-plim-9-pdf.pdf",
+      "assetName": "tl-434-plim-plim-9.pdf",
       "localPath": "recursos/tl-434-regalos-colorear-plim-plim-9-pdf.pdf",
       "preview": null
     },
@@ -7430,7 +7430,7 @@
       "sizeBytes": 494928,
       "sizeLabel": "0,5 MB",
       "largeFile": false,
-      "assetName": "tl-435-regalos-colorear-pocoyo-7-pdf.pdf",
+      "assetName": "tl-435-pocoyo-7.pdf",
       "localPath": "recursos/tl-435-regalos-colorear-pocoyo-7-pdf.pdf",
       "preview": null
     },
@@ -7447,7 +7447,7 @@
       "sizeBytes": 2179882,
       "sizeLabel": "2,1 MB",
       "largeFile": false,
-      "assetName": "tl-436-regalos-colorear-pocoyo-44-pdf.pdf",
+      "assetName": "tl-436-pocoyo-44.pdf",
       "localPath": "recursos/tl-436-regalos-colorear-pocoyo-44-pdf.pdf",
       "preview": null
     },
@@ -7464,7 +7464,7 @@
       "sizeBytes": 1387449,
       "sizeLabel": "1,3 MB",
       "largeFile": false,
-      "assetName": "tl-437-regalos-colorear-pokemon-10-pdf.pdf",
+      "assetName": "tl-437-pokemon-10.pdf",
       "localPath": "recursos/tl-437-regalos-colorear-pokemon-10-pdf.pdf",
       "preview": null
     },
@@ -7481,7 +7481,7 @@
       "sizeBytes": 1100674,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-438-regalos-colorear-pokemon-9-pdf.pdf",
+      "assetName": "tl-438-pokemon-9.pdf",
       "localPath": "recursos/tl-438-regalos-colorear-pokemon-9-pdf.pdf",
       "preview": null
     },
@@ -7498,7 +7498,7 @@
       "sizeBytes": 2441825,
       "sizeLabel": "2,3 MB",
       "largeFile": false,
-      "assetName": "tl-439-regalos-colorear-poquemon-33-pdf.pdf",
+      "assetName": "tl-439-poqu-mon-33.pdf",
       "localPath": "recursos/tl-439-regalos-colorear-poquemon-33-pdf.pdf",
       "preview": null
     },
@@ -7515,7 +7515,7 @@
       "sizeBytes": 1143961,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-440-regalos-colorear-pororo-18-pdf.pdf",
+      "assetName": "tl-440-poror-18.pdf",
       "localPath": "recursos/tl-440-regalos-colorear-pororo-18-pdf.pdf",
       "preview": null
     },
@@ -7532,7 +7532,7 @@
       "sizeBytes": 2179427,
       "sizeLabel": "2,1 MB",
       "largeFile": false,
-      "assetName": "tl-441-regalos-colorear-power-ranger-13-pdf.pdf",
+      "assetName": "tl-441-power-ranger-13.pdf",
       "localPath": "recursos/tl-441-regalos-colorear-power-ranger-13-pdf.pdf",
       "preview": null
     },
@@ -7549,7 +7549,7 @@
       "sizeBytes": 1428847,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-442-regalos-colorear-princesa-sofia-15-pdf.pdf",
+      "assetName": "tl-442-princesa-sofia-15.pdf",
       "localPath": "recursos/tl-442-regalos-colorear-princesa-sofia-15-pdf.pdf",
       "preview": null
     },
@@ -7566,7 +7566,7 @@
       "sizeBytes": 2551998,
       "sizeLabel": "2,4 MB",
       "largeFile": false,
-      "assetName": "tl-443-regalos-colorear-princesas-26-pdf.pdf",
+      "assetName": "tl-443-princesas-26.pdf",
       "localPath": "recursos/tl-443-regalos-colorear-princesas-26-pdf.pdf",
       "preview": null
     },
@@ -7583,7 +7583,7 @@
       "sizeBytes": 3397810,
       "sizeLabel": "3,2 MB",
       "largeFile": false,
-      "assetName": "tl-444-regalos-colorear-princesas-disney-81-pdf.pdf",
+      "assetName": "tl-444-princesas-disney-81.pdf",
       "localPath": "recursos/tl-444-regalos-colorear-princesas-disney-81-pdf.pdf",
       "preview": null
     },
@@ -7600,7 +7600,7 @@
       "sizeBytes": 2844279,
       "sizeLabel": "2,7 MB",
       "largeFile": false,
-      "assetName": "tl-445-regalos-colorear-princesas-para-pintar-34-pdf.pdf",
+      "assetName": "tl-445-princesas-para-pintar-34.pdf",
       "localPath": "recursos/tl-445-regalos-colorear-princesas-para-pintar-34-pdf.pdf",
       "preview": null
     },
@@ -7617,7 +7617,7 @@
       "sizeBytes": 1834770,
       "sizeLabel": "1,7 MB",
       "largeFile": false,
-      "assetName": "tl-446-regalos-colorear-princesas-17-pdf.pdf",
+      "assetName": "tl-446-princesas-17.pdf",
       "localPath": "recursos/tl-446-regalos-colorear-princesas-17-pdf.pdf",
       "preview": null
     },
@@ -7634,7 +7634,7 @@
       "sizeBytes": 2053331,
       "sizeLabel": "2,0 MB",
       "largeFile": false,
-      "assetName": "tl-447-regalos-colorear-princesita-sofia-8-pdf.pdf",
+      "assetName": "tl-447-princesita-sofia-8.pdf",
       "localPath": "recursos/tl-447-regalos-colorear-princesita-sofia-8-pdf.pdf",
       "preview": null
     },
@@ -7651,7 +7651,7 @@
       "sizeBytes": 1509722,
       "sizeLabel": "1,4 MB",
       "largeFile": false,
-      "assetName": "tl-448-regalos-colorear-puppy-dog-10-pdf.pdf",
+      "assetName": "tl-448-puppy-dog-10.pdf",
       "localPath": "recursos/tl-448-regalos-colorear-puppy-dog-10-pdf.pdf",
       "preview": null
     },
@@ -7668,7 +7668,7 @@
       "sizeBytes": 2424017,
       "sizeLabel": "2,3 MB",
       "largeFile": false,
-      "assetName": "tl-449-regalos-colorear-puppy-dog-pals-8-pdf.pdf",
+      "assetName": "tl-449-puppy-dog-pals-8.pdf",
       "localPath": "recursos/tl-449-regalos-colorear-puppy-dog-pals-8-pdf.pdf",
       "preview": null
     },
@@ -7685,7 +7685,7 @@
       "sizeBytes": 1894345,
       "sizeLabel": "1,8 MB",
       "largeFile": false,
-      "assetName": "tl-450-regalos-colorear-rampuzel-7-pdf.pdf",
+      "assetName": "tl-450-rampuzel-7.pdf",
       "localPath": "recursos/tl-450-regalos-colorear-rampuzel-7-pdf.pdf",
       "preview": null
     },
@@ -7702,7 +7702,7 @@
       "sizeBytes": 2602578,
       "sizeLabel": "2,5 MB",
       "largeFile": false,
-      "assetName": "tl-451-regalos-colorear-rey-leon-7-pdf.pdf",
+      "assetName": "tl-451-rey-le-n-7.pdf",
       "localPath": "recursos/tl-451-regalos-colorear-rey-leon-7-pdf.pdf",
       "preview": null
     },
@@ -7719,7 +7719,7 @@
       "sizeBytes": 1185960,
       "sizeLabel": "1,1 MB",
       "largeFile": false,
-      "assetName": "tl-452-regalos-colorear-rey-leon-11-pdf.pdf",
+      "assetName": "tl-452-rey-le-n-11.pdf",
       "localPath": "recursos/tl-452-regalos-colorear-rey-leon-11-pdf.pdf",
       "preview": null
     },
@@ -7736,7 +7736,7 @@
       "sizeBytes": 2048837,
       "sizeLabel": "2,0 MB",
       "largeFile": false,
-      "assetName": "tl-453-regalos-colorear-toys-story-10-pdf.pdf",
+      "assetName": "tl-453-toys-story-10.pdf",
       "localPath": "recursos/tl-453-regalos-colorear-toys-story-10-pdf.pdf",
       "preview": null
     },
@@ -7753,7 +7753,7 @@
       "sizeBytes": 3809299,
       "sizeLabel": "3,6 MB",
       "largeFile": false,
-      "assetName": "tl-454-regalos-colorear-toys-story-55-pdf.pdf",
+      "assetName": "tl-454-toys-story-55.pdf",
       "localPath": "recursos/tl-454-regalos-colorear-toys-story-55-pdf.pdf",
       "preview": null
     },
@@ -7770,7 +7770,7 @@
       "sizeBytes": 5178297,
       "sizeLabel": "4,9 MB",
       "largeFile": false,
-      "assetName": "tl-455-regalos-colorear-trolls-28-pdf.pdf",
+      "assetName": "tl-455-trolls-28.pdf",
       "localPath": "recursos/tl-455-regalos-colorear-trolls-28-pdf.pdf",
       "preview": null
     },
@@ -7787,7 +7787,7 @@
       "sizeBytes": 3011974,
       "sizeLabel": "2,9 MB",
       "largeFile": false,
-      "assetName": "tl-456-regalos-colorear-unicorn-coloring-pdf.pdf",
+      "assetName": "tl-456-unicorn-coloring.pdf",
       "localPath": "recursos/tl-456-regalos-colorear-unicorn-coloring-pdf.pdf",
       "preview": null
     },
@@ -7804,7 +7804,7 @@
       "sizeBytes": 993148,
       "sizeLabel": "0,9 MB",
       "largeFile": false,
-      "assetName": "tl-457-regalos-colorear-unicornios-13-pdf.pdf",
+      "assetName": "tl-457-unicornios-13.pdf",
       "localPath": "recursos/tl-457-regalos-colorear-unicornios-13-pdf.pdf",
       "preview": null
     },
@@ -7821,7 +7821,7 @@
       "sizeBytes": 1068128,
       "sizeLabel": "1,0 MB",
       "largeFile": false,
-      "assetName": "tl-458-regalos-colorear-unicornios-9-pdf.pdf",
+      "assetName": "tl-458-unicornios-9.pdf",
       "localPath": "recursos/tl-458-regalos-colorear-unicornios-9-pdf.pdf",
       "preview": null
     },
@@ -7838,7 +7838,7 @@
       "sizeBytes": 1587519,
       "sizeLabel": "1,5 MB",
       "largeFile": false,
-      "assetName": "tl-459-regalos-colorear-up-7-pdf.pdf",
+      "assetName": "tl-459-up-7.pdf",
       "localPath": "recursos/tl-459-regalos-colorear-up-7-pdf.pdf",
       "preview": null
     },
@@ -7855,7 +7855,7 @@
       "sizeBytes": 30814804,
       "sizeLabel": "29,4 MB",
       "largeFile": false,
-      "assetName": "tl-460-regalos-cuentos-video-bambi-el-venado-mp4.mp4",
+      "assetName": "tl-460-bambi-el-venado.mp4",
       "localPath": "recursos/tl-460-regalos-cuentos-video-bambi-el-venado-mp4.mp4",
       "preview": null
     },
@@ -7872,7 +7872,7 @@
       "sizeBytes": 49816137,
       "sizeLabel": "47,5 MB",
       "largeFile": false,
-      "assetName": "tl-461-regalos-cuentos-video-cancion-infantil-mp4.mp4",
+      "assetName": "tl-461-canci-n-infantil.mp4",
       "localPath": "recursos/tl-461-regalos-cuentos-video-cancion-infantil-mp4.mp4",
       "preview": null
     },
@@ -7889,7 +7889,7 @@
       "sizeBytes": 10341849,
       "sizeLabel": "9,9 MB",
       "largeFile": false,
-      "assetName": "tl-462-regalos-cuentos-video-cortometraje-la-vida-facil-mp4.mp4",
+      "assetName": "tl-462-cortometraje-la-vida-facil.mp4",
       "localPath": "recursos/tl-462-regalos-cuentos-video-cortometraje-la-vida-facil-mp4.mp4",
       "preview": null
     },
@@ -7906,7 +7906,7 @@
       "sizeBytes": 9144979,
       "sizeLabel": "8,7 MB",
       "largeFile": false,
-      "assetName": "tl-463-regalos-cuentos-video-el-abuelo-y-el-nieto-mp4.mp4",
+      "assetName": "tl-463-el-abuelo-y-el-nieto.mp4",
       "localPath": "recursos/tl-463-regalos-cuentos-video-el-abuelo-y-el-nieto-mp4.mp4",
       "preview": null
     },
@@ -7923,7 +7923,7 @@
       "sizeBytes": 147972034,
       "sizeLabel": "141,1 MB",
       "largeFile": true,
-      "assetName": "tl-464-regalos-cuentos-video-el-cascanueces-mp4.mp4",
+      "assetName": "tl-464-el-cascanueces.mp4",
       "localPath": "recursos/tl-464-regalos-cuentos-video-el-cascanueces-mp4.mp4",
       "preview": null
     },
@@ -7940,7 +7940,7 @@
       "sizeBytes": 82786739,
       "sizeLabel": "79,0 MB",
       "largeFile": true,
-      "assetName": "tl-465-regalos-cuentos-video-el-verdadero-valor-de-la-amistad-mp4.mp4",
+      "assetName": "tl-465-el-verdadero-valor-de-la-amistad.mp4",
       "localPath": "recursos/tl-465-regalos-cuentos-video-el-verdadero-valor-de-la-amistad-mp4.mp4",
       "preview": null
     },
@@ -7957,7 +7957,7 @@
       "sizeBytes": 31837371,
       "sizeLabel": "30,4 MB",
       "largeFile": false,
-      "assetName": "tl-466-regalos-cuentos-video-el-viejo-arbol-mp4.mp4",
+      "assetName": "tl-466-el-viejo-rbol.mp4",
       "localPath": "recursos/tl-466-regalos-cuentos-video-el-viejo-arbol-mp4.mp4",
       "preview": null
     },
@@ -7974,7 +7974,7 @@
       "sizeBytes": 58451616,
       "sizeLabel": "55,7 MB",
       "largeFile": true,
-      "assetName": "tl-467-regalos-cuentos-video-el-zapatero-y-los-duendes-mp4.mp4",
+      "assetName": "tl-467-el-zapatero-y-los-duendes.mp4",
       "localPath": "recursos/tl-467-regalos-cuentos-video-el-zapatero-y-los-duendes-mp4.mp4",
       "preview": null
     },
@@ -7991,7 +7991,7 @@
       "sizeBytes": 56349136,
       "sizeLabel": "53,7 MB",
       "largeFile": true,
-      "assetName": "tl-468-regalos-cuentos-video-el-zorrito-y-la-ciguena-mp4.mp4",
+      "assetName": "tl-468-el-zorrito-y-la-cig-e-a.mp4",
       "localPath": "recursos/tl-468-regalos-cuentos-video-el-zorrito-y-la-ciguena-mp4.mp4",
       "preview": null
     },
@@ -8008,7 +8008,7 @@
       "sizeBytes": 36362393,
       "sizeLabel": "34,7 MB",
       "largeFile": false,
-      "assetName": "tl-469-regalos-cuentos-video-el-zorro-y-el-cuervo-mp4.mp4",
+      "assetName": "tl-469-el-zorro-y-el-cuervo.mp4",
       "localPath": "recursos/tl-469-regalos-cuentos-video-el-zorro-y-el-cuervo-mp4.mp4",
       "preview": null
     },
@@ -8025,7 +8025,7 @@
       "sizeBytes": 84040933,
       "sizeLabel": "80,1 MB",
       "largeFile": true,
-      "assetName": "tl-470-regalos-cuentos-video-jack-y-la-habichuelas-magicas-mp4.mp4",
+      "assetName": "tl-470-jack-y-la-habichuelas-m-gicas.mp4",
       "localPath": "recursos/tl-470-regalos-cuentos-video-jack-y-la-habichuelas-magicas-mp4.mp4",
       "preview": null
     },
@@ -8042,7 +8042,7 @@
       "sizeBytes": 115714512,
       "sizeLabel": "110,4 MB",
       "largeFile": true,
-      "assetName": "tl-471-regalos-cuentos-video-la-bella-y-la-bestia-mp4.mp4",
+      "assetName": "tl-471-la-bella-y-la-bestia.mp4",
       "localPath": "recursos/tl-471-regalos-cuentos-video-la-bella-y-la-bestia-mp4.mp4",
       "preview": null
     },
@@ -8059,7 +8059,7 @@
       "sizeBytes": 21959987,
       "sizeLabel": "20,9 MB",
       "largeFile": false,
-      "assetName": "tl-472-regalos-cuentos-video-la-leyenda-de-la-sirena-azul-mp4.mp4",
+      "assetName": "tl-472-la-leyenda-de-la-sirena-azul.mp4",
       "localPath": "recursos/tl-472-regalos-cuentos-video-la-leyenda-de-la-sirena-azul-mp4.mp4",
       "preview": null
     },
@@ -8076,7 +8076,7 @@
       "sizeBytes": 18213678,
       "sizeLabel": "17,4 MB",
       "largeFile": false,
-      "assetName": "tl-473-regalos-cuentos-video-la-nueva-serpiente-mp4.mp4",
+      "assetName": "tl-473-la-nueva-serpiente.mp4",
       "localPath": "recursos/tl-473-regalos-cuentos-video-la-nueva-serpiente-mp4.mp4",
       "preview": null
     },
@@ -8093,7 +8093,7 @@
       "sizeBytes": 70569984,
       "sizeLabel": "67,3 MB",
       "largeFile": true,
-      "assetName": "tl-474-regalos-cuentos-video-la-pequena-cerillera-mp4.mp4",
+      "assetName": "tl-474-la-peque-a-cerillera.mp4",
       "localPath": "recursos/tl-474-regalos-cuentos-video-la-pequena-cerillera-mp4.mp4",
       "preview": null
     },
@@ -8110,7 +8110,7 @@
       "sizeBytes": 36653629,
       "sizeLabel": "35,0 MB",
       "largeFile": false,
-      "assetName": "tl-475-regalos-cuentos-video-la-pequena-oruga-mp4.mp4",
+      "assetName": "tl-475-la-peque-a-oruga.mp4",
       "localPath": "recursos/tl-475-regalos-cuentos-video-la-pequena-oruga-mp4.mp4",
       "preview": null
     },
@@ -8127,7 +8127,7 @@
       "sizeBytes": 9815150,
       "sizeLabel": "9,4 MB",
       "largeFile": false,
-      "assetName": "tl-476-regalos-cuentos-video-la-ratita-presumida-mp4.mp4",
+      "assetName": "tl-476-la-ratita-presumida.mp4",
       "localPath": "recursos/tl-476-regalos-cuentos-video-la-ratita-presumida-mp4.mp4",
       "preview": null
     },
@@ -8144,7 +8144,7 @@
       "sizeBytes": 65304229,
       "sizeLabel": "62,3 MB",
       "largeFile": true,
-      "assetName": "tl-477-regalos-cuentos-video-la-tetera-mp4.mp4",
+      "assetName": "tl-477-la-tetera.mp4",
       "localPath": "recursos/tl-477-regalos-cuentos-video-la-tetera-mp4.mp4",
       "preview": null
     },
@@ -8161,7 +8161,7 @@
       "sizeBytes": 86294815,
       "sizeLabel": "82,3 MB",
       "largeFile": true,
-      "assetName": "tl-478-regalos-cuentos-video-las-doce-princesas-mp4.mp4",
+      "assetName": "tl-478-las-doce-princesas.mp4",
       "localPath": "recursos/tl-478-regalos-cuentos-video-las-doce-princesas-mp4.mp4",
       "preview": null
     },
@@ -8178,7 +8178,7 @@
       "sizeBytes": 17513684,
       "sizeLabel": "16,7 MB",
       "largeFile": false,
-      "assetName": "tl-479-regalos-cuentos-video-llevame-contigo-mp4.mp4",
+      "assetName": "tl-479-llevame-contigo.mp4",
       "localPath": "recursos/tl-479-regalos-cuentos-video-llevame-contigo-mp4.mp4",
       "preview": null
     }
