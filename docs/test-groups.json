@@ -1,0 +1,302 @@
+{
+  "version": "1.0",
+  "title": "Instrumentos de evaluación",
+  "totalGroups": 16,
+  "groups": [
+    {
+      "id": "test-componente-fonetico-fonologico-fon-evaluacion-fonologica-del-habla-infantil",
+      "name": "FON - Evaluación fonológica del habla infantil",
+      "component": "Componente fonético-fonológico",
+      "count": 3,
+      "sizeBytes": 12492231,
+      "resourceIds": [
+        "r-001-hojas-respuesta-laura-bosch",
+        "r-002-laminas-laura-bosch",
+        "r-003-manual-laura-bosch"
+      ],
+      "packageAsset": "tl-test-componente-fonetico-fonologico-fon-evaluacion-fonologica-del-habla-infantil.zip"
+    },
+    {
+      "id": "test-componente-fonetico-fonologico-peco-prueba-para-la-evaluacion-del-conocimiento-fonologico",
+      "name": "PECO - Prueba para la evaluación del conocimiento fonológico",
+      "component": "Componente fonético-fonológico",
+      "count": 2,
+      "sizeBytes": 52982667,
+      "resourceIds": [
+        "r-004-manual",
+        "r-005-prueba-y-hoja-de-registro"
+      ],
+      "packageAsset": "tl-test-componente-fonetico-fonologico-peco-prueba-para-la-evaluacion-del-conocimiento-fonologico.zip"
+    },
+    {
+      "id": "test-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino",
+      "name": "TSA - El desarrollo de la morfosintaxis en el NIÑO",
+      "component": "Componente fonético-fonológico",
+      "count": 5,
+      "sizeBytes": 162841267,
+      "resourceIds": [
+        "r-006-cuaderno-de-aplicacion-test-tsa",
+        "r-007-hoja-de-registro-test-tsa",
+        "r-008-manual-test-tsa",
+        "r-009-software",
+        "r-010-tsa-desarrollo-de-la-morfosintaxis-en-el-nino"
+      ],
+      "packageAsset": "tl-test-componente-fonetico-fonologico-tsa-el-desarrollo-de-la-morfosintaxis-en-el-nino.zip"
+    },
+    {
+      "id": "test-componente-pragmatico-itpa-aptitudes-psicolinguisticas",
+      "name": "ITPA - Aptitudes Psicolingüísticas",
+      "component": "Componente pragmático",
+      "count": 11,
+      "sizeBytes": 109909383,
+      "resourceIds": [
+        "r-011-1-comprension-auditiva-imprimir-doble-cara",
+        "r-012-2-comprension-visual-imprimir-1-cara",
+        "r-013-3-memoria-secuencial-visomotora-imprimir-1-cara",
+        "r-014-portada",
+        "r-015-10-expresion-motora",
+        "r-016-6-asociacion-visual-imprimir-doble-cara",
+        "r-017-8-expresion-verbal-imprimir-una-cara",
+        "r-018-9-integracion-gramatical-imprimir-una-cara",
+        "r-019-cuaderno-de-anotacion",
+        "r-020-manual-itpa",
+        "r-021-plantillas"
+      ],
+      "packageAsset": "tl-test-componente-pragmatico-itpa-aptitudes-psicolinguisticas.zip"
+    },
+    {
+      "id": "test-componente-pragmatico-itpa-3-habilidades-psicolinguisticas",
+      "name": "ITPA 3 - Habilidades psicolingüísticas",
+      "component": "Componente pragmático",
+      "count": 24,
+      "sizeBytes": 84305525,
+      "resourceIds": [
+        "r-022-01-pista-1",
+        "r-023-02-pista-2",
+        "r-024-03-pista-3",
+        "r-025-04-pista-4",
+        "r-026-05-pista-5",
+        "r-027-06-pista-6",
+        "r-028-07-pista-7",
+        "r-029-08-pista-8",
+        "r-030-09-pista-9",
+        "r-031-10-pista-10",
+        "r-032-11-pista-11",
+        "r-033-12-pista-12",
+        "r-034-13-pista-13",
+        "r-035-14-pista-14",
+        "r-036-15-pista-15",
+        "r-037-16-pista-16",
+        "r-038-17-pista-17",
+        "r-039-18-pista-18",
+        "r-040-19-pista-19",
+        "r-041-20-pista-20",
+        "r-042-21-pista-21",
+        "r-043-cuadernillo-de-registro-del-examinador",
+        "r-044-cuadernillo-de-respuestas-del-alumno",
+        "r-045-manual-itpa-3"
+      ],
+      "packageAsset": "tl-test-componente-pragmatico-itpa-3-habilidades-psicolinguisticas.zip"
+    },
+    {
+      "id": "test-componente-pragmatico-plon-r-prueba-del-lenguaje-oral-narrativa",
+      "name": "PLON - R - PRUEBA DEL LENGUAJE ORAL NARRATIVA",
+      "component": "Componente pragmático",
+      "count": 3,
+      "sizeBytes": 20825736,
+      "resourceIds": [
+        "r-046-plon-r-cuaderno-estimulos-compressed",
+        "r-047-plon-r-hojas-de-respuestas-compressed",
+        "r-048-plon-r-manual-compressed"
+      ],
+      "packageAsset": "tl-test-componente-pragmatico-plon-r-prueba-del-lenguaje-oral-narrativa.zip"
+    },
+    {
+      "id": "test-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m",
+      "name": "BOEHM-3 -Test Bohem de Conceptos Básicos - M",
+      "component": "Componente semántico",
+      "count": 5,
+      "sizeBytes": 26136960,
+      "resourceIds": [
+        "r-049-cuadernillo-de-consignas-de-aplicacion-test-boehm-3-compressed",
+        "r-050-cuadernillo-de-respuestas-test-boehm-3-compressed",
+        "r-051-hoja-de-registro-de-la-clase-1-test-boehm-3-compressed",
+        "r-052-hoja-de-registro-de-la-clase-2-test-boehm-3",
+        "r-053-manual-test-boehm-3-compressed"
+      ],
+      "packageAsset": "tl-test-componente-semantico-boehm-3-test-bohem-de-conceptos-basicos-m.zip"
+    },
+    {
+      "id": "test-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos",
+      "name": "BOEHM-3 Preescolar - Test Bohem de Conceptos Básicos",
+      "component": "Componente semántico",
+      "count": 6,
+      "sizeBytes": 40393063,
+      "resourceIds": [
+        "r-054-cuaderno-de-estimulos-test-boehm-3-preescolar",
+        "r-055-hoja-de-anotacion-test-boehm-3-preescolar",
+        "r-056-informe-para-los-padres-test-boehm-3-preescolar",
+        "r-057-manual-test-boehm-3-preescolar-compressed",
+        "r-058-portada-test-boehm-3-preescolar",
+        "r-059-rendimiento-del-nino-test-boehm-3-preescolar"
+      ],
+      "packageAsset": "tl-test-componente-semantico-boehm-3-preescolar-test-bohem-de-conceptos-basicos.zip"
+    },
+    {
+      "id": "test-componente-semantico-vocabulario-imagenes-peabody",
+      "name": "Vocabulario imagenes Peabody",
+      "component": "Componente semántico",
+      "count": 3,
+      "sizeBytes": 109650944,
+      "resourceIds": [
+        "r-060-hoja-de-respuestas",
+        "r-061-laminas",
+        "r-062-manual"
+      ],
+      "packageAsset": "tl-test-componente-semantico-vocabulario-imagenes-peabody.zip"
+    },
+    {
+      "id": "test-componente-sintactico-test-decomprension-verbal-token",
+      "name": "TEST DECOMPRENSION VERBAL TOKEN",
+      "component": "Componente sintáctico",
+      "count": 6,
+      "sizeBytes": 302731,
+      "resourceIds": [
+        "r-063-protocolo",
+        "r-064-tabla-token-test",
+        "r-065-test-lenguaje-comprensivo-token",
+        "r-066-token-test-1",
+        "r-067-token-test-2",
+        "r-068-voloraci-on-y-protocolos-token-test"
+      ],
+      "packageAsset": "tl-test-componente-sintactico-test-decomprension-verbal-token.zip"
+    },
+    {
+      "id": "test-otros-cumanes-cuestionario-de-madurez-neuropsicologica-escolar",
+      "name": "CUMANES - Cuestionario de maduréz Neuropsicológica Escolar",
+      "component": "Otros",
+      "count": 4,
+      "sizeBytes": 38097091,
+      "resourceIds": [
+        "r-069-cuaderno-de-estimulos",
+        "r-070-ejemplar",
+        "r-071-manual",
+        "r-072-protocolo"
+      ],
+      "packageAsset": "tl-test-otros-cumanes-cuestionario-de-madurez-neuropsicologica-escolar.zip"
+    },
+    {
+      "id": "test-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos",
+      "name": "CUMANIN- Cuestionario de madurez Neuropsicológica infantil (de 3 a 6 años)",
+      "component": "Otros",
+      "count": 10,
+      "sizeBytes": 54926018,
+      "resourceIds": [
+        "r-073-consideraciones",
+        "r-074-ficha-tecnica",
+        "r-075-hoja-con-agujero",
+        "r-076-laminas-a-color",
+        "r-077-laminas-cumanini",
+        "r-078-manual-1",
+        "r-079-manual-2",
+        "r-080-protocolo-1",
+        "r-081-protocolo-2",
+        "r-082-software"
+      ],
+      "packageAsset": "tl-test-otros-cumanin-cuestionario-de-madurez-neuropsicologica-infantil-de-3-a-6-anos.zip"
+    },
+    {
+      "id": "test-otros-eni-2-bateria-neuropsicologica-infantil",
+      "name": "ENI-2 - Batería Neuropsicológica Infantil",
+      "component": "Otros",
+      "count": 30,
+      "sizeBytes": 68702608,
+      "resourceIds": [
+        "r-083-1-manual-de-aplicacion-mp-98-1",
+        "r-084-1",
+        "r-085-10",
+        "r-086-11",
+        "r-087-12",
+        "r-088-2",
+        "r-089-3",
+        "r-090-4",
+        "r-091-5",
+        "r-092-6",
+        "r-093-7",
+        "r-094-8",
+        "r-095-9",
+        "r-096-01-pista-1",
+        "r-097-02-pista-2",
+        "r-098-03-pista-3",
+        "r-099-04-pista-4",
+        "r-100-05-pista-5",
+        "r-101-13-plantillas-de-calificacion-mp-98-13",
+        "r-102-2-compressed",
+        "r-103-3-compressed",
+        "r-104-4-historia-clinica-mp-98-4",
+        "r-105-5-cuestionario-para-padres-mp-98-5",
+        "r-106-6-compressed",
+        "r-107-8-libreta-de-puntajes-de-signosmp-98-8",
+        "r-108-90038",
+        "r-109-90039",
+        "r-110-90040",
+        "r-111-90041",
+        "r-112-9-juego-de-30-tarjetas-mp-98-9"
+      ],
+      "packageAsset": "tl-test-otros-eni-2-bateria-neuropsicologica-infantil.zip"
+    },
+    {
+      "id": "test-otros-taveci-test-de-aprendizaje-verbal-infantil",
+      "name": "TAVECI - Test de aprendizaje verbal infantil",
+      "component": "Otros",
+      "count": 3,
+      "sizeBytes": 187140818,
+      "resourceIds": [
+        "r-113-cuadernillo",
+        "r-114-manual",
+        "r-115-tablas"
+      ],
+      "packageAsset": "tl-test-otros-taveci-test-de-aprendizaje-verbal-infantil.zip"
+    },
+    {
+      "id": "test-otros-test-para-la-comprension-auditiva-del-lenguaje",
+      "name": "TEST PARA LA COMPRENSION AUDITIVA DEL LENGUAJE",
+      "component": "Otros",
+      "count": 2,
+      "sizeBytes": 15813614,
+      "resourceIds": [
+        "r-116-tecal-laminas",
+        "r-117-tecal-manual"
+      ],
+      "packageAsset": "tl-test-otros-test-para-la-comprension-auditiva-del-lenguaje.zip"
+    },
+    {
+      "id": "test-otros-wisc-iv-m",
+      "name": "WISC-IV - M",
+      "component": "Otros",
+      "count": 18,
+      "sizeBytes": 161829972,
+      "resourceIds": [
+        "r-118-claves-para-la-evaluacion-con-wisc-iv-manual-moderno",
+        "r-119-cuadernillo-respuestas-1-test-wisc-iv-manual-moderno-compressed",
+        "r-120-cuadernillo-respuestas-2-test-wisc-iv-manual-moderno-compressed",
+        "r-121-cuaderno-de-estimulos-1-test-wisc-iv-manual-moderno-compressed",
+        "r-122-cuaderno-de-estimulos-2-test-wisc-iv-manual-moderno-compressed",
+        "r-123-hipotesis-de-los-factores-del-wisc-compressed",
+        "r-124-hipotesis-de-los-factores-del-wisc",
+        "r-125-manual-test-wisc-iv-manual-moderno-form-alt",
+        "r-126-manual-test-wisc-iv-manual-moderno",
+        "r-127-plantillas-de-calificacion-test-wisc-iv-manual-moderno-compressed",
+        "r-128-plantillas-de-calificacion-test-wisc-iv-manual-moderno",
+        "r-129-protocolo-de-registro-test-wisc-iv-manual-moderno-compressed",
+        "r-130-protocolo-de-registro-test-wisc-iv-manual-moderno",
+        "r-131-registro",
+        "r-132-software",
+        "r-133-untitled-compressed",
+        "r-134-untitled-compressed",
+        "r-135-untitled-compressed"
+      ],
+      "packageAsset": "tl-test-otros-wisc-iv-m.zip"
+    }
+  ]
+}

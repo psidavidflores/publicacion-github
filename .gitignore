@@ -1,0 +1,7 @@
+# Los materiales originales y los assets de release no se guardan en el repositorio de la página.
+docs/recursos/*
+release-assets/
+*.zip
+*.7z
+*.rar
+*.tmp
